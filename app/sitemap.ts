@@ -4,25 +4,32 @@ import { getAllVenues } from '@/lib/venues'
 export default function sitemap(): MetadataRoute.Sitemap {
   const venues = getAllVenues()
   const baseUrl = 'https://gettothegate.com'
+  const now = new Date()
 
   const venueUrls = venues.map(venue => ({
     url: `${baseUrl}/parking/${venue.slug}/`,
-    lastModified: new Date(),
-    changeFrequency: 'weekly' as const,
+    lastModified: now,
+    changeFrequency: 'daily' as const,
     priority: 0.8,
   }))
 
   return [
     {
       url: baseUrl,
-      lastModified: new Date(),
-      changeFrequency: 'daily',
+      lastModified: now,
+      changeFrequency: 'daily' as const,
       priority: 1.0,
     },
     {
       url: `${baseUrl}/parking/`,
-      lastModified: new Date(),
-      changeFrequency: 'daily',
+      lastModified: now,
+      changeFrequency: 'daily' as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/airports/`,
+      lastModified: now,
+      changeFrequency: 'daily' as const,
       priority: 0.9,
     },
     ...venueUrls,
