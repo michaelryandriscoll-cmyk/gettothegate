@@ -612,5 +612,1419 @@
     "meta_description": "Find parking near Little Caesars Arena in Detroit for Pistons, Red Wings games and concerts. Compare lot prices and book in advance.",
     "stubhub_venue_id": "9047",
     "parkwhiz_search": "Little Caesars Arena Detroit"
+  },
+  {
+    "slug": "yankee-stadium",
+    "name": "Yankee Stadium",
+    "city": "Bronx",
+    "state": "NY",
+    "zip": "10451",
+    "address": "1 E 161st St, Bronx, NY 10451",
+    "lat": 40.8296,
+    "lng": -73.9262,
+    "capacity": 46537,
+    "type": "stadium",
+    "sport": "MLB",
+    "teams": ["New York Yankees"],
+    "event_frequency": "high",
+    "home_games_per_year": 81,
+    "parking_market": "excellent",
+    "neighborhoods": ["South Bronx", "Concourse", "Mott Haven"],
+    "transit": "4, B, and D subway lines — 161st St-Yankee Stadium stop is steps from the main gate. Fastest option by far.",
+    "parking_tips": "Yankee Stadium sits in the South Bronx with limited private parking — transit is the clear winner here. For drivers, private lots along River Ave and 161st St fill up fast. The Macombs Dam parking garage is the official option. Lots south toward 149th St are cheaper but add a longer walk. Book well in advance for playoff games and marquee series.",
+    "best_lots": "Lots along River Ave closest to Gate 4 offer best convenience. Private lots on 157th St are cheaper.",
+    "worst_lots": "Avoid unattended lots several blocks south — the walk in South Bronx at night is not ideal.",
+    "gates": ["Gate 2 (River Ave & 157th St)", "Gate 4 (River Ave & 161st St)", "Gate 6 (Ruppert Pl)"],
+    "arrive_recommendation": "75 minutes before first pitch for weekend games, 60 for weekdays — or just take the subway",
+    "faq": [
+      {
+        "q": "What is the best way to get to Yankee Stadium?",
+        "a": "The 4, B, and D subway lines all stop at 161st St-Yankee Stadium, steps from the main gate. It's faster than driving and cheaper than parking in the Bronx on game days."
+      },
+      {
+        "q": "How much does parking cost at Yankee Stadium?",
+        "a": "Official Macombs Dam garage runs $35-45. Private lots on River Ave and 157th St range from $20-35. Book online — walk-up prices surge for Yankees playoff games."
+      },
+      {
+        "q": "Is there cheap parking near Yankee Stadium?",
+        "a": "Private lots on 157th and 153rd St are 10-15 minutes walk and typically $15-25 cheaper than lots directly on River Ave. Book in advance for weekend games."
+      },
+      {
+        "q": "How early should I arrive for Yankees parking?",
+        "a": "75 minutes before first pitch for weekend games and big series. Lots on River Ave fill within an hour of the game. Weekday games have slightly better availability."
+      }
+    ],
+    "meta_title": "Yankee Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near Yankee Stadium in the Bronx. Compare lot prices, get subway tips, and book before game day.",
+    "stubhub_venue_id": "9018",
+    "parkwhiz_search": "Yankee Stadium Bronx"
+  },
+  {
+    "slug": "citi-field",
+    "name": "Citi Field",
+    "city": "Flushing",
+    "state": "NY",
+    "zip": "11368",
+    "address": "41 Seaver Way, Flushing, NY 11368",
+    "lat": 40.7571,
+    "lng": -73.8458,
+    "capacity": 41922,
+    "type": "stadium",
+    "sport": "MLB",
+    "teams": ["New York Mets"],
+    "event_frequency": "high",
+    "home_games_per_year": 81,
+    "parking_market": "excellent",
+    "neighborhoods": ["Flushing", "Corona", "Willets Point"],
+    "transit": "7 subway line — Mets-Willets Point stop is adjacent to the stadium. Direct from Times Square in 35 minutes.",
+    "parking_tips": "Citi Field has large official parking lots but private lots in the surrounding Willets Point area offer significant savings. The lots north of Northern Blvd and west toward Shea Road are cheaper than official lots directly adjacent. The 7 train from Times Square takes 35 minutes and drops you right at the stadium — strongly recommended for Manhattan fans.",
+    "best_lots": "Private lots on 126th St and Northern Blvd offer best value. Official Lot C is closest for a premium.",
+    "worst_lots": "Official premium lots directly adjacent to home plate gate charge highest prices.",
+    "gates": ["Home Plate Gate (Seaver Way)", "Jackie Robinson Rotunda (Roosevelt Ave)", "Center Field Gate (Shea Rd)"],
+    "arrive_recommendation": "75 minutes before first pitch for weekend games",
+    "faq": [
+      {
+        "q": "What is the best transit option to Citi Field?",
+        "a": "The 7 subway line stops at Mets-Willets Point, right next to the stadium. Direct from Times Square in about 35 minutes — by far the easiest option from Manhattan."
+      },
+      {
+        "q": "How much does parking cost at Citi Field?",
+        "a": "Official Mets lots run $25-40. Private lots nearby on Northern Blvd and 126th St typically run $15-25. Book online to lock in rates before prices surge."
+      },
+      {
+        "q": "Is there parking near Citi Field without paying official prices?",
+        "a": "Yes — Willets Point has private lots that undercut official Mets parking by $10-15. Walk is slightly longer but usually worth the savings for a full-season ticket holder."
+      }
+    ],
+    "meta_title": "Citi Field Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near Citi Field in Queens. Compare Mets lot prices vs private lots and book before game day.",
+    "stubhub_venue_id": "9020",
+    "parkwhiz_search": "Citi Field Flushing New York"
+  },
+  {
+    "slug": "barclays-center",
+    "name": "Barclays Center",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11217",
+    "address": "620 Atlantic Ave, Brooklyn, NY 11217",
+    "lat": 40.6826,
+    "lng": -73.9754,
+    "capacity": 17732,
+    "type": "arena",
+    "sport": "NBA/NHL/Concerts",
+    "teams": ["Brooklyn Nets", "New York Islanders"],
+    "event_frequency": "very_high",
+    "home_games_per_year": 82,
+    "parking_market": "excellent",
+    "neighborhoods": ["Prospect Heights", "Park Slope", "Fort Greene", "Atlantic Terminal"],
+    "transit": "Atlantic Terminal — 2, 3, 4, 5, B, D, N, Q, R subway lines. One of the best-served venues in NYC.",
+    "parking_tips": "Barclays Center is one of the best-served transit hubs in NYC — multiple subway lines converge at Atlantic Terminal directly below the arena. Driving to Brooklyn for events is strongly discouraged. If you must drive, private garages along Flatbush Ave and Atlantic Ave have the closest inventory. Book days in advance for Nets playoffs and major concerts.",
+    "best_lots": "Garages on Flatbush Ave near the arena offer best proximity. Atlantic Terminal Mall garage is attached.",
+    "worst_lots": "Street parking in surrounding neighborhoods is residential permit-restricted — do not rely on it.",
+    "gates": ["Main Entrance (Atlantic Ave)", "North Entrance (Flatbush Ave)"],
+    "arrive_recommendation": "60 minutes before — or just take the subway",
+    "faq": [
+      {
+        "q": "Should I drive to Barclays Center?",
+        "a": "No — nine subway lines stop at Atlantic Terminal directly below the arena. Transit is dramatically faster, cheaper, and less stressful than driving in Brooklyn."
+      },
+      {
+        "q": "How much is parking near Barclays Center?",
+        "a": "Private garages near the arena run $30-55 for events. The Atlantic Terminal Mall garage is attached but fills fast. Book online — NYC garage rates spike heavily on big event nights."
+      },
+      {
+        "q": "Which subway lines go to Barclays Center?",
+        "a": "The 2, 3, 4, 5, B, D, N, Q, and R lines all stop at Atlantic Terminal/Atlantic Ave-Barclays Ctr. Multiple options from any borough."
+      }
+    ],
+    "meta_title": "Barclays Center Parking — Nets, Islanders & Concert Parking | GetToTheGate",
+    "meta_description": "Find parking near Barclays Center in Brooklyn for Nets, Islanders and concert events. Compare garage prices or use transit tips.",
+    "stubhub_venue_id": "9037",
+    "parkwhiz_search": "Barclays Center Brooklyn"
+  },
+  {
+    "slug": "nationals-park",
+    "name": "Nationals Park",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20003",
+    "address": "1500 South Capitol St SE, Washington, DC 20003",
+    "lat": 38.8730,
+    "lng": -77.0074,
+    "capacity": 41313,
+    "type": "stadium",
+    "sport": "MLB",
+    "teams": ["Washington Nationals"],
+    "event_frequency": "high",
+    "home_games_per_year": 81,
+    "parking_market": "excellent",
+    "neighborhoods": ["Navy Yard", "Capitol Riverfront", "Capitol Hill"],
+    "transit": "Navy Yard-Ballpark Metro — Green Line. Stop is right at the stadium entrance.",
+    "parking_tips": "Nationals Park has the Green Line Metro stop at the front gate — transit is the obvious choice for DC fans. For drivers, the Capitol Riverfront neighborhood has a dense cluster of private garages and lots. Lots along Half St SE and 1st St SE offer good rates. The area has grown significantly since the park opened and parking supply has improved. Book online for Opening Day and big weekend series.",
+    "best_lots": "Garages on Half St SE and 1st St SE offer best value close to the stadium.",
+    "worst_lots": "Official stadium lots charge premium prices and don't offer a better location than nearby private options.",
+    "gates": ["Home Plate Gate (South Capitol St)", "Center Field Gate (Potomac Ave)", "Left Field Gate (N St SE)"],
+    "arrive_recommendation": "75 minutes before first pitch on weekends",
+    "faq": [
+      {
+        "q": "What is the best way to get to Nationals Park?",
+        "a": "The Green Line Metro stops at Navy Yard-Ballpark, right at the stadium entrance. It's the fastest and easiest option from most DC neighborhoods."
+      },
+      {
+        "q": "How much is parking near Nationals Park?",
+        "a": "Private lots and garages near the stadium run $20-40 for most games. Book online — walk-up prices surge for big weekend series and playoff games."
+      },
+      {
+        "q": "Is the Capitol Riverfront neighborhood good for parking?",
+        "a": "Yes — the neighborhood around Nationals Park has solid private garage inventory on Half St SE and 1st St SE. Better rates and just as close as official stadium lots."
+      }
+    ],
+    "meta_title": "Nationals Park Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find parking near Nationals Park in Washington DC for Nationals games. Compare private lot prices and book before the game.",
+    "stubhub_venue_id": "9036",
+    "parkwhiz_search": "Nationals Park Washington DC"
+  },
+  {
+    "slug": "wells-fargo-center",
+    "name": "Wells Fargo Center",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19148",
+    "address": "3601 S Broad St, Philadelphia, PA 19148",
+    "lat": 39.9012,
+    "lng": -75.1719,
+    "capacity": 20478,
+    "type": "arena",
+    "sport": "NBA/NHL/Concerts",
+    "teams": ["Philadelphia 76ers", "Philadelphia Flyers"],
+    "event_frequency": "high",
+    "home_games_per_year": 82,
+    "parking_market": "excellent",
+    "neighborhoods": ["South Philadelphia", "Sports Complex"],
+    "transit": "SEPTA Broad Street Line — AT&T Station is adjacent to the Sports Complex.",
+    "parking_tips": "The South Philly Sports Complex serves multiple venues — Citizens Bank Park, Lincoln Financial Field, and Wells Fargo Center share a cluster of lots. Private lots throughout the complex offer competitive rates. The area south of Pattison Ave is cheaper than lots directly adjacent to the arena. Book online for 76ers and Flyers playoff runs — the complex lots sell out.",
+    "best_lots": "Lots south of Pattison Ave and along Broad St offer best value for arena events.",
+    "worst_lots": "Official team lots directly adjacent to the Wells Fargo Center entrance charge maximum premiums.",
+    "gates": ["Main Entrance (Pattison Ave)", "North Gate (Broad St)"],
+    "arrive_recommendation": "60-75 minutes before tipoff or puck drop",
+    "faq": [
+      {
+        "q": "How much is parking at the Wells Fargo Center?",
+        "a": "Official lots run $20-40. Private lots in the Sports Complex area run $12-25. Book online — walk-up prices surge for 76ers and Flyers playoff games."
+      },
+      {
+        "q": "Can I take the subway to the Wells Fargo Center?",
+        "a": "Yes — SEPTA's Broad Street Line stops at AT&T Station right next to the Sports Complex. Reliable option from Center City and North Philadelphia."
+      },
+      {
+        "q": "Is parking at the Wells Fargo Center the same as Citizens Bank Park?",
+        "a": "The lots are shared across the South Philly Sports Complex. Same general area, same parking inventory — just different entrances based on your event."
+      }
+    ],
+    "meta_title": "Wells Fargo Center Parking — 76ers, Flyers & Concert Parking | GetToTheGate",
+    "meta_description": "Find parking near the Wells Fargo Center in Philadelphia for 76ers, Flyers and concerts. Compare lot prices and book in advance.",
+    "stubhub_venue_id": "9039",
+    "parkwhiz_search": "Wells Fargo Center Philadelphia"
+  },
+  {
+    "slug": "guaranteed-rate-field",
+    "name": "Guaranteed Rate Field",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60616",
+    "address": "333 W 35th St, Chicago, IL 60616",
+    "lat": 41.8300,
+    "lng": -87.6338,
+    "capacity": 40615,
+    "type": "stadium",
+    "sport": "MLB",
+    "teams": ["Chicago White Sox"],
+    "event_frequency": "high",
+    "home_games_per_year": 81,
+    "parking_market": "excellent",
+    "neighborhoods": ["Bridgeport", "Armour Square", "Fuller Park"],
+    "transit": "Red Line — Sox-35th stop is directly across from the main entrance. Fastest option on game nights.",
+    "parking_tips": "Guaranteed Rate Field has more parking options than Wrigley Field — lots along 35th St and Shields Ave are plentiful. The area south toward 37th St has cheaper private lots. Official White Sox lots are convenient but book early. Red Line transit is the quickest option from the Loop and North Side. Weekend afternoon games have the most parking competition.",
+    "best_lots": "Private lots on Shields Ave and 33rd St offer best price-to-distance ratio.",
+    "worst_lots": "Lots directly on 35th St immediately adjacent to the main gate charge the highest premiums.",
+    "gates": ["Home Plate Gate (35th St)", "Left Field Gate (Shields Ave)"],
+    "arrive_recommendation": "75 minutes before first pitch for weekend games",
+    "faq": [
+      {
+        "q": "How much is parking at Guaranteed Rate Field?",
+        "a": "Official White Sox lots run $20-35. Private lots on Shields Ave and 33rd St typically run $15-25. Book online to save versus walk-up rates on big game days."
+      },
+      {
+        "q": "Can I take the Red Line to Guaranteed Rate Field?",
+        "a": "Yes — the Red Line Sox-35th stop is directly across from the main entrance. About 15 minutes from the Loop and an easy ride from the North Side."
+      },
+      {
+        "q": "How does parking at Guaranteed Rate Field compare to Wrigley?",
+        "a": "The Sox park has more parking supply and generally lower prices than Wrigley. The Bridgeport neighborhood has more surface lots and less parking competition than Wrigleyville."
+      }
+    ],
+    "meta_title": "Guaranteed Rate Field Parking — White Sox Game Parking | GetToTheGate",
+    "meta_description": "Find parking near Guaranteed Rate Field in Chicago for White Sox games. Compare lot prices and book before first pitch.",
+    "stubhub_venue_id": "9031",
+    "parkwhiz_search": "Guaranteed Rate Field Chicago"
+  },
+  {
+    "slug": "t-mobile-park",
+    "name": "T-Mobile Park",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98134",
+    "address": "1250 1st Ave S, Seattle, WA 98134",
+    "lat": 47.5914,
+    "lng": -122.3325,
+    "capacity": 47929,
+    "type": "stadium",
+    "sport": "MLB",
+    "teams": ["Seattle Mariners"],
+    "event_frequency": "high",
+    "home_games_per_year": 81,
+    "parking_market": "excellent",
+    "neighborhoods": ["SoDo", "Pioneer Square", "International District"],
+    "transit": "Link Light Rail — Stadium station is steps from the 1st Ave S gate. King Street Station is a 5-minute walk.",
+    "parking_tips": "T-Mobile Park sits in the SoDo district with excellent private parking supply. The SoDo neighborhood has dozens of surface lots and garages within 3 blocks. Lots along 1st Ave S and Airport Way S offer the best rates. Pioneer Square lots to the north are slightly cheaper. Book in advance for weekend series — SoDo lots fill 2 hours before first pitch on sellout games.",
+    "best_lots": "Surface lots on 1st Ave S between the ballpark and the stadium offer best proximity. Airport Way S lots are cheapest.",
+    "worst_lots": "Official Mariners lots directly adjacent charge event premiums.",
+    "gates": ["1st Ave S Gate", "Edgar Martinez Gate (1st Ave S)", "Left Field Gate (Atlantic St)"],
+    "arrive_recommendation": "75 minutes before first pitch for weekend games",
+    "faq": [
+      {
+        "q": "What is the best parking near T-Mobile Park?",
+        "a": "SoDo has excellent parking supply — surface lots on 1st Ave S and Airport Way S are plentiful and reasonably priced. Book online for weekend series."
+      },
+      {
+        "q": "How much does parking cost near T-Mobile Park?",
+        "a": "Private SoDo lots typically run $15-35 depending on the game. Weekend and big series games push prices higher. Book online to lock in lower rates."
+      },
+      {
+        "q": "Can I take light rail to T-Mobile Park?",
+        "a": "Yes — Link Light Rail stops at Stadium station steps from the 1st Ave S gate. Easy connection from SeaTac airport, Capitol Hill, and the University District."
+      }
+    ],
+    "meta_title": "T-Mobile Park Parking — Mariners Game Parking Tips | GetToTheGate",
+    "meta_description": "Find parking near T-Mobile Park in Seattle for Mariners games. Compare SoDo lot prices and book before the game.",
+    "stubhub_venue_id": "9048",
+    "parkwhiz_search": "T-Mobile Park Seattle"
+  },
+  {
+    "slug": "climate-pledge-arena",
+    "name": "Climate Pledge Arena",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98109",
+    "address": "305 Harrison St, Seattle, WA 98109",
+    "lat": 47.6222,
+    "lng": -122.3540,
+    "capacity": 17100,
+    "type": "arena",
+    "sport": "NHL/WNBA/Concerts",
+    "teams": ["Seattle Kraken", "Seattle Storm"],
+    "event_frequency": "high",
+    "home_games_per_year": 41,
+    "parking_market": "good",
+    "neighborhoods": ["Seattle Center", "Lower Queen Anne", "Uptown"],
+    "transit": "Seattle Center Monorail from Westlake Center. Metro buses to Seattle Center on event nights.",
+    "parking_tips": "Climate Pledge Arena at Seattle Center is surrounded by Seattle Center's own parking garages and the Queen Anne neighborhood. The Seattle Center garages on 1st Ave N and 5th Ave N are closest. Lower Queen Anne has private lots along Queen Anne Ave N. The Monorail from downtown is a fun and easy option for avoiding the Queen Anne Hill traffic. Book online for Kraken playoff games and major concerts.",
+    "best_lots": "Seattle Center Garage on 5th Ave N and private lots on Queen Anne Ave N offer best options.",
+    "worst_lots": "Neighborhood street parking is permit-restricted in Lower Queen Anne — do not rely on it.",
+    "gates": ["Main Entrance (Harrison St)", "East Gate (2nd Ave N)"],
+    "arrive_recommendation": "60-75 minutes before puck drop for Kraken games",
+    "faq": [
+      {
+        "q": "How do I get to Climate Pledge Arena without driving?",
+        "a": "The Seattle Center Monorail runs from Westlake Center downtown. Metro buses also serve Seattle Center on event nights. Both options are easy from downtown Seattle."
+      },
+      {
+        "q": "How much is parking near Climate Pledge Arena?",
+        "a": "Seattle Center garages run $20-35 for events. Private lots in Lower Queen Anne on Queen Anne Ave N are slightly cheaper. Book online for Kraken playoffs and sellout concerts."
+      },
+      {
+        "q": "Is parking easy to find for Kraken games?",
+        "a": "Seattle Center has solid garage inventory but it fills for playoff games and major concerts. Book at least 24 hours in advance for big events."
+      }
+    ],
+    "meta_title": "Climate Pledge Arena Parking — Kraken, Storm & Concert Parking | GetToTheGate",
+    "meta_description": "Find parking near Climate Pledge Arena in Seattle for Kraken, Storm and concerts. Compare lot prices and book in advance.",
+    "stubhub_venue_id": "9049",
+    "parkwhiz_search": "Climate Pledge Arena Seattle"
+  },
+  {
+    "slug": "coors-field",
+    "name": "Coors Field",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80205",
+    "address": "2001 Blake St, Denver, CO 80205",
+    "lat": 39.7559,
+    "lng": -104.9942,
+    "capacity": 46897,
+    "type": "stadium",
+    "sport": "MLB",
+    "teams": ["Colorado Rockies"],
+    "event_frequency": "high",
+    "home_games_per_year": 81,
+    "parking_market": "excellent",
+    "neighborhoods": ["LoDo", "Five Points", "RiNo", "Downtown Denver"],
+    "transit": "RTD Light Rail — Union Station is 3 blocks away. Best transit option for Rockies games.",
+    "parking_tips": "Coors Field in LoDo has some of the best private parking inventory of any MLB ballpark. The LoDo neighborhood has dozens of garages and surface lots within easy walking distance. Lots along Blake St, Market St, and Wazee St offer competitive rates. Union Station is only 3 blocks away — RTD light rail connects easily from the suburbs. Book online for weekend series and Opening Day.",
+    "best_lots": "Blake St and Market St lots offer best proximity. Wazee St surface lots are slightly cheaper.",
+    "worst_lots": "Lots on Larimer St charge a premium due to foot traffic from restaurants and bars.",
+    "gates": ["Blake Street Gate (20th St)", "Right Field Gate (21st St)", "Left Field Gate (Park Ave)"],
+    "arrive_recommendation": "75 minutes before first pitch on weekends — LoDo fills up fast",
+    "faq": [
+      {
+        "q": "How much is parking near Coors Field?",
+        "a": "Private LoDo lots run $15-35 for most games. Weekend and Opening Day games push prices higher. Book online to secure rates before walk-up surge pricing kicks in."
+      },
+      {
+        "q": "Is public transit good for Coors Field?",
+        "a": "RTD light rail to Union Station (3 blocks away) is excellent. Many suburbs have direct light rail connections to Union Station. Easy and stress-free on busy summer nights."
+      },
+      {
+        "q": "Is LoDo parking competitive with other MLB parks?",
+        "a": "LoDo has above-average parking supply for an MLB ballpark. More options and generally better prices than downtown markets like Boston or San Francisco."
+      }
+    ],
+    "meta_title": "Coors Field Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find parking near Coors Field in Denver for Rockies games. Compare LoDo lot prices and book before first pitch.",
+    "stubhub_venue_id": "9050",
+    "parkwhiz_search": "Coors Field Denver"
+  },
+  {
+    "slug": "truist-park",
+    "name": "Truist Park",
+    "city": "Cumberland",
+    "state": "GA",
+    "zip": "30339",
+    "address": "755 Battery Ave SE, Cumberland, GA 30339",
+    "lat": 33.8908,
+    "lng": -84.4678,
+    "capacity": 41084,
+    "type": "stadium",
+    "sport": "MLB",
+    "teams": ["Atlanta Braves"],
+    "event_frequency": "high",
+    "home_games_per_year": 81,
+    "parking_market": "excellent",
+    "neighborhoods": ["The Battery Atlanta", "Cumberland", "Vinings"],
+    "transit": "No direct rail — driving is the primary option. Express buses from select MARTA stations on game days.",
+    "parking_tips": "Truist Park is a suburban stadium built around The Battery Atlanta entertainment district with extensive parking infrastructure. The complex has official Braves lots and adjacent private options. Lots north toward I-285 and Cumberland Blvd are cheaper than those inside The Battery. The express bus from Hamilton E. Holmes MARTA station runs on game days. Book online — this market has excellent ParkWhiz and SpotHero inventory.",
+    "best_lots": "Private lots on Cumberland Blvd and Cobb Galleria area offer best rates. Official Braves lots are convenient but pricier.",
+    "worst_lots": "Lots inside The Battery perimeter charge maximum premiums — same walk but higher cost.",
+    "gates": ["Home Plate Gate (Battery Ave)", "Right Field Gate (Circle 75 Pkwy)", "Left Field Gate (Ballpark Way)"],
+    "arrive_recommendation": "90 minutes before first pitch — I-285 and I-75 traffic is unpredictable",
+    "faq": [
+      {
+        "q": "How much is parking at Truist Park?",
+        "a": "Official Braves lots run $20-35. Private lots on Cumberland Blvd and toward Cobb Galleria run $10-20. Book online — SpotHero and ParkWhiz have excellent Truist Park inventory."
+      },
+      {
+        "q": "Is there public transit to Truist Park?",
+        "a": "No direct rail service — Truist Park is in the suburbs. Express buses run from Hamilton E. Holmes MARTA station on game days. Most fans drive."
+      },
+      {
+        "q": "How early should I leave for Truist Park?",
+        "a": "Leave 90 minutes early from Atlanta. I-285 and I-75 near Cumberland can be brutal before evening games. The earlier you arrive, the cheaper and easier the parking."
+      }
+    ],
+    "meta_title": "Truist Park Parking — Braves Game Parking Tips | GetToTheGate",
+    "meta_description": "Find parking near Truist Park in Cumberland for Atlanta Braves games. Compare lot prices and book before first pitch.",
+    "stubhub_venue_id": "9051",
+    "parkwhiz_search": "Truist Park Atlanta Braves"
+  },
+  {
+    "slug": "state-farm-arena",
+    "name": "State Farm Arena",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30303",
+    "address": "1 State Farm Drive, Atlanta, GA 30303",
+    "lat": 33.7573,
+    "lng": -84.3963,
+    "capacity": 21000,
+    "type": "arena",
+    "sport": "NBA/Concerts",
+    "teams": ["Atlanta Hawks"],
+    "event_frequency": "high",
+    "home_games_per_year": 41,
+    "parking_market": "excellent",
+    "neighborhoods": ["Downtown Atlanta", "Centennial Park", "Vine City"],
+    "transit": "MARTA — GWCC/World Congress Center station (Blue/Green Lines) is adjacent.",
+    "parking_tips": "State Farm Arena sits in downtown Atlanta with good private parking supply around CNN Center and Centennial Olympic Park. MARTA Blue and Green lines have a station directly adjacent — strongly recommended over driving in downtown Atlanta. Private garages along Marietta St and Ivan Allen Jr Blvd offer good rates. Book online for Hawks playoff games and major concerts.",
+    "best_lots": "Garages on Marietta St NW and Ivan Allen Jr Blvd offer best value near the arena.",
+    "worst_lots": "CNN Center garage and official arena lots charge premium event rates.",
+    "gates": ["Main Entrance (Ivan Allen Jr Blvd)", "West Entrance (Northside Dr)"],
+    "arrive_recommendation": "60-75 minutes before tipoff",
+    "faq": [
+      {
+        "q": "How do I get to State Farm Arena by MARTA?",
+        "a": "MARTA Blue and Green lines stop at GWCC/World Congress Center station, directly adjacent to the arena. The most stress-free option in downtown Atlanta."
+      },
+      {
+        "q": "How much is parking near State Farm Arena?",
+        "a": "Private garages near the arena run $15-35 for events. CNN Center and attached garages charge premium prices. Book online for Hawks playoffs and major concerts."
+      }
+    ],
+    "meta_title": "State Farm Arena Parking — Hawks & Concert Parking | GetToTheGate",
+    "meta_description": "Find parking near State Farm Arena in Atlanta for Hawks games and concerts. Compare garage prices and book in advance.",
+    "stubhub_venue_id": "9052",
+    "parkwhiz_search": "State Farm Arena Atlanta"
+  },
+  {
+    "slug": "loandepot-park",
+    "name": "loanDepot park",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33125",
+    "address": "501 Marlins Way, Miami, FL 33125",
+    "lat": 25.7781,
+    "lng": -80.2197,
+    "capacity": 37442,
+    "type": "stadium",
+    "sport": "MLB",
+    "teams": ["Miami Marlins"],
+    "event_frequency": "high",
+    "home_games_per_year": 81,
+    "parking_market": "good",
+    "neighborhoods": ["Little Havana", "Allapattah", "Downtown Miami"],
+    "transit": "Metrorail — Earlington Heights station is 1.3 miles with shuttle on game days. Limited transit overall.",
+    "parking_tips": "loanDepot park has large on-site parking structures but private lots in the surrounding Little Havana and Allapattah neighborhoods offer savings. The lots directly adjacent to the stadium are the most convenient but also the most expensive. Lots along NW 7th St and NW 12th Ave offer cheaper rates with a 10-15 minute walk. Book online — Miami has solid ParkWhiz and SpotHero inventory around the park.",
+    "best_lots": "Private lots on NW 7th Ave and NW 12th Ave offer best value with manageable walk.",
+    "worst_lots": "Official team garages attached to the stadium charge maximum event rates.",
+    "gates": ["Home Plate Gate (Marlins Way)", "First Base Gate (NW 16th Ave)", "Third Base Gate (NW 14th Ave)"],
+    "arrive_recommendation": "75 minutes before first pitch — Miami traffic on the I-95 can be brutal",
+    "faq": [
+      {
+        "q": "How much is parking at loanDepot park?",
+        "a": "Official Marlins garages run $20-35. Private lots in Little Havana and Allapattah run $10-20. Book online through SpotHero or ParkWhiz for the best available rates."
+      },
+      {
+        "q": "Is there transit to loanDepot park?",
+        "a": "Metrorail to Earlington Heights station is the closest option, with shuttles on some game days. Most fans drive — Miami is very car-dependent."
+      },
+      {
+        "q": "How early should I leave for Marlins games?",
+        "a": "75-90 minutes from most Miami locations. I-95 traffic heading into Little Havana in the evening can be slow. Earlier arrival also means cheaper and easier parking."
+      }
+    ],
+    "meta_title": "loanDepot park Parking — Marlins Game Parking Tips | GetToTheGate",
+    "meta_description": "Find parking near loanDepot park in Miami for Marlins games. Compare lot prices and book before game day.",
+    "stubhub_venue_id": "9053",
+    "parkwhiz_search": "loanDepot park Miami"
+  },
+  {
+    "slug": "kaseya-center",
+    "name": "Kaseya Center",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33132",
+    "address": "601 Biscayne Blvd, Miami, FL 33132",
+    "lat": 25.7814,
+    "lng": -80.1870,
+    "capacity": 19600,
+    "type": "arena",
+    "sport": "NBA/Concerts",
+    "teams": ["Miami Heat"],
+    "event_frequency": "high",
+    "home_games_per_year": 41,
+    "parking_market": "excellent",
+    "neighborhoods": ["Downtown Miami", "Brickell", "Park West"],
+    "transit": "Metromover — Park West and Museum Park stations are adjacent to the arena. Free Metromover from Brickell.",
+    "parking_tips": "Kaseya Center sits on Biscayne Bay in downtown Miami with private garage inventory nearby. The Metromover loops from Brickell and downtown for free — easiest option for avoiding downtown Miami traffic. Private lots and garages along Biscayne Blvd and NE 1st Ave offer competitive rates. Book well in advance for Heat playoff games — Miami Arena lots sell out.",
+    "best_lots": "Garages on NE 1st Ave and NE 2nd Ave offer best value with short walk.",
+    "worst_lots": "Waterfront lots directly on Biscayne Blvd charge premium event rates.",
+    "gates": ["Main Entrance (Biscayne Blvd)", "South Gate (SE 2nd St)"],
+    "arrive_recommendation": "60-75 minutes before tipoff",
+    "faq": [
+      {
+        "q": "How do I get to Kaseya Center without driving?",
+        "a": "The Metromover (free) connects from Brickell and downtown Miami to the Park West station adjacent to the arena. Easy option on weeknight Heat games."
+      },
+      {
+        "q": "How much is parking near Kaseya Center?",
+        "a": "Private garages near the arena run $20-40 for Heat games. Lots on NE 1st Ave are cheaper than waterfront options. Book online — Heat playoff inventory goes fast."
+      }
+    ],
+    "meta_title": "Kaseya Center Parking — Miami Heat & Concert Parking | GetToTheGate",
+    "meta_description": "Find parking near Kaseya Center in Miami for Heat games and concerts. Compare garage prices and book in advance.",
+    "stubhub_venue_id": "9054",
+    "parkwhiz_search": "Kaseya Center Miami"
+  },
+  {
+    "slug": "minute-maid-park",
+    "name": "Minute Maid Park",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77002",
+    "address": "501 Crawford St, Houston, TX 77002",
+    "lat": 29.7572,
+    "lng": -95.3552,
+    "capacity": 41168,
+    "type": "stadium",
+    "sport": "MLB",
+    "teams": ["Houston Astros"],
+    "event_frequency": "high",
+    "home_games_per_year": 81,
+    "parking_market": "excellent",
+    "neighborhoods": ["Downtown Houston", "Midtown", "EaDo"],
+    "transit": "METRORail — Convention District station is adjacent to the ballpark.",
+    "parking_tips": "Minute Maid Park sits in downtown Houston with an excellent concentration of private parking. The EaDo (East Downtown) neighborhood has grown significantly with new lots and garages. Crawford St and Texas Ave corridors have the densest parking supply. METRORail's Red Line connects from Main Street Square with easy access from Midtown and the Medical Center. Book online for Astros playoff games — downtown Houston inventory moves fast.",
+    "best_lots": "Private lots on Crawford St and Texas Ave offer best proximity. EaDo surface lots east of the park are cheaper.",
+    "worst_lots": "Official Astros lots directly attached charge maximum prices.",
+    "gates": ["Crawford Street Gate", "Union Station Gate (Texas Ave)", "Center Field Gate (Hamilton St)"],
+    "arrive_recommendation": "75 minutes before first pitch for weekend games",
+    "faq": [
+      {
+        "q": "How much is parking at Minute Maid Park?",
+        "a": "Official Astros lots run $20-35. Private lots in EaDo and on Crawford St typically run $10-25. Book online through ParkWhiz or SpotHero — excellent inventory near the park."
+      },
+      {
+        "q": "Can I take the light rail to Minute Maid Park?",
+        "a": "Yes — METRORail Red Line stops at Convention District station adjacent to the park. Good connections from Midtown and the Texas Medical Center."
+      },
+      {
+        "q": "What neighborhood has the cheapest parking for Astros games?",
+        "a": "EaDo (East Downtown) surface lots east of the park are typically the cheapest — $10-15 with a 10-15 minute walk. Worth it for a day game or if you leave early."
+      }
+    ],
+    "meta_title": "Minute Maid Park Parking — Astros Game Parking Tips | GetToTheGate",
+    "meta_description": "Find parking near Minute Maid Park in Houston for Astros games. Compare downtown lot prices and book before first pitch.",
+    "stubhub_venue_id": "9055",
+    "parkwhiz_search": "Minute Maid Park Houston"
+  },
+  {
+    "slug": "toyota-center",
+    "name": "Toyota Center",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77002",
+    "address": "1510 Polk St, Houston, TX 77002",
+    "lat": 29.7508,
+    "lng": -95.3621,
+    "capacity": 18055,
+    "type": "arena",
+    "sport": "NBA/Concerts",
+    "teams": ["Houston Rockets"],
+    "event_frequency": "high",
+    "home_games_per_year": 41,
+    "parking_market": "excellent",
+    "neighborhoods": ["Downtown Houston", "Midtown", "EaDo"],
+    "transit": "METRORail — Main Street Square station is 4 blocks away.",
+    "parking_tips": "Toyota Center sits one block from Minute Maid Park sharing the same downtown Houston parking ecosystem. The same EaDo and Crawford St lots serve both venues. Private garages along Polk St and Texas Ave are close and competitively priced. METRORail is a solid option from Midtown. Book online for Rockets playoff games — downtown Houston lots fill faster than you'd expect.",
+    "best_lots": "Garages on Texas Ave and Polk St offer best proximity. EaDo surface lots are cheapest.",
+    "worst_lots": "Official adjacent lots charge event premiums — walk one block for significant savings.",
+    "gates": ["Main Entrance (Polk St)", "North Gate (Capitol St)"],
+    "arrive_recommendation": "60-75 minutes before tipoff",
+    "faq": [
+      {
+        "q": "How much is parking near Toyota Center?",
+        "a": "Private lots and garages run $15-30 for Rockets games. The same downtown Houston inventory serves both Toyota Center and Minute Maid Park. Book online for playoff games."
+      },
+      {
+        "q": "Can I walk from Minute Maid Park to Toyota Center?",
+        "a": "Yes — the two venues are about one block apart in downtown Houston. Same parking supply serves both, making it easy to catch doubleheader event nights."
+      }
+    ],
+    "meta_title": "Toyota Center Parking — Rockets & Concert Parking | GetToTheGate",
+    "meta_description": "Find parking near Toyota Center in Houston for Rockets games and concerts. Compare downtown lot prices and book in advance.",
+    "stubhub_venue_id": "9056",
+    "parkwhiz_search": "Toyota Center Houston"
+  },
+  {
+    "slug": "globe-life-field",
+    "name": "Globe Life Field",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76011",
+    "address": "734 Stadium Dr, Arlington, TX 76011",
+    "lat": 32.7473,
+    "lng": -97.0831,
+    "capacity": 40300,
+    "type": "stadium",
+    "sport": "MLB",
+    "teams": ["Texas Rangers"],
+    "event_frequency": "high",
+    "home_games_per_year": 81,
+    "parking_market": "excellent",
+    "neighborhoods": ["Arlington Entertainment District", "AT&T Stadium District"],
+    "transit": "No public transit to the stadium — driving is required. Located between Dallas and Fort Worth.",
+    "parking_tips": "Globe Life Field is a purpose-built suburban stadium with extensive parking infrastructure. The Arlington Entertainment District has multiple official and private lots surrounding the stadium. Private lots on Collins St and Randol Mill Rd offer savings over official Rangers lots. The stadium sits next to AT&T Stadium (Cowboys), so parking supply is enormous. Book online — SpotHero and ParkWhiz have great inventory in this market.",
+    "best_lots": "Private lots on Collins St north of the stadium and Randol Mill Rd offer best value.",
+    "worst_lots": "Official premiere lots directly adjacent to main gates charge maximum prices — same walk as cheaper lots.",
+    "gates": ["Home Plate Gate (Stadium Dr)", "Right Field Gate (Randol Mill Rd)", "Left Field Gate (Collins St)"],
+    "arrive_recommendation": "90 minutes before first pitch — DFW freeway traffic is unpredictable",
+    "faq": [
+      {
+        "q": "How much is parking at Globe Life Field?",
+        "a": "Official Rangers lots run $20-35. Private lots on Collins St and Randol Mill Rd run $10-20. SpotHero and ParkWhiz have excellent inventory — book online for best rates."
+      },
+      {
+        "q": "Is there public transit to Globe Life Field?",
+        "a": "No — Globe Life Field is in suburban Arlington with no rail service. Driving is the only practical option. Plan for DFW freeway traffic."
+      },
+      {
+        "q": "What is the easiest parking for Globe Life Field?",
+        "a": "The Arlington Entertainment District has more parking than almost any MLB market. Even walk-up usually finds something — but book online to guarantee a spot and save $10-15."
+      }
+    ],
+    "meta_title": "Globe Life Field Parking — Rangers Game Parking Tips | GetToTheGate",
+    "meta_description": "Find parking near Globe Life Field in Arlington for Texas Rangers games. Compare lot prices and book before first pitch.",
+    "stubhub_venue_id": "9057",
+    "parkwhiz_search": "Globe Life Field Arlington Texas"
+  },
+  {
+    "slug": "chase-field",
+    "name": "Chase Field",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85004",
+    "address": "401 E Jefferson St, Phoenix, AZ 85004",
+    "lat": 33.4453,
+    "lng": -112.0667,
+    "capacity": 48519,
+    "type": "stadium",
+    "sport": "MLB",
+    "teams": ["Arizona Diamondbacks"],
+    "event_frequency": "high",
+    "home_games_per_year": 81,
+    "parking_market": "excellent",
+    "neighborhoods": ["Downtown Phoenix", "Evans Churchill", "Warehouse District"],
+    "transit": "Valley Metro Light Rail — Jefferson/1st Ave station is steps from the main gate.",
+    "parking_tips": "Chase Field sits in downtown Phoenix with strong private parking supply. The Warehouse District and nearby surface lots along Jefferson St and 3rd St offer competitive rates. Valley Metro Light Rail is a great option — the Jefferson/1st Ave stop is at the main gate. Phoenix summers make the walk from distant lots unpleasant — book a nearby lot for afternoon day games especially.",
+    "best_lots": "Private surface lots on 3rd St and Washington St offer best value close to the park.",
+    "worst_lots": "Lots directly on Jefferson St immediately adjacent charge maximum premiums.",
+    "gates": ["Main Gate (4th St & Jefferson)", "3rd Base Gate (Jefferson St)", "Right Field Gate (2nd St)"],
+    "arrive_recommendation": "75 minutes before first pitch — especially for day games in Arizona summer heat",
+    "faq": [
+      {
+        "q": "How much is parking at Chase Field?",
+        "a": "Private lots in downtown Phoenix run $10-25 for most games. Playoff and World Series games push prices higher. Book online — excellent SpotHero and ParkWhiz inventory."
+      },
+      {
+        "q": "Can I take light rail to Chase Field?",
+        "a": "Yes — Valley Metro Light Rail stops at Jefferson/1st Ave, steps from the main gate. Best option for avoiding downtown Phoenix traffic, especially weeknight games."
+      },
+      {
+        "q": "Are there shade or covered parking options near Chase Field?",
+        "a": "Some downtown Phoenix garages offer covered parking — worth paying slightly more for shaded spots on 100°+ summer day games."
+      }
+    ],
+    "meta_title": "Chase Field Parking — Diamondbacks Game Parking Tips | GetToTheGate",
+    "meta_description": "Find parking near Chase Field in Phoenix for Diamondbacks games. Compare downtown lot prices and book before first pitch.",
+    "stubhub_venue_id": "9058",
+    "parkwhiz_search": "Chase Field Phoenix"
+  },
+  {
+    "slug": "footprint-center",
+    "name": "Footprint Center",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85004",
+    "address": "201 E Jefferson St, Phoenix, AZ 85004",
+    "lat": 33.4457,
+    "lng": -112.0712,
+    "capacity": 18422,
+    "type": "arena",
+    "sport": "NBA/WNBA/Concerts",
+    "teams": ["Phoenix Suns", "Phoenix Mercury"],
+    "event_frequency": "high",
+    "home_games_per_year": 41,
+    "parking_market": "excellent",
+    "neighborhoods": ["Downtown Phoenix", "Evans Churchill", "Warehouse District"],
+    "transit": "Valley Metro Light Rail — Jefferson/1st Ave station is steps away. Same stop as Chase Field.",
+    "parking_tips": "Footprint Center sits one block from Chase Field in downtown Phoenix — they share the same parking ecosystem. The Warehouse District surface lots and downtown Phoenix garages serve both venues. Valley Metro Light Rail is the stress-free option. For drivers, private lots on 3rd St and Washington St offer the best value. Book online for Suns playoff runs — the Phoenix market has excellent parking app inventory.",
+    "best_lots": "Warehouse District surface lots on 3rd St and Jackson St offer best value.",
+    "worst_lots": "Official arena adjacent lots charge event premiums with no proximity advantage.",
+    "gates": ["Main Entrance (Jefferson St)", "North Gate (Monroe St)"],
+    "arrive_recommendation": "60-75 minutes before tipoff",
+    "faq": [
+      {
+        "q": "How much is parking at Footprint Center?",
+        "a": "Private downtown Phoenix lots run $10-25 for most events. Suns playoff games push prices higher. Book online — great SpotHero and ParkWhiz coverage in this market."
+      },
+      {
+        "q": "Is parking the same for Footprint Center and Chase Field?",
+        "a": "Yes — they're one block apart in downtown Phoenix and share the same parking supply. Same lots, same light rail stop."
+      }
+    ],
+    "meta_title": "Footprint Center Parking — Suns, Mercury & Concert Parking | GetToTheGate",
+    "meta_description": "Find parking near Footprint Center in Phoenix for Suns, Mercury and concerts. Compare lot prices and book in advance.",
+    "stubhub_venue_id": "9059",
+    "parkwhiz_search": "Footprint Center Phoenix"
+  },
+  {
+    "slug": "angel-stadium",
+    "name": "Angel Stadium",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92806",
+    "address": "2000 E Gene Autry Way, Anaheim, CA 92806",
+    "lat": 33.8003,
+    "lng": -117.8827,
+    "capacity": 45517,
+    "type": "stadium",
+    "sport": "MLB",
+    "teams": ["Los Angeles Angels"],
+    "event_frequency": "high",
+    "home_games_per_year": 81,
+    "parking_market": "excellent",
+    "neighborhoods": ["Anaheim", "The Platinum Triangle", "Garden Grove"],
+    "transit": "Metrolink/Amtrak — Anaheim (Angel Stadium) station is adjacent. ARTIC transit hub nearby.",
+    "parking_tips": "Angel Stadium has massive on-site parking in a suburban Anaheim setting with the Platinum Triangle area surrounding it. Official stadium lots are expensive but private lots along Gene Autry Way and Katella Ave offer savings. Metrolink rail from LA Union Station and Orange County stops at the stadium — great option to avoid the 5 Freeway. Book online — SpotHero and ParkWhiz have excellent Anaheim market coverage.",
+    "best_lots": "Private lots on Katella Ave and Douglas Rd offer best savings over official stadium parking.",
+    "worst_lots": "Official preferred lots directly at the stadium entrance charge the highest rates.",
+    "gates": ["Home Plate Gate (State College Blvd)", "Right Field Gate (Gene Autry Way)", "Left Field Gate (Orangewood Ave)"],
+    "arrive_recommendation": "75-90 minutes before first pitch — 5 Freeway and 91 Freeway can be brutal",
+    "faq": [
+      {
+        "q": "How much is parking at Angel Stadium?",
+        "a": "Official stadium lots run $15-25 — reasonable by MLB standards. Private lots on Katella Ave run $10-18. Book online for weekend series and big games."
+      },
+      {
+        "q": "Can I take the train to Angel Stadium?",
+        "a": "Yes — Metrolink and Amtrak both stop at Anaheim (Angel Stadium) station, adjacent to the park. Great option from LA or Orange County to skip the freeway."
+      },
+      {
+        "q": "What is the 5 Freeway like before Angels games?",
+        "a": "Traffic on the 5 near Anaheim ranges from manageable to brutal. Give yourself 90 minutes from LA, 45-60 from OC during weekday rush hour."
+      }
+    ],
+    "meta_title": "Angel Stadium Parking — Angels Game Parking Tips | GetToTheGate",
+    "meta_description": "Find parking near Angel Stadium in Anaheim for Angels games. Compare lot prices and book before first pitch.",
+    "stubhub_venue_id": "9060",
+    "parkwhiz_search": "Angel Stadium Anaheim"
+  },
+  {
+    "slug": "petco-park",
+    "name": "Petco Park",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "address": "100 Park Blvd, San Diego, CA 92101",
+    "lat": 32.7076,
+    "lng": -117.1570,
+    "capacity": 42445,
+    "type": "stadium",
+    "sport": "MLB",
+    "teams": ["San Diego Padres"],
+    "event_frequency": "high",
+    "home_games_per_year": 81,
+    "parking_market": "excellent",
+    "neighborhoods": ["East Village", "Gaslamp Quarter", "Little Italy"],
+    "transit": "MTS Trolley — Gaslamp Quarter station (Blue and Orange Lines) is adjacent to the park.",
+    "parking_tips": "Petco Park in downtown San Diego's East Village has solid private parking in a walkable neighborhood. The Gaslamp Quarter and East Village have multiple garages within blocks. MTS Trolley is a great option — the Gaslamp Quarter stop is right at the park entrance. Private lots on Park Blvd and 10th Ave offer good rates. Book online for weekend games and playoff series — San Diego is a strong SpotHero market.",
+    "best_lots": "Private garages on 10th Ave and Park Blvd offer best proximity at reasonable rates.",
+    "worst_lots": "Gaslamp Quarter lots charge dining and event premiums — slightly further lots on 12th Ave are cheaper.",
+    "gates": ["Park at the Park Gate (Park Blvd)", "Tony Gwynn Gate (10th Ave)", "Western Metal Supply Gate (7th Ave)"],
+    "arrive_recommendation": "75 minutes before first pitch for weekend games",
+    "faq": [
+      {
+        "q": "How much is parking near Petco Park?",
+        "a": "Private lots in East Village and Gaslamp run $15-35 depending on the game. Book online — SpotHero has excellent Petco Park inventory with easy comparisons."
+      },
+      {
+        "q": "Can I take the trolley to Petco Park?",
+        "a": "Yes — MTS Blue and Orange Lines stop at Gaslamp Quarter station right at the park. Easy connections from Mission Valley, Old Town, and the border."
+      },
+      {
+        "q": "Is the Gaslamp Quarter good for pre-game parking?",
+        "a": "The Gaslamp has restaurants and bars close to the park but charges premium parking rates. Book a lot on Park Blvd or 10th Ave for better value."
+      }
+    ],
+    "meta_title": "Petco Park Parking — Padres Game Parking Tips | GetToTheGate",
+    "meta_description": "Find parking near Petco Park in San Diego for Padres games. Compare East Village lot prices and book before first pitch.",
+    "stubhub_venue_id": "9061",
+    "parkwhiz_search": "Petco Park San Diego"
+  },
+  {
+    "slug": "bridgestone-arena",
+    "name": "Bridgestone Arena",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37203",
+    "address": "501 Broadway, Nashville, TN 37203",
+    "lat": 36.1592,
+    "lng": -86.7785,
+    "capacity": 20000,
+    "type": "arena",
+    "sport": "NHL/Concerts",
+    "teams": ["Nashville Predators"],
+    "event_frequency": "very_high",
+    "home_games_per_year": 41,
+    "parking_market": "excellent",
+    "neighborhoods": ["Downtown Nashville", "SoBro", "The Gulch"],
+    "transit": "No rail transit — Nashville is a driving city. WeGo bus has limited service.",
+    "parking_tips": "Bridgestone Arena sits on Broadway in the heart of Nashville's entertainment district — one of the busiest venue corridors in the country. Private garages and lots throughout downtown Nashville compete aggressively for event parking. SoBro lots south of Broadway and 2nd Ave corridor lots offer good rates. Book online well in advance for concerts and Predators playoff games — Nashville's event density is extremely high and lots sell out.",
+    "best_lots": "SoBro lots on 2nd Ave S and garages on 5th Ave offer best value near Broadway.",
+    "worst_lots": "Broadway corridor lots charge maximum rates due to nightlife demand — venture one block south for savings.",
+    "gates": ["Main Entrance (Broadway)", "South Gate (Commerce St)"],
+    "arrive_recommendation": "75-90 minutes before events — Nashville Broadway traffic is intense on weekends",
+    "faq": [
+      {
+        "q": "How much is parking near Bridgestone Arena?",
+        "a": "Downtown Nashville lots run $20-45 for events. Lots one block off Broadway on SoBro are cheaper than those directly on the strip. Book online — Nashville has excellent SpotHero inventory."
+      },
+      {
+        "q": "How early should I arrive for Bridgestone Arena events?",
+        "a": "75-90 minutes early for concerts and playoff games. Nashville Broadway is one of the busiest entertainment corridors in the US — parking fills fast."
+      },
+      {
+        "q": "Is there transit to Bridgestone Arena?",
+        "a": "No rail service — Nashville relies almost entirely on driving. WeGo buses have limited routes. Rideshare drop-off on Commerce St is the best non-driving option."
+      }
+    ],
+    "meta_title": "Bridgestone Arena Parking — Predators & Nashville Concert Parking | GetToTheGate",
+    "meta_description": "Find parking near Bridgestone Arena in Nashville for Predators games and concerts. Compare downtown lot prices and book in advance.",
+    "stubhub_venue_id": "9062",
+    "parkwhiz_search": "Bridgestone Arena Nashville"
+  },
+  {
+    "slug": "target-field",
+    "name": "Target Field",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55403",
+    "address": "1 Twins Way, Minneapolis, MN 55403",
+    "lat": 44.9817,
+    "lng": -93.2783,
+    "capacity": 38544,
+    "type": "stadium",
+    "sport": "MLB",
+    "teams": ["Minnesota Twins"],
+    "event_frequency": "high",
+    "home_games_per_year": 81,
+    "parking_market": "excellent",
+    "neighborhoods": ["Downtown Minneapolis", "North Loop", "Warehouse District"],
+    "transit": "Metro Blue and Green Lines — Target Field station is directly attached to the stadium.",
+    "parking_tips": "Target Field has its own light rail station built into the stadium — transit is exceptional here. For drivers, the North Loop and Warehouse District have private garages along 1st Ave N and Washington Ave N. These lots fill fast on weekend games. The area has excellent parking app coverage with lots of ParkWhiz and SpotHero inventory. Book online for weekend series and playoffs.",
+    "best_lots": "Private garages on 1st Ave N and Washington Ave N offer best value near the stadium.",
+    "worst_lots": "Official stadium lots adjacent to the ballpark charge the highest event rates.",
+    "gates": ["Gate 6 (Target Plaza)", "Gate 29 (3rd Ave N)", "Gate 34 (5th Ave N)"],
+    "arrive_recommendation": "75 minutes before first pitch on weekends",
+    "faq": [
+      {
+        "q": "How do I take light rail to Target Field?",
+        "a": "Blue and Green Metro lines stop at Target Field station, attached directly to the stadium. The easiest transit connection of any MLB park — train drops you at the gate."
+      },
+      {
+        "q": "How much is parking near Target Field?",
+        "a": "Private North Loop and Warehouse District lots run $15-30. Book online — ParkWhiz and SpotHero have excellent Minneapolis inventory near the stadium."
+      }
+    ],
+    "meta_title": "Target Field Parking — Twins Game Parking Tips | GetToTheGate",
+    "meta_description": "Find parking near Target Field in Minneapolis for Twins games. Compare Warehouse District lot prices and book before first pitch.",
+    "stubhub_venue_id": "9063",
+    "parkwhiz_search": "Target Field Minneapolis"
+  },
+  {
+    "slug": "target-center",
+    "name": "Target Center",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55403",
+    "address": "600 1st Ave N, Minneapolis, MN 55403",
+    "lat": 44.9795,
+    "lng": -93.2762,
+    "capacity": 19356,
+    "type": "arena",
+    "sport": "NBA/WNBA/Concerts",
+    "teams": ["Minnesota Timberwolves", "Minnesota Lynx"],
+    "event_frequency": "high",
+    "home_games_per_year": 41,
+    "parking_market": "excellent",
+    "neighborhoods": ["Downtown Minneapolis", "North Loop", "Warehouse District"],
+    "transit": "Metro Blue and Green Lines — Target Field station is steps away (same station as Target Field).",
+    "parking_tips": "Target Center sits one block from Target Field in the North Loop — the same Warehouse District parking ecosystem serves both venues. Private garages on 1st Ave N and Washington Ave N are closest. Metro light rail at Target Field station is a short walk. Book online for Timberwolves playoff runs and major concerts — shared inventory with Target Field can mean tighter supply on busy nights.",
+    "best_lots": "Same North Loop and Warehouse District lots that serve Target Field. 1st Ave N garages are closest.",
+    "worst_lots": "Official arena lots charge event premiums with no proximity advantage over nearby private options.",
+    "gates": ["Main Entrance (1st Ave N)", "South Gate (6th St N)"],
+    "arrive_recommendation": "60-75 minutes before tipoff",
+    "faq": [
+      {
+        "q": "Is parking the same for Target Center and Target Field?",
+        "a": "Yes — they're one block apart and share the North Loop and Warehouse District parking supply. Same light rail stop, same lots."
+      },
+      {
+        "q": "How much is parking near Target Center?",
+        "a": "Private lots and garages run $15-30 for Timberwolves games. Book online — the shared inventory with Target Field means lots fill faster on busy event nights."
+      }
+    ],
+    "meta_title": "Target Center Parking — Timberwolves, Lynx & Concert Parking | GetToTheGate",
+    "meta_description": "Find parking near Target Center in Minneapolis for Timberwolves, Lynx and concerts. Compare lot prices and book in advance.",
+    "stubhub_venue_id": "9064",
+    "parkwhiz_search": "Target Center Minneapolis"
+  },
+  {
+    "slug": "fiserv-forum",
+    "name": "Fiserv Forum",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53203",
+    "address": "1111 Vel R. Phillips Ave, Milwaukee, WI 53203",
+    "lat": 43.0451,
+    "lng": -87.9170,
+    "capacity": 17500,
+    "type": "arena",
+    "sport": "NBA/Concerts",
+    "teams": ["Milwaukee Bucks"],
+    "event_frequency": "high",
+    "home_games_per_year": 41,
+    "parking_market": "good",
+    "neighborhoods": ["Downtown Milwaukee", "Deer District", "Westown"],
+    "transit": "No light rail — driving is primary. Milwaukee County Transit buses serve downtown.",
+    "parking_tips": "Fiserv Forum opened in 2018 with the Deer District entertainment complex surrounding it. Private lots along Vel R. Phillips Ave and Juneau Ave fill fast for big Bucks games and concerts. The Deer District's own parking structure is convenient but expensive. Lots west of the arena toward 6th St offer more affordable rates. Book online for Bucks playoff games — Milwaukee market has good SpotHero coverage.",
+    "best_lots": "Private lots on 6th St and Juneau Ave west of the arena offer best value.",
+    "worst_lots": "Deer District perimeter lots charge entertainment district premiums.",
+    "gates": ["Main Entrance (Vel R. Phillips Ave)", "North Gate (Juneau Ave)"],
+    "arrive_recommendation": "60-75 minutes before tipoff for playoff games and major concerts",
+    "faq": [
+      {
+        "q": "How much is parking at Fiserv Forum?",
+        "a": "Official Deer District lots run $20-35. Private lots west of the arena on 6th St run $12-22. Book online through SpotHero for the best available rates."
+      },
+      {
+        "q": "Is there public transit to Fiserv Forum?",
+        "a": "Milwaukee County Transit buses serve downtown but there's no light rail. Most fans drive — the Deer District is designed around driving and has plenty of parking infrastructure."
+      }
+    ],
+    "meta_title": "Fiserv Forum Parking — Bucks & Concert Parking | GetToTheGate",
+    "meta_description": "Find parking near Fiserv Forum in Milwaukee for Bucks games and concerts. Compare Deer District lot prices and book in advance.",
+    "stubhub_venue_id": "9065",
+    "parkwhiz_search": "Fiserv Forum Milwaukee"
+  },
+  {
+    "slug": "rocket-mortgage-fieldhouse",
+    "name": "Rocket Mortgage FieldHouse",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44115",
+    "address": "1 Center Court, Cleveland, OH 44115",
+    "lat": 41.4966,
+    "lng": -81.6882,
+    "capacity": 19432,
+    "type": "arena",
+    "sport": "NBA/Concerts",
+    "teams": ["Cleveland Cavaliers"],
+    "event_frequency": "high",
+    "home_games_per_year": 41,
+    "parking_market": "good",
+    "neighborhoods": ["Downtown Cleveland", "Gateway District", "Warehouse District"],
+    "transit": "RTA Red Line — Cleveland Clinic Courts station is adjacent. Best downtown transit option.",
+    "parking_tips": "Rocket Mortgage FieldHouse sits in the Gateway District with Progressive Field (Indians) nearby — solid parking supply for both venues. Private lots along Ontario St and Huron Rd offer good rates. The Warehouse District to the west has additional inventory. RTA Red Line from University Circle and Shaker Heights is reliable. Book online for Cavaliers playoff games.",
+    "best_lots": "Private lots on Ontario St and Huron Rd offer best proximity. Warehouse District lots are cheaper.",
+    "worst_lots": "Lots directly adjacent to the arena charge maximum event premiums.",
+    "gates": ["Main Entrance (Ontario St)", "East Gate (Huron Rd)"],
+    "arrive_recommendation": "60-75 minutes before tipoff",
+    "faq": [
+      {
+        "q": "How much is parking near Rocket Mortgage FieldHouse?",
+        "a": "Private downtown Cleveland lots run $10-25 for most events — affordable by major arena standards. Book online for Cavaliers playoffs and major concerts."
+      },
+      {
+        "q": "Can I take the RTA to Rocket Mortgage FieldHouse?",
+        "a": "Yes — the Red Line stops at Cleveland Clinic Courts station adjacent to the arena. Good connections from University Circle and Shaker Heights."
+      }
+    ],
+    "meta_title": "Rocket Mortgage FieldHouse Parking — Cavaliers & Concert Parking | GetToTheGate",
+    "meta_description": "Find parking near Rocket Mortgage FieldHouse in Cleveland for Cavaliers games and concerts. Compare lot prices and book in advance.",
+    "stubhub_venue_id": "9066",
+    "parkwhiz_search": "Rocket Mortgage FieldHouse Cleveland"
+  },
+  {
+    "slug": "pnc-park",
+    "name": "PNC Park",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15212",
+    "address": "115 Federal St, Pittsburgh, PA 15212",
+    "lat": 40.4469,
+    "lng": -80.0057,
+    "capacity": 38747,
+    "type": "stadium",
+    "sport": "MLB",
+    "teams": ["Pittsburgh Pirates"],
+    "event_frequency": "high",
+    "home_games_per_year": 81,
+    "parking_market": "good",
+    "neighborhoods": ["North Shore", "North Side", "Mexican War Streets"],
+    "transit": "Pittsburgh Light Rail — First Ave station across the river (short walk over bridge). Water taxis on game days.",
+    "parking_tips": "PNC Park sits on the North Shore with private lots concentrated in that corridor. Lots along Federal St and Western Ave are most convenient. The North Shore has grown with parking infrastructure since PNC opened. Water taxis from Downtown Pittsburgh are a unique and efficient option on game days. Book online for weekend series — North Shore inventory fills fast.",
+    "best_lots": "Private lots on Federal St and Western Ave offer best proximity to the main gate.",
+    "worst_lots": "Lots furthest from the bridges charge less but the post-game walk can be slow with crowds.",
+    "gates": ["Home Plate Gate (Federal St)", "Left Field Gate (General Robinson St)", "Right Field Gate (Mazeroski Way)"],
+    "arrive_recommendation": "75 minutes before first pitch on weekends",
+    "faq": [
+      {
+        "q": "How much is parking near PNC Park?",
+        "a": "North Shore private lots run $15-30 for most Pirates games. Closer lots on Federal St cost more. Book online — PNC Park is a strong SpotHero market."
+      },
+      {
+        "q": "Can I take a water taxi to PNC Park?",
+        "a": "Yes — water taxis run from Station Square and the South Side on game days. A fun and fast alternative to driving over the bridges."
+      },
+      {
+        "q": "Is the North Shore neighborhood easy to park in?",
+        "a": "The North Shore has good parking supply for a riverfront stadium. Arrive 75 minutes early on weekends — lots fill as game time approaches."
+      }
+    ],
+    "meta_title": "PNC Park Parking — Pirates Game Parking Tips | GetToTheGate",
+    "meta_description": "Find parking near PNC Park in Pittsburgh for Pirates games. Compare North Shore lot prices and book before first pitch.",
+    "stubhub_venue_id": "9067",
+    "parkwhiz_search": "PNC Park Pittsburgh"
+  },
+  {
+    "slug": "gainbridge-fieldhouse",
+    "name": "Gainbridge Fieldhouse",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46204",
+    "address": "125 S Pennsylvania St, Indianapolis, IN 46204",
+    "lat": 39.7640,
+    "lng": -86.1556,
+    "capacity": 17923,
+    "type": "arena",
+    "sport": "NBA/Concerts",
+    "teams": ["Indiana Pacers"],
+    "event_frequency": "high",
+    "home_games_per_year": 41,
+    "parking_market": "good",
+    "neighborhoods": ["Downtown Indianapolis", "Mile Square", "Circle Centre"],
+    "transit": "Limited transit — IndyGo Red Line BRT on Meridian St is the closest option.",
+    "parking_tips": "Gainbridge Fieldhouse in downtown Indianapolis has excellent private parking supply — Indianapolis is a parking-friendly city. Garages throughout the Mile Square offer competitive rates. Pennsylvania St and Maryland St corridors have the best inventory near the arena. Indianapolis has lower parking costs than most NBA markets. Book online for Pacers playoff runs and major concerts.",
+    "best_lots": "Private garages on Pennsylvania St and Maryland St offer best proximity at reasonable rates.",
+    "worst_lots": "Circle Centre Mall garage charges retail + event premiums.",
+    "gates": ["Main Entrance (Pennsylvania St)", "West Gate (Illinois St)"],
+    "arrive_recommendation": "60 minutes before tipoff — Indianapolis has good parking supply",
+    "faq": [
+      {
+        "q": "How much is parking near Gainbridge Fieldhouse?",
+        "a": "Downtown Indianapolis garages run $10-20 for most events — among the most affordable NBA arena parking in the country. Book online for playoffs."
+      },
+      {
+        "q": "Is parking easy to find in downtown Indianapolis?",
+        "a": "Yes — Indianapolis has abundant downtown parking supply and competitive garage rates. Walk-up availability is good for regular season games."
+      }
+    ],
+    "meta_title": "Gainbridge Fieldhouse Parking — Pacers & Concert Parking | GetToTheGate",
+    "meta_description": "Find parking near Gainbridge Fieldhouse in Indianapolis for Pacers games and concerts. Compare downtown garage prices.",
+    "stubhub_venue_id": "9068",
+    "parkwhiz_search": "Gainbridge Fieldhouse Indianapolis"
+  },
+  {
+    "slug": "spectrum-center",
+    "name": "Spectrum Center",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28202",
+    "address": "333 E Trade St, Charlotte, NC 28202",
+    "lat": 35.2251,
+    "lng": -80.8392,
+    "capacity": 19077,
+    "type": "arena",
+    "sport": "NBA/Concerts",
+    "teams": ["Charlotte Hornets"],
+    "event_frequency": "high",
+    "home_games_per_year": 41,
+    "parking_market": "excellent",
+    "neighborhoods": ["Uptown Charlotte", "Fourth Ward", "Third Ward"],
+    "transit": "CATS Gold Line Streetcar — stops near the arena. LYNX Blue Line — Charlotte Transportation Center is nearby.",
+    "parking_tips": "Spectrum Center in Uptown Charlotte has excellent private parking supply throughout the neighborhood. Multiple garages and surface lots within 3 blocks on Trade St and 5th St. Charlotte has seen major development around the arena and parking infrastructure has grown. CATS light rail from South End and Ballantyne is a solid option. Book online for Hornets playoff games and major concerts.",
+    "best_lots": "Private garages on 5th St and Church St offer best proximity and value in Uptown.",
+    "worst_lots": "Official arena attached lots charge premium event rates.",
+    "gates": ["Main Entrance (Trade St)", "North Gate (5th St)"],
+    "arrive_recommendation": "60-75 minutes before tipoff",
+    "faq": [
+      {
+        "q": "How much is parking near Spectrum Center?",
+        "a": "Uptown Charlotte garages run $15-30 for Hornets games. Good private supply throughout the neighborhood. Book online for playoff games and major concerts."
+      },
+      {
+        "q": "Can I take the light rail to Spectrum Center?",
+        "a": "Yes — CATS LYNX Blue Line connects from South End and Ballantyne to Uptown. Charlotte Transportation Center is a short walk from the arena."
+      }
+    ],
+    "meta_title": "Spectrum Center Parking — Hornets & Concert Parking | GetToTheGate",
+    "meta_description": "Find parking near Spectrum Center in Charlotte for Hornets games and concerts. Compare Uptown lot prices and book in advance.",
+    "stubhub_venue_id": "9069",
+    "parkwhiz_search": "Spectrum Center Charlotte"
+  },
+  {
+    "slug": "kia-center",
+    "name": "Kia Center",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32801",
+    "address": "400 W Church St, Orlando, FL 32801",
+    "lat": 28.5392,
+    "lng": -81.3839,
+    "capacity": 20000,
+    "type": "arena",
+    "sport": "NBA/Concerts",
+    "teams": ["Orlando Magic"],
+    "event_frequency": "high",
+    "home_games_per_year": 41,
+    "parking_market": "good",
+    "neighborhoods": ["Downtown Orlando", "Parramore", "Thornton Park"],
+    "transit": "SunRail commuter rail — Church Street station is adjacent. Lynx Bus serves downtown.",
+    "parking_tips": "Kia Center in downtown Orlando has solid private parking with multiple garages in the immediate vicinity. Church St and Orange Ave corridors have the best inventory. SunRail commuter rail stops at Church Street station adjacent to the arena — best option during regular service hours. Book online for Magic playoff games and major concerts.",
+    "best_lots": "Garages on Orange Ave and Garland Ave offer best value close to the arena.",
+    "worst_lots": "Church St entertainment district lots charge nightlife premiums on weekend event nights.",
+    "gates": ["Main Entrance (Church St)", "North Gate (Amelia St)"],
+    "arrive_recommendation": "60-75 minutes before tipoff",
+    "faq": [
+      {
+        "q": "How much is parking near Kia Center?",
+        "a": "Downtown Orlando garages run $12-25 for Magic games. Church St entertainment area lots are pricier. Book online for best available rates on concert nights."
+      },
+      {
+        "q": "Can I take SunRail to Kia Center?",
+        "a": "Yes — SunRail Church Street station is adjacent to the arena. Note that SunRail service hours may not cover late-ending events — check the schedule before you go."
+      }
+    ],
+    "meta_title": "Kia Center Parking — Magic & Orlando Concert Parking | GetToTheGate",
+    "meta_description": "Find parking near Kia Center in Orlando for Magic games and concerts. Compare downtown garage prices and book in advance.",
+    "stubhub_venue_id": "9070",
+    "parkwhiz_search": "Kia Center Orlando"
+  },
+  {
+    "slug": "golden-1-center",
+    "name": "Golden 1 Center",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95814",
+    "address": "500 David J Stern Walk, Sacramento, CA 95814",
+    "lat": 38.5802,
+    "lng": -121.4997,
+    "capacity": 17608,
+    "type": "arena",
+    "sport": "NBA/Concerts",
+    "teams": ["Sacramento Kings"],
+    "event_frequency": "high",
+    "home_games_per_year": 41,
+    "parking_market": "good",
+    "neighborhoods": ["Downtown Sacramento", "Doco", "Old Sacramento"],
+    "transit": "Sacramento RT Light Rail — St. Rose of Lima/Convention Center station is adjacent.",
+    "parking_tips": "Golden 1 Center anchors the Doco entertainment district in downtown Sacramento with private parking throughout the area. Lots along 7th St and L St offer competitive rates. Sacramento RT light rail is a convenient option from the suburbs. Book online for Kings playoff games — Sacramento's Arena District has grown and parking inventory has improved significantly.",
+    "best_lots": "Private lots on 7th St and K St in the Doco area offer best proximity.",
+    "worst_lots": "Doco district lots charge entertainment premiums — venture a few blocks for savings.",
+    "gates": ["Main Entrance (David J Stern Walk)", "North Gate (L St)"],
+    "arrive_recommendation": "60-75 minutes before tipoff",
+    "faq": [
+      {
+        "q": "How much is parking near Golden 1 Center?",
+        "a": "Downtown Sacramento lots run $10-25 for Kings games — generally affordable compared to bigger NBA markets. Book online for playoff games."
+      },
+      {
+        "q": "Can I take light rail to Golden 1 Center?",
+        "a": "Yes — Sacramento RT stops at St. Rose of Lima/Convention Center station, adjacent to the arena. Good connections from the suburbs and Midtown."
+      }
+    ],
+    "meta_title": "Golden 1 Center Parking — Kings & Sacramento Concert Parking | GetToTheGate",
+    "meta_description": "Find parking near Golden 1 Center in Sacramento for Kings games and concerts. Compare Doco lot prices and book in advance.",
+    "stubhub_venue_id": "9071",
+    "parkwhiz_search": "Golden 1 Center Sacramento"
+  },
+  {
+    "slug": "smoothie-king-center",
+    "name": "Smoothie King Center",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70113",
+    "address": "1501 Dave Dixon Dr, New Orleans, LA 70113",
+    "lat": 29.9490,
+    "lng": -90.0821,
+    "capacity": 17791,
+    "type": "arena",
+    "sport": "NBA/Concerts",
+    "teams": ["New Orleans Pelicans"],
+    "event_frequency": "high",
+    "home_games_per_year": 41,
+    "parking_market": "good",
+    "neighborhoods": ["Central Business District", "Warehouse District", "Loyola Ave Corridor"],
+    "transit": "Streetcar — St. Charles line and Loyola-UPT line serve the CBD. Limited for event timing.",
+    "parking_tips": "Smoothie King Center shares the Caesars Superdome campus with good private parking throughout the CBD and Warehouse District. Lots along Loyola Ave and Girod St offer competitive rates. The area has event parking infrastructure built for Super Bowl-level crowds. Book online for Pelicans playoff games and major concerts — New Orleans has good SpotHero coverage in this area.",
+    "best_lots": "Private lots on Girod St and Loyola Ave offer best proximity to the arena.",
+    "worst_lots": "Superdome campus lots charge NFL game premiums even for NBA and concert events.",
+    "gates": ["Main Entrance (Dave Dixon Dr)", "West Gate (Loyola Ave)"],
+    "arrive_recommendation": "60-75 minutes before tipoff",
+    "faq": [
+      {
+        "q": "How much is parking near Smoothie King Center?",
+        "a": "CBD and Warehouse District lots run $15-25 for Pelicans games. The same lots serve the Superdome — inventory is substantial. Book online for playoffs and major events."
+      },
+      {
+        "q": "Is parking easy to find near Smoothie King Center?",
+        "a": "Yes — the Superdome campus area has enormous parking infrastructure. Even big Pelicans games usually have walk-up availability, though prices are better when booked online."
+      }
+    ],
+    "meta_title": "Smoothie King Center Parking — Pelicans & Concert Parking | GetToTheGate",
+    "meta_description": "Find parking near Smoothie King Center in New Orleans for Pelicans games and concerts. Compare CBD lot prices and book in advance.",
+    "stubhub_venue_id": "9072",
+    "parkwhiz_search": "Smoothie King Center New Orleans"
+  },
+  {
+    "slug": "amerant-bank-arena",
+    "name": "Amerant Bank Arena",
+    "city": "Sunrise",
+    "state": "FL",
+    "zip": "33323",
+    "address": "1 Panther Pkwy, Sunrise, FL 33323",
+    "lat": 26.1583,
+    "lng": -80.3258,
+    "capacity": 19250,
+    "type": "arena",
+    "sport": "NHL/Concerts",
+    "teams": ["Florida Panthers"],
+    "event_frequency": "high",
+    "home_games_per_year": 41,
+    "parking_market": "excellent",
+    "neighborhoods": ["Sunrise", "Sawgrass Mills", "Plantation"],
+    "transit": "No rail transit — suburban Broward County. Broward County Transit buses serve the area.",
+    "parking_tips": "Amerant Bank Arena is a suburban arena in Sunrise near Sawgrass Mills with massive surface parking infrastructure. Official Panthers lots and private lots throughout the complex are plentiful. This is one of the easiest parking experiences in the NHL — the suburban layout means abundant space. Lots on Panther Pkwy and 136th Ave offer best rates. Book online for Panthers playoff games and major concerts — this market has excellent ParkWhiz and SpotHero inventory.",
+    "best_lots": "Private lots on 136th Ave and NW 12th St offer best value and short walk.",
+    "worst_lots": "Official closest lots to the arena entrance charge premium prices for marginal convenience.",
+    "gates": ["Main Entrance (Panther Pkwy)", "North Gate (NW 136th Ave)"],
+    "arrive_recommendation": "60-75 minutes before puck drop for Panthers games",
+    "faq": [
+      {
+        "q": "How much is parking at Amerant Bank Arena?",
+        "a": "Official Panthers lots run $15-25. Private surface lots nearby run $10-18. One of the most affordable and easy arena parking experiences in Florida. Book online for playoffs."
+      },
+      {
+        "q": "Is parking easy at Amerant Bank Arena?",
+        "a": "Very easy — it's a suburban arena with massive parking lots. Regular season games have abundant walk-up availability. Playoff games should be pre-booked."
+      },
+      {
+        "q": "Is there transit to Amerant Bank Arena?",
+        "a": "No rail service — Sunrise is suburban Broward County. Most fans drive. Rideshare is a reasonable option if you want to skip parking entirely."
+      }
+    ],
+    "meta_title": "Amerant Bank Arena Parking — Panthers & Concert Parking | GetToTheGate",
+    "meta_description": "Find parking near Amerant Bank Arena in Sunrise FL for Panthers games and concerts. Compare lot prices and book in advance.",
+    "stubhub_venue_id": "9073",
+    "parkwhiz_search": "Amerant Bank Arena Sunrise Florida"
+  },
+  {
+    "slug": "paycom-center",
+    "name": "Paycom Center",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73102",
+    "address": "100 W Reno Ave, Oklahoma City, OK 73102",
+    "lat": 35.4634,
+    "lng": -97.5151,
+    "capacity": 18203,
+    "type": "arena",
+    "sport": "NBA/Concerts",
+    "teams": ["Oklahoma City Thunder"],
+    "event_frequency": "high",
+    "home_games_per_year": 41,
+    "parking_market": "good",
+    "neighborhoods": ["Downtown OKC", "Bricktown", "Deep Deuce"],
+    "transit": "No light rail — Oklahoma City is a driving city. EMBARK Bus serves downtown.",
+    "parking_tips": "Paycom Center in downtown OKC has good private parking supply in the surrounding Bricktown and Deep Deuce neighborhoods. Lots along Reno Ave and Robinson Ave offer competitive rates. Oklahoma City is very car-centric — parking is abundant and affordable compared to major coastal markets. Book online for Thunder playoff games and major concerts.",
+    "best_lots": "Private lots on Robinson Ave and Sheridan Ave offer best proximity and value.",
+    "worst_lots": "Bricktown entertainment district lots charge nightlife premiums — park on the west side for savings.",
+    "gates": ["Main Entrance (Reno Ave)", "South Gate (Sheridan Ave)"],
+    "arrive_recommendation": "60 minutes before tipoff — OKC parking is generally easy",
+    "faq": [
+      {
+        "q": "How much is parking near Paycom Center?",
+        "a": "Downtown OKC lots run $8-20 for Thunder games — very affordable by NBA standards. Book online for playoff games when prices increase."
+      },
+      {
+        "q": "Is parking easy for OKC Thunder games?",
+        "a": "Yes — Oklahoma City has abundant downtown parking and low prices by NBA standards. Walk-up availability is good for regular season games."
+      }
+    ],
+    "meta_title": "Paycom Center Parking — Thunder & OKC Concert Parking | GetToTheGate",
+    "meta_description": "Find parking near Paycom Center in Oklahoma City for Thunder games and concerts. Compare downtown lot prices.",
+    "stubhub_venue_id": "9074",
+    "parkwhiz_search": "Paycom Center Oklahoma City"
+  },
+  {
+    "slug": "moody-center",
+    "name": "Moody Center",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78712",
+    "address": "2002 Robert Dedman Dr, Austin, TX 78712",
+    "lat": 30.2849,
+    "lng": -97.7341,
+    "capacity": 15000,
+    "type": "arena",
+    "sport": "Concerts/Events",
+    "teams": [],
+    "event_frequency": "high",
+    "home_games_per_year": 0,
+    "parking_market": "good",
+    "neighborhoods": ["UT Campus", "West Campus", "Hyde Park"],
+    "transit": "CapMetro Bus — multiple routes serve UT campus. UT Shuttle system on event nights.",
+    "parking_tips": "Moody Center sits on the University of Texas campus in Austin — one of the most parking-challenged event venues in Texas. Campus parking is extremely limited and restricted. Private lots in West Campus neighborhoods book fast. The San Jacinto Garage and Manor Garage on campus are closest but fill immediately. Plan for a shuttle or rideshare on sold-out shows — Austin traffic near UT campus is brutal.",
+    "best_lots": "Private lots on Nueces St and 24th St in West Campus are closest private options.",
+    "worst_lots": "Campus garages are permit-restricted during events — do not rely on them without a pre-purchased event permit.",
+    "gates": ["Main Entrance (Robert Dedman Dr)", "South Gate (Mike Myers Dr)"],
+    "arrive_recommendation": "90 minutes before — Austin UT-campus traffic requires significant buffer",
+    "faq": [
+      {
+        "q": "How much is parking near Moody Center?",
+        "a": "Private West Campus lots run $20-40 for major concerts — limited supply drives prices high. Book as early as possible through SpotHero or ParkWhiz."
+      },
+      {
+        "q": "Is there transit to Moody Center?",
+        "a": "CapMetro buses serve the UT campus. UT Shuttle runs on major event nights. Rideshare to the arena and walking from the Drag (Guadalupe St) are popular options."
+      },
+      {
+        "q": "How early should I arrive for Moody Center events?",
+        "a": "90 minutes early minimum — UT campus parking is genuinely difficult and Austin traffic around the university is intense on event nights."
+      }
+    ],
+    "meta_title": "Moody Center Parking — Austin Concert Parking Tips | GetToTheGate",
+    "meta_description": "Find parking near Moody Center at UT Austin for concerts and events. Compare lot prices and book well in advance.",
+    "stubhub_venue_id": "9075",
+    "parkwhiz_search": "Moody Center Austin"
+  },
+  {
+    "slug": "dickies-arena",
+    "name": "Dickies Arena",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76107",
+    "address": "1911 Montgomery St, Fort Worth, TX 76107",
+    "lat": 32.7458,
+    "lng": -97.3697,
+    "capacity": 14000,
+    "type": "arena",
+    "sport": "Concerts/Rodeo/Events",
+    "teams": [],
+    "event_frequency": "high",
+    "home_games_per_year": 0,
+    "parking_market": "excellent",
+    "neighborhoods": ["Cultural District", "Museum District", "West 7th"],
+    "transit": "Trinity Metro Bus — limited service. Driving is primary option in Fort Worth.",
+    "parking_tips": "Dickies Arena in Fort Worth's Cultural District has excellent private parking supply with large surface lots surrounding the venue. Lots on Montgomery St and University Dr are closest. The Cultural District's museums and Will Rogers Memorial Center share parking infrastructure — plentiful supply for most events. Book online for sold-out concerts and the Fort Worth Stock Show & Rodeo — this market has great ParkWhiz coverage.",
+    "best_lots": "Cultural District surface lots on Montgomery St and Crestline Rd offer best proximity.",
+    "worst_lots": "Will Rogers Memorial Center lots share space with museum visitors — arrive early on busy event weekends.",
+    "gates": ["Main Entrance (Montgomery St)", "South Gate (Lancaster Ave)"],
+    "arrive_recommendation": "60-75 minutes before events — Cultural District traffic builds fast on big nights",
+    "faq": [
+      {
+        "q": "How much is parking at Dickies Arena?",
+        "a": "Cultural District surface lots run $10-20 for most events — affordable even for sold-out shows. Book online for the Fort Worth Stock Show and major concerts."
+      },
+      {
+        "q": "Is parking easy at Dickies Arena?",
+        "a": "Generally yes — the Cultural District has good lot supply. Rodeo and major sellout events are the exception. Book in advance for Stock Show & Rodeo dates."
+      }
+    ],
+    "meta_title": "Dickies Arena Parking — Fort Worth Concert & Rodeo Parking | GetToTheGate",
+    "meta_description": "Find parking near Dickies Arena in Fort Worth for concerts, rodeo and events. Compare Cultural District lot prices and book in advance.",
+    "stubhub_venue_id": "9076",
+    "parkwhiz_search": "Dickies Arena Fort Worth"
   }
 ]
