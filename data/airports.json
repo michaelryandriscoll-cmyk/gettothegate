@@ -1,0 +1,982 @@
+[
+  {
+    "slug": "lax",
+    "name": "Los Angeles International Airport",
+    "iata_code": "LAX",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90045",
+    "address": "1 World Way, Los Angeles, CA 90045",
+    "lat": 33.9416,
+    "lng": -118.4085,
+    "annual_passengers": 88100000,
+    "type": "airport",
+    "terminals": ["Terminal 1", "Terminal 2", "Terminal 3", "Terminal 4", "Terminal 5", "Terminal 6", "Tom Bradley International Terminal (TBIT)", "Terminal 7", "Terminal 8"],
+    "avg_days_parked": 6,
+    "parking_market": "good",
+    "neighborhoods": ["Westchester", "El Segundo", "Inglewood"],
+    "transit": "LAX FlyAway buses connect to Union Station, Van Nuys, Santa Monica, and Hollywood. Free shuttles link the Central Terminal Area to Economy Lot E and the new APM people mover. Rideshare pickup is at the LAX-it lot on Lot C — never pick up at the terminal curb.",
+    "parking_tips": "LAX has some of the best third-party parking inventory of any US airport, with dozens of off-airport lots within a 1-mile radius that offer free shuttles. For trips over 3 days, off-airport economy lots beat the official structures by 40-60%. Book on ParkWhiz or SpotHero at least 72 hours before departure — popular lots near the 405 corridor sell out on Fridays. Short-term parking in the terminal structures is best for pickups under 2 hours.",
+    "best_lots": "Off-airport lots on 96th St and Aviation Blvd offer the best price per day with reliable 10-minute shuttle service. Economy Lot E (official) is the best on-airport value for multi-day trips.",
+    "worst_lots": "Avoid the on-airport terminal structures for trips longer than 2 hours — daily rates are among the highest in the LAX ecosystem. Unbranded lots on Century Blvd without pre-booking have spotty security.",
+    "short_term_info": "Terminal-adjacent structures (P1–P8) charge hourly rates starting at $4/30 min. Best for drop-offs and pickups under 2 hours. Access directly from the Upper/Lower Roadway.",
+    "long_term_info": "Economy Lot E is the official long-term lot, $30–35/day with free 24-hour shuttles. Off-airport lots on 96th St and Aviation Blvd run $12–22/day and are often the best value for week-long trips.",
+    "arrive_recommendation": "2–3 hours before domestic departure, 3–4 hours before international",
+    "faq": [
+      {
+        "q": "What is the cheapest parking at LAX?",
+        "a": "Off-airport lots on 96th St and Aviation Blvd typically run $12–22/day with free shuttle service, making them the cheapest option for multi-day trips. Economy Lot E (official) runs $30–35/day. Booking online on ParkWhiz or SpotHero almost always saves 20–40% versus walk-up."
+      },
+      {
+        "q": "How far in advance should I book LAX parking?",
+        "a": "Book at least 72 hours out, especially for Friday and Sunday departures. Popular off-airport lots sell out 4–5 days before peak travel weekends. Booking early also locks in lower rates."
+      },
+      {
+        "q": "Is there a free shuttle from LAX parking to the terminals?",
+        "a": "Yes — Economy Lot E runs free 24-hour shuttles every 10–15 minutes. Off-airport lots also run complimentary shuttles and typically post their wait times on their websites. The new LAX Automated People Mover (APM) connects the Central Terminal Area to the new station."
+      },
+      {
+        "q": "Can I use Uber or Lyft at LAX?",
+        "a": "Yes, but rideshare pickups must be at the LAX-it lot on Lot C, not at the terminal curb. Free shuttles connect terminals to LAX-it. Drop-offs are still allowed at the terminal curb."
+      },
+      {
+        "q": "How much does long-term parking cost at LAX?",
+        "a": "Official Economy Lot E runs $30–35/day. Off-airport lots range from $12–22/day. For a 7-day trip, off-airport lots can save $80–140 compared to the official lot."
+      }
+    ],
+    "meta_title": "LAX Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near LAX. Compare off-airport lots, economy parking, and terminal structures. Book online and save up to 40% on Los Angeles International Airport parking.",
+    "parkwhiz_search": "Los Angeles International Airport LAX"
+  },
+  {
+    "slug": "jfk",
+    "name": "John F. Kennedy International Airport",
+    "iata_code": "JFK",
+    "city": "New York",
+    "state": "NY",
+    "zip": "11430",
+    "address": "Queens, NY 11430",
+    "lat": 40.6413,
+    "lng": -73.7781,
+    "annual_passengers": 62500000,
+    "type": "airport",
+    "terminals": ["Terminal 1", "Terminal 2", "Terminal 4", "Terminal 5", "Terminal 7", "Terminal 8"],
+    "avg_days_parked": 7,
+    "parking_market": "limited",
+    "neighborhoods": ["Jamaica", "Howard Beach", "South Ozone Park"],
+    "transit": "AirTrain JFK connects all terminals to Jamaica Station (E, J, Z lines) and Howard Beach (A line) for $8.50. The A train to Midtown Manhattan takes about 60–75 minutes. LIRR from Jamaica to Penn Station is faster on weekdays. Taking transit saves $40–60/day versus parking.",
+    "parking_tips": "JFK parking is expensive and inventory is tight — official hourly garages run $4/15 min. Off-airport lots on North Boundary Rd and Linden Blvd offer the best deals at $15–28/day. Because JFK serves heavy international travelers, average stays run 7+ days, making every dollar per day count. Book at least 5 days ahead for holiday weekends. Many travelers opt for AirTrain + subway to avoid parking entirely.",
+    "best_lots": "Off-airport lots on North Boundary Rd (1–2 miles from terminals) offer the best price with 24-hour shuttles. Lot 4 on-airport is best for short-term needs under 4 hours.",
+    "worst_lots": "Official long-term garages at JFK are among the most expensive in the US. Avoid any unattended surface lots without a ParkWhiz or SpotHero listing.",
+    "short_term_info": "Official short-term parking is available at each terminal garage. Rates start at $4/15 min. For pickups and drop-offs under 2 hours, the terminal garages are most convenient.",
+    "long_term_info": "Off-airport lots on North Boundary Rd run $15–28/day and shuttle frequently. Official long-term lots run $35–45/day. For week-long trips, off-airport lots save $140–210.",
+    "arrive_recommendation": "2–3 hours before domestic, 3–4 hours before international",
+    "faq": [
+      {
+        "q": "What is the cheapest parking near JFK airport?",
+        "a": "Off-airport lots on North Boundary Rd and Linden Blvd typically run $15–28/day with free shuttle service, compared to $35–45/day at official JFK lots. Booking online through ParkWhiz or SpotHero locks in the lowest rates."
+      },
+      {
+        "q": "How do I get from JFK parking to the terminals?",
+        "a": "Official lot shuttles and off-airport lot shuttles drop at the terminal curb. AirTrain JFK is the fastest way between terminals and connects to NYC subway and LIRR."
+      },
+      {
+        "q": "Is it better to park at JFK or take the subway?",
+        "a": "For most NYC-area travelers, taking the A train to Howard Beach and then AirTrain is the cheapest and often fastest option, especially if you're parking for 4+ days. Parking makes more sense if you have heavy luggage or live far from a subway line."
+      },
+      {
+        "q": "How much does JFK long-term parking cost?",
+        "a": "Official JFK long-term lots cost $35–45/day. Off-airport lots run $15–28/day. A 7-day trip to an off-airport lot can save $70–210 versus the official lot."
+      },
+      {
+        "q": "How far in advance should I book JFK parking?",
+        "a": "Book at least 5–7 days ahead for holiday travel and summer weekends. Off-airport lots with the best prices sell out first. Early booking also secures the lowest rate."
+      }
+    ],
+    "meta_title": "JFK Airport Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near JFK. Compare off-airport lots vs official garages, get shuttle info, and book online to save up to 40% on JFK airport parking.",
+    "parkwhiz_search": "JFK Airport New York"
+  },
+  {
+    "slug": "ord",
+    "name": "O'Hare International Airport",
+    "iata_code": "ORD",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60666",
+    "address": "10000 W O'Hare Ave, Chicago, IL 60666",
+    "lat": 41.9742,
+    "lng": -87.9073,
+    "annual_passengers": 77000000,
+    "type": "airport",
+    "terminals": ["Terminal 1 (United)", "Terminal 2 (United/Air Canada)", "Terminal 3 (American/Delta)", "Terminal 5 (International)"],
+    "avg_days_parked": 5,
+    "parking_market": "good",
+    "neighborhoods": ["O'Hare", "Rosemont", "Des Plaines"],
+    "transit": "Blue Line CTA train stops directly at O'Hare — it's the last stop on the Forest Park branch. Trains run 24/7 and the 45-minute ride to downtown costs $5. Best option for business travelers flying light.",
+    "parking_tips": "O'Hare has a massive on-airport parking system with hourly, daily, and economy lots. The Economy lots (E1–E2) are the best value at $22–26/day with 24-hour shuttle service. Off-airport lots in Rosemont and Des Plaines run $12–20/day. Book 48–72 hours ahead for weekend departures. The Blue Line is the smartest option if you're traveling with a carry-on only.",
+    "best_lots": "Economy lots E1 and E2 are best for on-airport value. Off-airport lots on Mannheim Rd in Rosemont offer the cheapest daily rates with reliable shuttles.",
+    "worst_lots": "Express lots closest to the terminals charge $50+/day — not worth it for anything over 4 hours.",
+    "short_term_info": "Terminal garages (A, B, C) adjacent to each terminal charge $4/10 min for the first hour. Best for pickups and drop-offs under 3 hours.",
+    "long_term_info": "Economy lots E1/E2 run $22–26/day on-airport. Off-airport lots on Mannheim Rd in Rosemont run $12–20/day. For a 5-day trip, off-airport saves $50–70.",
+    "arrive_recommendation": "90 minutes before domestic, 2–3 hours before international",
+    "faq": [
+      {
+        "q": "What is the cheapest parking at O'Hare?",
+        "a": "Off-airport lots on Mannheim Rd in Rosemont typically run $12–20/day with free shuttle service. On-airport Economy lots E1/E2 run $22–26/day. Book on ParkWhiz or SpotHero at least 48 hours ahead for the best rates."
+      },
+      {
+        "q": "Is the Blue Line the best way to get to O'Hare?",
+        "a": "Yes — if you're traveling light. The Blue Line runs 24/7, costs $5, and gets you downtown in 45 minutes. It's the fastest and cheapest option for business travelers. For families with bags, driving and parking an off-airport lot often works out cheaper than rideshare."
+      },
+      {
+        "q": "How do I get from O'Hare economy parking to my terminal?",
+        "a": "Free 24-hour shuttles run from Economy lots E1 and E2 to all terminals. Buses run every 10–15 minutes and pick up at clearly marked stops. Allow 20–30 extra minutes if you're parking in an economy lot."
+      },
+      {
+        "q": "How much does O'Hare long-term parking cost?",
+        "a": "On-airport Economy lots run $22–26/day. Off-airport lots on Mannheim Rd run $12–20/day. For a 7-day trip, off-airport can save $42–98."
+      },
+      {
+        "q": "Are there any free parking options near O'Hare?",
+        "a": "There is no free parking at or near O'Hare for airport travelers. The cheapest option is booking an off-airport lot in Rosemont 48–72 hours in advance through ParkWhiz or SpotHero."
+      }
+    ],
+    "meta_title": "O'Hare Airport Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near O'Hare International Airport. Compare economy lots, off-airport parking, and terminal garages. Book online and save on ORD parking.",
+    "parkwhiz_search": "O'Hare International Airport Chicago"
+  },
+  {
+    "slug": "atl",
+    "name": "Hartsfield-Jackson Atlanta International Airport",
+    "iata_code": "ATL",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30337",
+    "address": "6000 N Terminal Pkwy, Atlanta, GA 30337",
+    "lat": 33.6407,
+    "lng": -84.4277,
+    "annual_passengers": 104000000,
+    "type": "airport",
+    "terminals": ["Domestic Terminal (North & South)", "Concourse A", "Concourse B", "Concourse C", "Concourse D", "Concourse E", "Concourse F (International)", "Concourse T"],
+    "avg_days_parked": 5,
+    "parking_market": "good",
+    "neighborhoods": ["College Park", "East Point", "Hapeville"],
+    "transit": "MARTA Gold/Red lines have a station at the Domestic Terminal — the only major US airport with direct subway service to the terminal level. $2.50 fare, 20 minutes to downtown. Best transit option in the country for an airport its size.",
+    "parking_tips": "ATL is the world's busiest airport and its parking system is correspondingly large. The International and Domestic parking garages are expensive at $30–40/day. Economy Parking (North and South) runs $20–24/day and is 5 minutes by bus. Off-airport lots on Sullivan Rd and Virginia Ave run $9–16/day. MARTA is by far the cheapest option if you live near a station.",
+    "best_lots": "Off-airport lots on Sullivan Rd and Virginia Ave offer the best value at $9–16/day. Economy North and South are the best official options.",
+    "worst_lots": "Daily parking in the Domestic and International Garages runs $30–40/day — overpriced given the off-airport alternatives nearby.",
+    "short_term_info": "Short-term parking is in the Domestic and International Garages adjacent to the terminals. Rates start at $2/15 min. Best for pickups under 2 hours.",
+    "long_term_info": "Economy Parking (North/South) runs $20–24/day with free shuttle. Off-airport lots on Sullivan Rd start at $9/day with 24-hour shuttle service.",
+    "arrive_recommendation": "2 hours before domestic, 3 hours before international",
+    "faq": [
+      {
+        "q": "What is the cheapest way to park at Atlanta airport?",
+        "a": "Off-airport lots on Sullivan Rd and Virginia Ave run $9–16/day — the cheapest airport parking in any major US city. Book on ParkWhiz or SpotHero at least 48 hours ahead. For day-of travel, Economy North/South at $20–24/day is the best on-airport value."
+      },
+      {
+        "q": "Can I take MARTA to Hartsfield-Jackson airport?",
+        "a": "Yes — ATL is one of the few major US airports with a train station at the terminal level. MARTA Gold and Red lines stop directly at the Domestic Terminal. The $2.50 fare and 20-minute ride to downtown makes it the cheapest and often fastest option."
+      },
+      {
+        "q": "How much does ATL economy parking cost?",
+        "a": "Official Economy North and South lots run $20–24/day with free shuttle service. Off-airport lots run $9–16/day. A 5-day trip to an off-airport lot can save $55–75 versus the official economy lot."
+      },
+      {
+        "q": "How far is off-airport parking from ATL?",
+        "a": "Most off-airport lots on Sullivan Rd and Virginia Ave are 1–3 miles from the terminals with free shuttle service running every 10–15 minutes. Allow 20–25 minutes total shuttle time."
+      },
+      {
+        "q": "How early should I arrive at Atlanta airport?",
+        "a": "2 hours before domestic flights and 3 hours before international. ATL is the world's busiest airport — TSA lines can be long even with PreCheck. If you're parking off-airport, add 20–25 minutes for the shuttle."
+      }
+    ],
+    "meta_title": "ATL Airport Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near Hartsfield-Jackson Atlanta International. Compare economy lots, off-airport parking, and shuttle options. Save up to 50% on ATL parking.",
+    "parkwhiz_search": "Hartsfield-Jackson Atlanta International Airport"
+  },
+  {
+    "slug": "dfw",
+    "name": "Dallas/Fort Worth International Airport",
+    "iata_code": "DFW",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75261",
+    "address": "2400 Aviation Dr, Dallas, TX 75261",
+    "lat": 32.8998,
+    "lng": -97.0403,
+    "annual_passengers": 73000000,
+    "type": "airport",
+    "terminals": ["Terminal A", "Terminal B", "Terminal C", "Terminal D (International)", "Terminal E"],
+    "avg_days_parked": 5,
+    "parking_market": "good",
+    "neighborhoods": ["Irving", "Grapevine", "Coppell"],
+    "transit": "DART Orange Line connects Terminal A to downtown Dallas in about 45 minutes for $2.50. The Trinity Railway Express (TRE) connects to Fort Worth. Both are good options for business travelers.",
+    "parking_tips": "DFW has extensive parking across all five terminals. Terminal parking garages run $20–30/day. Remote South parking is $12–16/day with free Skylink connections. Off-airport lots on International Pkwy and Airport Fwy run $8–14/day. Book online at least 72 hours ahead for holiday travel — DFW is among the top 5 busiest airports in the world.",
+    "best_lots": "Remote South parking ($12–16/day) and off-airport lots on International Pkwy ($8–14/day) offer the best value. Terminal A and B garages are best for convenience.",
+    "worst_lots": "Express parking directly at terminals runs $35–45/day — significant premium for minimal time savings over garage parking.",
+    "short_term_info": "Express parking is directly adjacent to each terminal. Rates start at $2/20 min. Terminal garages are better value for stays over 2 hours.",
+    "long_term_info": "Remote South and Remote North lots run $12–16/day with free shuttle service. Off-airport lots run $8–14/day. The Skylink train connects all terminals to remote parking.",
+    "arrive_recommendation": "2 hours before domestic, 3 hours before international",
+    "faq": [
+      {
+        "q": "What is the cheapest parking at DFW airport?",
+        "a": "Off-airport lots on International Pkwy and Airport Fwy run $8–14/day with free shuttle service. Remote South parking on-airport runs $12–16/day. Book through ParkWhiz or SpotHero for the best rates."
+      },
+      {
+        "q": "Is there a train to DFW airport?",
+        "a": "Yes — DART's Orange Line connects Terminal A to downtown Dallas in about 45 minutes for $2.50. The Trinity Railway Express goes to Fort Worth. Both run on weekday schedules; verify weekend hours before you travel."
+      },
+      {
+        "q": "How does DFW remote parking work?",
+        "a": "Remote South and North lots are accessed via shuttle buses and the Skylink automated train. Shuttles run every 10–15 minutes 24/7. Allow 20–30 minutes to get from remote parking to your gate."
+      },
+      {
+        "q": "How much does DFW airport parking cost per day?",
+        "a": "Terminal garages run $20–30/day. Remote lots run $12–16/day. Off-airport lots run $8–14/day. For a 5-day trip, off-airport saves $30–110 versus terminal garage parking."
+      },
+      {
+        "q": "How far in advance should I book DFW parking?",
+        "a": "Book 72 hours ahead for normal travel and 1 week ahead for major holidays. DFW is one of the world's top 5 busiest airports and lots fill fast during Thanksgiving, Christmas, and spring break."
+      }
+    ],
+    "meta_title": "DFW Airport Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near Dallas/Fort Worth International Airport. Compare terminal garages, remote lots, and off-airport parking. Save on DFW airport parking.",
+    "parkwhiz_search": "Dallas Fort Worth International Airport DFW"
+  },
+  {
+    "slug": "den",
+    "name": "Denver International Airport",
+    "iata_code": "DEN",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80249",
+    "address": "8500 Peña Blvd, Denver, CO 80249",
+    "lat": 39.8561,
+    "lng": -104.6737,
+    "annual_passengers": 58000000,
+    "type": "airport",
+    "terminals": ["Jeppesen Terminal", "Concourse A", "Concourse B", "Concourse C"],
+    "avg_days_parked": 6,
+    "parking_market": "good",
+    "neighborhoods": ["Stapleton", "Aurora", "Commerce City"],
+    "transit": "University of Colorado A Line (rail) connects Denver Union Station to DEN in 37 minutes for $10.50. Runs every 15 minutes and is the fastest non-driving option from downtown Denver.",
+    "parking_tips": "DEN is 25 miles from downtown, making it one of the most remote major US airports. The A Line rail is excellent for downtown Denver travelers. On-airport parking runs $28–35/day in garages and $15–20/day in economy lots. Off-airport lots on Tower Rd and Himalaya St run $8–14/day and are popular for ski trips with heavy gear.",
+    "best_lots": "Off-airport lots on Tower Rd and Himalaya St run $8–14/day with free shuttles — best for week-long ski trips. On-airport economy lots (Pikes Peak and Mount Elbert) are solid on-property value.",
+    "worst_lots": "The covered garage adjacent to the terminal runs $35/day — convenient but hard to justify given cheaper alternatives.",
+    "short_term_info": "Hourly parking in the terminal garage starts at $3/20 min. The most convenient option for pickups and short stays.",
+    "long_term_info": "Economy lots (Pikes Peak, Mount Elbert) run $15–20/day on-airport. Off-airport lots on Tower Rd run $8–14/day. For ski season, off-airport lots often offer covered options for SUVs.",
+    "arrive_recommendation": "2 hours before domestic, 3 hours before international",
+    "faq": [
+      {
+        "q": "What is the cheapest parking at Denver International Airport?",
+        "a": "Off-airport lots on Tower Rd and Himalaya St run $8–14/day with free shuttle service. On-airport economy lots run $15–20/day. For ski trips or other week-long stays, off-airport lots can save $35–98."
+      },
+      {
+        "q": "Is the A Line train worth it from downtown Denver to DEN?",
+        "a": "Yes — the A Line is 37 minutes from Denver Union Station, runs every 15 minutes, and costs $10.50. It's the fastest and most reliable option from downtown, LoDo, and the RiNo neighborhood."
+      },
+      {
+        "q": "How much does DEN economy parking cost?",
+        "a": "On-airport economy lots (Pikes Peak and Mount Elbert) run $15–20/day. Off-airport lots run $8–14/day. Both offer free shuttle service to the Jeppesen Terminal."
+      },
+      {
+        "q": "Is there covered parking at Denver airport?",
+        "a": "Yes — the terminal garage offers covered parking at $28–35/day. Some off-airport lots also offer covered and heated options, which is popular for travelers leaving cars during ski season."
+      },
+      {
+        "q": "How far in advance should I book DEN parking?",
+        "a": "Book 48–72 hours ahead normally, and 1–2 weeks ahead for ski season weekends (December–March) and major holidays. Off-airport lots near Tower Rd sell out faster than official lots during peak season."
+      }
+    ],
+    "meta_title": "DEN Airport Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near Denver International Airport. Compare economy lots, off-airport parking, and garage options. Save on DEN parking for ski trips and more.",
+    "parkwhiz_search": "Denver International Airport DEN"
+  },
+  {
+    "slug": "sea",
+    "name": "Seattle-Tacoma International Airport",
+    "iata_code": "SEA",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98158",
+    "address": "17801 International Blvd, SeaTac, WA 98158",
+    "lat": 47.4502,
+    "lng": -122.3088,
+    "annual_passengers": 51000000,
+    "type": "airport",
+    "terminals": ["Main Terminal", "Concourse A", "Concourse B", "Concourse C", "Concourse D", "Concourse N (Alaska Airlines)", "Concourse S (International/Delta)"],
+    "avg_days_parked": 5,
+    "parking_market": "good",
+    "neighborhoods": ["SeaTac", "Burien", "Tukwila"],
+    "transit": "Link Light Rail (1 Line) connects SeaTac/Airport Station directly to downtown Seattle in 38 minutes for $3.25. One of the best airport transit connections on the West Coast — runs every 8 minutes during peak hours.",
+    "parking_tips": "SeaTac has good parking inventory but rates are high for official structures. The Central Garage runs $30–35/day. Off-airport lots on International Blvd (Hwy 99) and South 170th St run $10–20/day. For Seattle travelers, Link Light Rail is often the best option — fast, cheap, and avoids I-5 traffic entirely.",
+    "best_lots": "Off-airport lots on International Blvd run $10–20/day and are the best value for multi-day trips. Central Garage is most convenient for stays under 3 days.",
+    "worst_lots": "Express lots adjacent to the terminal charge $40+/day — avoid for any stay over a few hours.",
+    "short_term_info": "Short-term parking in the Central Garage starts at $5/30 min. Best for pickups and stays under 2 hours. The garage connects directly to the terminal via skybridge.",
+    "long_term_info": "Economy Garage and Parking Express (on-airport) run $25–30/day. Off-airport lots on International Blvd run $10–20/day. Free 24-hour shuttles run from all major off-airport lots.",
+    "arrive_recommendation": "90 minutes before domestic, 2.5 hours before international",
+    "faq": [
+      {
+        "q": "Is Link Light Rail worth taking to SeaTac?",
+        "a": "Absolutely — the 1 Line runs from downtown Seattle to SeaTac/Airport Station in 38 minutes for $3.25. Trains run every 8 minutes during peak hours and the station connects directly to the terminal. It's faster than driving during peak hours."
+      },
+      {
+        "q": "What is the cheapest parking near Sea-Tac airport?",
+        "a": "Off-airport lots on International Blvd (Hwy 99) run $10–20/day with free shuttle service. Book on ParkWhiz or SpotHero at least 48 hours ahead for the best prices."
+      },
+      {
+        "q": "How much does Sea-Tac airport parking cost?",
+        "a": "Official Central Garage runs $30–35/day. Economy options on-airport run $25–30/day. Off-airport lots run $10–20/day. For a 5-day trip, off-airport can save $50–125."
+      },
+      {
+        "q": "Does Sea-Tac have covered parking?",
+        "a": "Yes — the Central Garage is fully covered. Off-airport lots vary; some offer covered structures and others are open-air. Check listings on ParkWhiz or SpotHero to filter by covered parking."
+      },
+      {
+        "q": "How early should I arrive at Sea-Tac airport?",
+        "a": "90 minutes before domestic departures and 2.5 hours before international. TSA lines at SeaTac can be long, especially in summer. If parking off-airport, add 20 minutes for the shuttle."
+      }
+    ],
+    "meta_title": "Sea-Tac Airport Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near Seattle-Tacoma International Airport. Compare off-airport lots, economy garages, and Light Rail options. Save on SEA airport parking.",
+    "parkwhiz_search": "Seattle-Tacoma International Airport SEA"
+  },
+  {
+    "slug": "sfo",
+    "name": "San Francisco International Airport",
+    "iata_code": "SFO",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94128",
+    "address": "San Francisco, CA 94128",
+    "lat": 37.6213,
+    "lng": -122.3790,
+    "annual_passengers": 51000000,
+    "type": "airport",
+    "terminals": ["Terminal 1 (B Gates)", "Terminal 2 (C Gates/D Gates)", "Terminal 3 (E Gates/F Gates)", "International Terminal (A Gates/G Gates)"],
+    "avg_days_parked": 5,
+    "parking_market": "limited",
+    "neighborhoods": ["Millbrae", "South San Francisco", "Burlingame"],
+    "transit": "BART's SFO-Millbrae line runs directly to SFO International Terminal every 15–20 minutes. Downtown San Francisco is about 30 minutes away. Free AirTrain connects the BART station to all terminals. BART is the best option for San Francisco and East Bay travelers.",
+    "parking_tips": "SFO parking is expensive and often full. Official garage parking runs $36–44/day. Off-airport lots in South San Francisco and Millbrae run $15–25/day. BART is highly recommended for Bay Area travelers — SFO is one of the few airports where transit is genuinely faster and cheaper than driving and parking. Book off-airport lots 4–5 days ahead for weekend travel.",
+    "best_lots": "Off-airport lots in South San Francisco on Produce Ave run $15–25/day with free shuttles. Millbrae BART + AirTrain is best for those traveling without heavy luggage.",
+    "worst_lots": "Official hourly garages at SFO run $4/20 min and are expensive for anything over a quick pickup. Terminal garage long-term at $44/day is hard to justify.",
+    "short_term_info": "Short-term parking in terminal garages starts at $4/20 min. Most convenient for pickups directly connected to each terminal. Best for stays under 2 hours.",
+    "long_term_info": "Long-term garage parking runs $36–44/day on-airport. Off-airport lots in South San Francisco run $15–25/day. For a 5-day trip, off-airport saves $55–145.",
+    "arrive_recommendation": "2 hours before domestic, 3 hours before international",
+    "faq": [
+      {
+        "q": "Should I take BART to SFO or drive and park?",
+        "a": "For most Bay Area travelers, BART is cheaper and often faster — especially from San Francisco, Oakland, and the East Bay. SFO parking costs $36–44/day. BART from Embarcadero to SFO costs $10.65 round trip. For 3+ day trips, BART saves $90+."
+      },
+      {
+        "q": "What is the cheapest parking near SFO?",
+        "a": "Off-airport lots on Produce Ave in South San Francisco run $15–25/day with free 24-hour shuttle service. Book on ParkWhiz or SpotHero at least 4–5 days ahead for weekend travel."
+      },
+      {
+        "q": "How much does SFO long-term parking cost?",
+        "a": "Official long-term garages run $36–44/day. Off-airport lots in South San Francisco run $15–25/day. For a 7-day trip, off-airport saves $77–203."
+      },
+      {
+        "q": "How does AirTrain at SFO work?",
+        "a": "AirTrain is a free automated train that runs 24/7 connecting all four terminals, the BART station, rental car center, and long-term parking. Trains run every 4–8 minutes and are the fastest way to move between terminals."
+      },
+      {
+        "q": "How far in advance should I book SFO parking?",
+        "a": "Book 4–5 days ahead for weekend travel and 1–2 weeks ahead for holidays. SFO inventory is tight, especially during summer and major tech conference weeks in the Bay Area."
+      }
+    ],
+    "meta_title": "SFO Airport Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near San Francisco International Airport. Compare BART, off-airport lots, and terminal garages. Save on SFO airport parking.",
+    "parkwhiz_search": "San Francisco International Airport SFO"
+  },
+  {
+    "slug": "mia",
+    "name": "Miami International Airport",
+    "iata_code": "MIA",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33126",
+    "address": "2100 NW 42nd Ave, Miami, FL 33126",
+    "lat": 25.7959,
+    "lng": -80.2870,
+    "annual_passengers": 50000000,
+    "type": "airport",
+    "terminals": ["North Terminal (Concourses D–H)", "Central Terminal (Concourses E–J)", "South Terminal (Concourses A–E)"],
+    "avg_days_parked": 7,
+    "parking_market": "good",
+    "neighborhoods": ["Doral", "Miami Springs", "Coral Gables"],
+    "transit": "Miami-Dade Metrorail's Orange Line has a station at MIA connected by the free MIA Mover automated shuttle. Downtown Miami is 20 minutes by rail. The Brightline intercity train connects MIA to Fort Lauderdale, West Palm Beach, and Orlando from the MIA station.",
+    "parking_tips": "MIA serves a high proportion of international travelers, meaning average stays run 7+ days — making per-day parking cost especially important. Garage parking runs $22–30/day. Off-airport lots in Doral and near NW 36th St run $9–16/day. The Metrorail is a solid option for Miami Beach and Brickell travelers. Book at least 72 hours ahead for holiday weekends.",
+    "best_lots": "Off-airport lots in Doral on NW 25th St and near NW 36th St run $9–16/day with free shuttles — best value for international trips. Garage D is most convenient for American Airlines passengers.",
+    "worst_lots": "Short-term garages can rack up quickly at $3/15 min — use the cell phone lot for pickups instead.",
+    "short_term_info": "Garage parking starts at $3/15 min across all terminals. The cell phone lot is free for pickups under 30 minutes. Best for quick drop-offs and pickups.",
+    "long_term_info": "Blue Garage and other on-airport garages run $22–30/day. Off-airport lots in Doral run $9–16/day. For a 7-day international trip, off-airport saves $91–147.",
+    "arrive_recommendation": "2 hours before domestic, 3 hours before international",
+    "faq": [
+      {
+        "q": "What is the cheapest parking at Miami airport?",
+        "a": "Off-airport lots in Doral on NW 25th St run $9–16/day with free 24-hour shuttle service. For a 7-day international trip, these lots save $91–147 versus on-airport garages. Book on ParkWhiz or SpotHero."
+      },
+      {
+        "q": "Can I take Metrorail to Miami airport?",
+        "a": "Yes — the Orange Line stops at MIA Station, connected to the terminals by the free MIA Mover automated shuttle. Downtown Miami is about 20 minutes by rail. It's a convenient option for travelers near Brickell and the central business district."
+      },
+      {
+        "q": "How much does MIA airport long-term parking cost?",
+        "a": "On-airport garages run $22–30/day. Off-airport lots in Doral run $9–16/day. For a 7-day trip, off-airport saves $91–147."
+      },
+      {
+        "q": "Is there Brightline service to MIA?",
+        "a": "Yes — Brightline's MIA station connects to Fort Lauderdale, West Palm Beach, and Orlando. For travelers coming from South Florida, Brightline is a convenient way to reach the airport without parking."
+      },
+      {
+        "q": "How early should I arrive at Miami airport?",
+        "a": "2 hours before domestic and 3 hours before international flights. MIA handles significant international traffic — immigration and customs lines on arrival can be very long. TSA pre-check is highly recommended."
+      }
+    ],
+    "meta_title": "MIA Airport Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near Miami International Airport. Compare Doral off-airport lots, on-airport garages, and Metrorail options. Save on MIA airport parking.",
+    "parkwhiz_search": "Miami International Airport MIA"
+  },
+  {
+    "slug": "bos",
+    "name": "Boston Logan International Airport",
+    "iata_code": "BOS",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02128",
+    "address": "1 Harborside Dr, Boston, MA 02128",
+    "lat": 42.3656,
+    "lng": -71.0096,
+    "annual_passengers": 40000000,
+    "type": "airport",
+    "terminals": ["Terminal A (Delta/Air France)", "Terminal B (American/Southwest)", "Terminal C (JetBlue/United/Air Canada)", "Terminal E (International)"],
+    "avg_days_parked": 5,
+    "parking_market": "limited",
+    "neighborhoods": ["East Boston", "Revere", "Winthrop"],
+    "transit": "Silver Line SL1 is a free bus to South Station from all terminals — fastest and cheapest option for downtown Boston. MBTA Blue Line (Airport Station) connects via free shuttle. Water taxis run from Rowe's Wharf and Long Wharf to Logan Water Transportation Dock.",
+    "parking_tips": "Logan is the most expensive major airport for parking in New England. Central Parking costs $30–40/day. Off-airport lots in East Boston run $18–28/day. The Silver Line SL1 is free from all terminals to South Station — unbeatable for Back Bay, South End, and South Station travelers. Water taxis from downtown Boston are a scenic and fast alternative. Book off-airport lots at least 72 hours ahead.",
+    "best_lots": "Off-airport lots in East Boston on Maverick St and Bremen St run $18–28/day. Silver Line SL1 (free) is the best option for central Boston travelers.",
+    "worst_lots": "Daily parking in Central Parking runs $38–40/day — among the most expensive in New England. Avoid for multi-day trips.",
+    "short_term_info": "Short-term parking is available at all terminal garages starting at $4/30 min. Convenient but expensive for stays over 2 hours.",
+    "long_term_info": "Central Parking (on-airport) runs $30–40/day. Off-airport lots in East Boston run $18–28/day. Water taxi + Uber/Lyft from downtown may be cheapest for 4+ day trips.",
+    "arrive_recommendation": "2 hours before domestic, 3 hours before international",
+    "faq": [
+      {
+        "q": "How do I get to Logan Airport without a car?",
+        "a": "The Silver Line SL1 runs from every Logan terminal to South Station for free. The MBTA Blue Line connects Airport Station (via free shuttle) to downtown. Water taxis run from Rowe's Wharf and Long Wharf."
+      },
+      {
+        "q": "What is the cheapest parking near Logan Airport?",
+        "a": "Off-airport lots in East Boston on Maverick St run $18–28/day with free shuttle service. Book on ParkWhiz or SpotHero. For long trips, the Silver Line + parking at a South Shore or North Shore commuter rail lot may be even cheaper."
+      },
+      {
+        "q": "How much does Logan Airport parking cost?",
+        "a": "Central Parking (on-airport) runs $30–40/day. Off-airport lots in East Boston run $18–28/day. For a 5-day trip, off-airport saves $60–110."
+      },
+      {
+        "q": "Is the Silver Line really free from Logan?",
+        "a": "Yes — the Silver Line SL1 from Logan terminals to South Station is free. This is a massive perk for travelers heading to Back Bay, South End, and downtown Boston. From South Station, you can transfer to the Red, Silver, or Commuter Rail lines."
+      },
+      {
+        "q": "How far in advance should I book Boston Logan parking?",
+        "a": "Book 72 hours ahead normally. For fall foliage season (September–October) and summer weekends, book 1–2 weeks ahead. Off-airport lots in East Boston fill fast during peak travel periods."
+      }
+    ],
+    "meta_title": "Logan Airport Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near Boston Logan International Airport. Compare East Boston off-airport lots, Silver Line transit, and terminal garages. Save on BOS parking.",
+    "parkwhiz_search": "Boston Logan International Airport BOS"
+  },
+  {
+    "slug": "las",
+    "name": "Harry Reid International Airport",
+    "iata_code": "LAS",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89119",
+    "address": "5757 Wayne Newton Blvd, Las Vegas, NV 89119",
+    "lat": 36.0840,
+    "lng": -115.1537,
+    "annual_passengers": 52000000,
+    "type": "airport",
+    "terminals": ["Terminal 1 (Concourses B & C)", "Terminal 3 (Concourse D/E — International)"],
+    "avg_days_parked": 4,
+    "parking_market": "good",
+    "neighborhoods": ["Paradise", "Winchester", "Enterprise"],
+    "transit": "The Strip & Downtown Express (SDX) bus connects the airport to the Las Vegas Strip hotels for $6. RTC Transit Route 108 connects to the Deuce bus on the Strip. Rideshare from the Strip to LAS is typically $12–20 and often the most convenient option.",
+    "parking_tips": "LAS serves primarily leisure travelers making short 3–4 day trips to Las Vegas, so short-term and weekend-length parking is common. On-airport daily parking runs $16–22/day. Off-airport lots on S. Gibson Rd and near the airport run $8–14/day. Many Strip visitors skip car rental and parking entirely — the hotel monorail and rideshare are convenient. Book online at least 48 hours ahead for weekend arrivals.",
+    "best_lots": "Off-airport lots on S. Gibson Rd run $8–14/day — best value for the rare visitor parking at LAS. On-airport daily garage at $16–22/day is competitive for stays under a week.",
+    "worst_lots": "Hourly rates in terminal garages can accumulate fast — always compare to the daily rate cap.",
+    "short_term_info": "Short-term parking is in Terminal 1 and Terminal 3 garages. Rates start at $2/15 min. Free cell phone waiting lots are available for pickups.",
+    "long_term_info": "On-airport daily parking runs $16–22/day. Off-airport lots run $8–14/day. Given the typical 3–4 day Vegas trip, off-airport saves $24–56 per trip.",
+    "arrive_recommendation": "90 minutes before domestic, 2.5 hours before international",
+    "faq": [
+      {
+        "q": "Should I rent a car in Las Vegas or rely on rideshare?",
+        "a": "Most Vegas visitors don't need a car — the Strip hotels, monorail, and rideshare cover most destinations. If you plan to visit the Grand Canyon, Valley of Fire, or Red Rock Canyon, a rental car makes sense."
+      },
+      {
+        "q": "What is the cheapest parking at Harry Reid Airport?",
+        "a": "Off-airport lots on S. Gibson Rd run $8–14/day with free shuttles. On-airport daily parking runs $16–22/day. Book on ParkWhiz or SpotHero at least 48 hours ahead."
+      },
+      {
+        "q": "How do I get from LAS to the Las Vegas Strip?",
+        "a": "Rideshare ($12–20) and taxi ($20–30) are the most common options. The SDX bus is $6. The airport is only 1.5 miles from the south end of the Strip — Lyft/Uber is the most convenient for most travelers."
+      },
+      {
+        "q": "Is there free parking at Harry Reid Airport?",
+        "a": "There is a free cell phone waiting lot for passenger pickups. All other parking areas charge fees. Off-airport lots are the cheapest paid option at $8–14/day."
+      },
+      {
+        "q": "How much does LAS airport parking cost per day?",
+        "a": "On-airport daily parking runs $16–22/day. Off-airport lots run $8–14/day. For a typical 4-day Vegas trip, off-airport saves $32–56."
+      }
+    ],
+    "meta_title": "LAS Airport Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near Harry Reid Las Vegas International Airport. Compare off-airport lots and terminal garages. Save on LAS airport parking.",
+    "parkwhiz_search": "Harry Reid International Airport Las Vegas"
+  },
+  {
+    "slug": "phx",
+    "name": "Phoenix Sky Harbor International Airport",
+    "iata_code": "PHX",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85034",
+    "address": "3400 E Sky Harbor Blvd, Phoenix, AZ 85034",
+    "lat": 33.4373,
+    "lng": -112.0078,
+    "annual_passengers": 46000000,
+    "type": "airport",
+    "terminals": ["Terminal 3", "Terminal 4"],
+    "avg_days_parked": 5,
+    "parking_market": "good",
+    "neighborhoods": ["Tempe", "East Phoenix", "Ahwatukee"],
+    "transit": "Valley Metro Light Rail connects to Sky Harbor via the free PHX Sky Train automated people mover from 44th St and Washington station. Downtown Phoenix is 20 minutes by rail. Tempe and Mesa stops make this a solid option for East Valley travelers.",
+    "parking_tips": "Sky Harbor has well-organized parking at reasonable prices compared to coastal airports. Economy parking runs $11–15/day. Off-airport lots in Tempe on E. University Dr run $7–12/day. The free PHX Sky Train connects parking areas, the light rail station, and terminals — making the entire airport campus easy to navigate.",
+    "best_lots": "Economy lots and off-airport lots in Tempe on E. University Dr offer the best value at $7–12/day. The PHX Sky Train makes all parking areas equally convenient.",
+    "worst_lots": "East Economy lots furthest from the terminal can involve longer shuttle wait times during peak hours.",
+    "short_term_info": "Terminal 3 and Terminal 4 garages provide short-term parking starting at $3/20 min. The free PHX Sky Train connects them directly to all gates.",
+    "long_term_info": "Economy parking on-airport runs $11–15/day. Off-airport lots in Tempe run $7–12/day. Free PHX Sky Train and shuttles connect all parking options.",
+    "arrive_recommendation": "90 minutes before domestic, 2.5 hours before international",
+    "faq": [
+      {
+        "q": "How does PHX Sky Train work?",
+        "a": "PHX Sky Train is a free automated people mover that connects Terminal 3, Terminal 4, the rental car center, the 44th St light rail station, and all parking areas. It runs 24/7 and is the backbone of the airport's transportation system."
+      },
+      {
+        "q": "What is the cheapest parking near Phoenix Sky Harbor?",
+        "a": "Off-airport lots in Tempe on E. University Dr run $7–12/day with free shuttle service. On-airport economy lots run $11–15/day. Book on ParkWhiz or SpotHero at least 48 hours ahead."
+      },
+      {
+        "q": "Can I take light rail to Phoenix Sky Harbor?",
+        "a": "Yes — Valley Metro Light Rail stops at 44th St and Washington, where the free PHX Sky Train connects to Terminals 3 and 4. Downtown Phoenix is about 20 minutes away on rail. It's a great option for central Phoenix and Tempe travelers."
+      },
+      {
+        "q": "How much does PHX economy parking cost?",
+        "a": "On-airport economy lots run $11–15/day. Off-airport lots in Tempe run $7–12/day. Sky Harbor is one of the more affordable parking options among major US airports."
+      },
+      {
+        "q": "How far in advance should I book PHX parking?",
+        "a": "Book 48 hours ahead normally. Phoenix is a snowbird and spring training destination — February through April can see very high demand. Book 1 week ahead for those periods and major holidays."
+      }
+    ],
+    "meta_title": "PHX Airport Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near Phoenix Sky Harbor International Airport. Compare economy lots, PHX Sky Train access, and off-airport Tempe parking. Save on PHX parking.",
+    "parkwhiz_search": "Phoenix Sky Harbor International Airport PHX"
+  },
+  {
+    "slug": "iah",
+    "name": "George Bush Intercontinental Airport",
+    "iata_code": "IAH",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77032",
+    "address": "2800 N Terminal Rd, Houston, TX 77032",
+    "lat": 29.9902,
+    "lng": -95.3368,
+    "annual_passengers": 43000000,
+    "type": "airport",
+    "terminals": ["Terminal A", "Terminal B", "Terminal C (United hub)", "Terminal D (International)", "Terminal E"],
+    "avg_days_parked": 5,
+    "parking_market": "good",
+    "neighborhoods": ["IAH Corridor", "Greenspoint", "North Houston"],
+    "transit": "IAH is 23 miles from downtown Houston with limited transit options. METRO Bus Route 102 runs to downtown Houston in about 75 minutes. Most travelers drive or use rideshare — rideshare from downtown runs $35–55.",
+    "parking_tips": "IAH is United Airlines' largest hub and is heavily used for business travel. Economy parking runs $14–18/day on-airport. Off-airport lots on JFK Blvd and Will Clayton Pkwy run $8–13/day. Book 72 hours ahead for weekday departures (heavy business travel Mon–Fri). The airport is 23 miles from downtown, making driving the most practical option for most Houston area travelers.",
+    "best_lots": "Off-airport lots on JFK Blvd run $8–13/day with 24-hour shuttles — best value. Economy A and B lots on-airport run $14–18/day and have frequent shuttles.",
+    "worst_lots": "Daily express parking near terminal gates runs $40+/day — not worth it versus economy alternatives.",
+    "short_term_info": "Short-term parking in terminal garages starts at $2/15 min. Convenient for quick pickups with direct skybridge access to terminals B and C.",
+    "long_term_info": "Economy lots A and B on-airport run $14–18/day. Off-airport lots on JFK Blvd run $8–13/day. For a 5-day business trip, off-airport saves $25–50.",
+    "arrive_recommendation": "2 hours before domestic, 3 hours before international",
+    "faq": [
+      {
+        "q": "What is the cheapest parking at Bush Intercontinental?",
+        "a": "Off-airport lots on JFK Blvd run $8–13/day with free 24-hour shuttle service. On-airport economy lots run $14–18/day. Book on ParkWhiz or SpotHero at least 72 hours ahead for business travel days."
+      },
+      {
+        "q": "Is there light rail to IAH airport?",
+        "a": "No — IAH does not have light rail service. METRO Bus Route 102 connects to downtown Houston in about 75 minutes. Most travelers drive or use rideshare ($35–55 from downtown)."
+      },
+      {
+        "q": "How does IAH economy parking work?",
+        "a": "Economy Lots A and B are south of the main terminals. Free shuttle buses run to all terminals every 10–15 minutes, 24/7. Allow 20–25 minutes from economy parking to your gate."
+      },
+      {
+        "q": "How much does IAH long-term parking cost?",
+        "a": "Economy lots run $14–18/day on-airport. Off-airport lots on JFK Blvd run $8–13/day. For a 5-day trip, off-airport saves $25–50."
+      },
+      {
+        "q": "How far in advance should I book IAH parking?",
+        "a": "Book 72 hours ahead for weekday departures when business travel is heaviest. Monday morning and Friday evening departures see the most demand. Book 1 week ahead for holiday travel."
+      }
+    ],
+    "meta_title": "IAH Airport Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near George Bush Intercontinental Airport in Houston. Compare off-airport lots on JFK Blvd, economy parking, and terminal garages. Save on IAH parking.",
+    "parkwhiz_search": "George Bush Intercontinental Airport Houston IAH"
+  },
+  {
+    "slug": "msp",
+    "name": "Minneapolis-Saint Paul International Airport",
+    "iata_code": "MSP",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55450",
+    "address": "4300 Glumack Dr, St. Paul, MN 55450",
+    "lat": 44.8848,
+    "lng": -93.2223,
+    "annual_passengers": 37000000,
+    "type": "airport",
+    "terminals": ["Terminal 1 (Lindbergh)", "Terminal 2 (Humphrey)"],
+    "avg_days_parked": 5,
+    "parking_market": "good",
+    "neighborhoods": ["Richfield", "Bloomington", "Eagan"],
+    "transit": "Metro Blue Line connects both MSP terminals to downtown Minneapolis in about 25 minutes for $2.50. Terminal 1 has a light rail station; Terminal 2 connects via a free shuttle to the Blue Line. One of the most convenient airport transit connections in the Midwest.",
+    "parking_tips": "MSP has well-priced parking compared to coastal airports. Ramp A and B near Terminal 1 run $24–28/day. Off-airport lots near Cedar Ave and 34th Ave run $8–14/day. The Metro Blue Line is excellent for downtown Minneapolis travelers. Winter is brutal here — off-airport lots with heated or covered parking are worth the slight premium for multi-week trips.",
+    "best_lots": "Off-airport lots near Cedar Ave and 34th Ave run $8–14/day with free shuttles. Ramp E (economy) on-airport is $14–18/day and the best official value.",
+    "worst_lots": "Close-in Ramps A and B near the terminal charge $24–28/day — more than necessary for multi-day trips.",
+    "short_term_info": "Short-term parking in Ramp A and B directly adjacent to Terminal 1 starts at $3/15 min. Convenient but expensive for longer stays.",
+    "long_term_info": "Ramp E (economy) runs $14–18/day on-airport. Off-airport lots near Cedar Ave run $8–14/day. Both offer free shuttle service.",
+    "arrive_recommendation": "90 minutes before domestic, 2.5 hours before international",
+    "faq": [
+      {
+        "q": "Can I take the light rail to Minneapolis-Saint Paul Airport?",
+        "a": "Yes — the Metro Blue Line stops directly at Terminal 1 (Lindbergh) and connects to downtown Minneapolis in 25 minutes for $2.50. Terminal 2 connects via a free shuttle. It's one of the best airport transit options in the Midwest."
+      },
+      {
+        "q": "What is the cheapest parking near MSP airport?",
+        "a": "Off-airport lots near Cedar Ave and 34th Ave run $8–14/day with free shuttle service. On-airport economy Ramp E runs $14–18/day. Book on ParkWhiz or SpotHero."
+      },
+      {
+        "q": "Is there heated or covered parking at MSP?",
+        "a": "Yes — official ramps A, B, C, D, and E are all indoor covered parking. Several off-airport lots also offer heated garages, which is worth prioritizing for winter trips (November–March) to protect your battery and avoid frozen locks."
+      },
+      {
+        "q": "How much does MSP long-term parking cost?",
+        "a": "Economy Ramp E on-airport runs $14–18/day. Off-airport lots run $8–14/day. For a 5-day trip, off-airport saves $0–50 depending on the lot."
+      },
+      {
+        "q": "How early should I arrive at Minneapolis airport?",
+        "a": "90 minutes before domestic and 2.5 hours before international flights. MSP has two terminals that don't connect airside — know which terminal your airline uses before you park."
+      }
+    ],
+    "meta_title": "MSP Airport Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near Minneapolis-Saint Paul International Airport. Compare Blue Line light rail, heated garages, and off-airport lots. Save on MSP parking.",
+    "parkwhiz_search": "Minneapolis Saint Paul International Airport MSP"
+  },
+  {
+    "slug": "dtw",
+    "name": "Detroit Metropolitan Wayne County Airport",
+    "iata_code": "DTW",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48242",
+    "address": "11050 W G Davison Fwy, Detroit, MI 48242",
+    "lat": 42.2162,
+    "lng": -83.3554,
+    "annual_passengers": 34000000,
+    "type": "airport",
+    "terminals": ["McNamara Terminal (Delta hub)", "North Terminal (other airlines)"],
+    "avg_days_parked": 5,
+    "parking_market": "good",
+    "neighborhoods": ["Romulus", "Inkster", "Belleville"],
+    "transit": "DTW has limited public transit. SMART Bus Route 261 connects to Detroit's downtown transit center but is slow and infrequent. Most travelers drive or use rideshare ($35–50 from downtown Detroit).",
+    "parking_tips": "DTW is Delta's second largest hub and has extensive well-organized parking. On-airport Blue Deck and Red Deck parking runs $18–24/day. Off-airport lots on Middlebelt Rd and Vining Rd run $7–13/day. Book 48 hours ahead for weekday departures. The McNamara Terminal is one of the nicest and most modern in the US.",
+    "best_lots": "Off-airport lots on Middlebelt Rd and Vining Rd run $7–13/day — best value with free 24-hour shuttles. On-airport Blue and Red decks at $18–24/day for staying on-property.",
+    "worst_lots": "Express parking closest to McNamara terminal can run $35+/day during heavy periods.",
+    "short_term_info": "Short-term parking in McNamara and North Terminal garages starts at $3/20 min. Direct access to terminal via covered walkways.",
+    "long_term_info": "Blue and Red economy decks run $18–24/day on-airport. Off-airport lots run $7–13/day. DTW has some of the most affordable off-airport parking of any major hub.",
+    "arrive_recommendation": "90 minutes before domestic, 2.5 hours before international",
+    "faq": [
+      {
+        "q": "What is the cheapest parking near Detroit airport?",
+        "a": "Off-airport lots on Middlebelt Rd and Vining Rd run $7–13/day with free 24-hour shuttles. DTW has some of the most affordable off-airport parking at any major US hub. Book on ParkWhiz or SpotHero."
+      },
+      {
+        "q": "Which terminal should I use at DTW?",
+        "a": "Delta, Delta Connection, and international partners use the McNamara Terminal. All other airlines use the North Terminal. The terminals are connected by the McNamara Terminal's automated people mover, but allow extra time if you need to switch."
+      },
+      {
+        "q": "How much does DTW airport parking cost?",
+        "a": "On-airport Blue/Red deck economy parking runs $18–24/day. Off-airport lots run $7–13/day. DTW offers some of the best parking value of any major US hub airport."
+      },
+      {
+        "q": "Is there public transit to Detroit airport?",
+        "a": "SMART Bus Route 261 connects DTW to downtown Detroit but is slow and runs limited hours. Most travelers use rideshare ($35–50 from downtown) or drive and park."
+      },
+      {
+        "q": "How far in advance should I book DTW parking?",
+        "a": "Book 48 hours ahead for normal travel. DTW is a major Delta hub with heavy Monday and Friday business travel — book 72 hours ahead for those peak days."
+      }
+    ],
+    "meta_title": "DTW Airport Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near Detroit Metropolitan Airport. Compare off-airport lots on Middlebelt Rd, economy decks, and terminal garages. Save on DTW parking.",
+    "parkwhiz_search": "Detroit Metropolitan Airport DTW"
+  },
+  {
+    "slug": "ewr",
+    "name": "Newark Liberty International Airport",
+    "iata_code": "EWR",
+    "city": "Newark",
+    "state": "NJ",
+    "zip": "07114",
+    "address": "3 Brewster Rd, Newark, NJ 07114",
+    "lat": 40.6895,
+    "lng": -74.1745,
+    "annual_passengers": 46000000,
+    "type": "airport",
+    "terminals": ["Terminal A", "Terminal B", "Terminal C (United hub)"],
+    "avg_days_parked": 7,
+    "parking_market": "limited",
+    "neighborhoods": ["Newark", "Elizabeth", "Harrison"],
+    "transit": "NJ Transit AirTrain connects all terminals to Newark Liberty International Airport station, where NJ Transit trains and Amtrak reach New York Penn Station in 25–35 minutes. A $15.25 one-way NJ Transit surcharge applies for AirTrain connections. PATH train from Newark Penn Station is $3.50 to Manhattan.",
+    "parking_tips": "EWR serves as an overflow airport for the New York metro area and is often cheaper to fly than JFK or LGA. On-airport parking is expensive at $25–35/day in garages. Off-airport lots in Elizabeth and on North Ave run $12–18/day. NJ Transit + AirTrain is the most reliable transit option. Book lots 5–7 days ahead for holiday weekends — EWR sees massive demand during peak periods.",
+    "best_lots": "Off-airport lots in Elizabeth on North Ave and Haynes Ave run $12–18/day with free shuttles. P4 economy parking on-airport is $18–22/day.",
+    "worst_lots": "Short-term hourly lots P1/P2 near Terminal C can run $50+/day for a full day — always check the daily cap.",
+    "short_term_info": "P1/P2 parking is adjacent to Terminals A, B, and C. Rates start at $4/15 min. Free cell phone waiting lot available for pickups.",
+    "long_term_info": "P4 economy parking runs $18–22/day on-airport. Off-airport lots in Elizabeth run $12–18/day. For a 7-day trip, off-airport saves $70–112.",
+    "arrive_recommendation": "2 hours before domestic, 3 hours before international",
+    "faq": [
+      {
+        "q": "How do I get from EWR to New York City?",
+        "a": "Take the free AirTrain to Newark Liberty International station, then NJ Transit to Penn Station in 25 minutes ($15.25 total). Amtrak also stops here but is much more expensive. From Newark Penn, PATH train is $3.50 to Manhattan."
+      },
+      {
+        "q": "What is the cheapest parking near Newark Liberty Airport?",
+        "a": "Off-airport lots in Elizabeth on North Ave and Haynes Ave run $12–18/day with free shuttles. Book on ParkWhiz or SpotHero at least 5 days ahead for peak periods."
+      },
+      {
+        "q": "Is EWR a better choice than JFK or LGA?",
+        "a": "EWR often has cheaper flights, faster security, and less congestion than JFK or LGA. The NJ Transit AirTrain connection is reliable and faster than navigating NYC traffic to JFK. For NJ residents and many Midtown Manhattan travelers, EWR is the best choice."
+      },
+      {
+        "q": "How much does long-term parking at EWR cost?",
+        "a": "P4 economy parking on-airport runs $18–22/day. Off-airport lots in Elizabeth run $12–18/day. For a 7-day international trip, off-airport saves $70–112."
+      },
+      {
+        "q": "How far in advance should I book EWR parking?",
+        "a": "Book 5–7 days ahead for holiday travel. EWR is heavily used during Thanksgiving, Christmas, and spring break. Off-airport lots in Elizabeth sell out fast during peak periods."
+      }
+    ],
+    "meta_title": "EWR Airport Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near Newark Liberty International Airport. Compare off-airport lots in Elizabeth, NJ Transit AirTrain options, and economy parking. Save on EWR parking.",
+    "parkwhiz_search": "Newark Liberty International Airport EWR"
+  },
+  {
+    "slug": "clt",
+    "name": "Charlotte Douglas International Airport",
+    "iata_code": "CLT",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28208",
+    "address": "5501 Josh Birmingham Pkwy, Charlotte, NC 28208",
+    "lat": 35.2144,
+    "lng": -80.9473,
+    "annual_passengers": 52000000,
+    "type": "airport",
+    "terminals": ["Main Terminal", "Concourse A", "Concourse B", "Concourse C", "Concourse D (International)", "Concourse E"],
+    "avg_days_parked": 4,
+    "parking_market": "good",
+    "neighborhoods": ["Wilmore", "Steele Creek", "Berewick"],
+    "transit": "CATS Gold Line streetcar and LYNX Blue Line light rail connect the city, but neither directly serves CLT. Most Charlotte area travelers drive to the airport — it is 7 miles from Uptown Charlotte. Rideshare from Uptown runs $18–30.",
+    "parking_tips": "CLT is American Airlines' largest hub and is busy year-round with connecting traffic. On-airport economy parking runs $10–14/day. Off-airport lots on Josh Birmingham Pkwy and near the entrance roads run $7–12/day. Parking is among the most affordable at any major US hub — book 48 hours ahead for weekday departures.",
+    "best_lots": "Off-airport lots on Josh Birmingham Pkwy run $7–12/day — best value. Economy Blue and Yellow lots on-airport run $10–14/day and have frequent shuttles.",
+    "worst_lots": "Hourly parking directly at the terminal can run $40+/day if you're not careful about time. Always check the daily rate cap.",
+    "short_term_info": "Short-term parking at the terminal starts at $3/15 min. Covered direct-access parking to the terminal concourse is available. Best for pickups and stays under 2 hours.",
+    "long_term_info": "Economy Blue and Yellow lots run $10–14/day on-airport. Off-airport lots run $7–12/day. CLT has some of the most affordable airport parking at any major US hub.",
+    "arrive_recommendation": "90 minutes before domestic, 2.5 hours before international",
+    "faq": [
+      {
+        "q": "What is the cheapest parking at Charlotte Douglas Airport?",
+        "a": "Off-airport lots on Josh Birmingham Pkwy run $7–12/day with free shuttles. On-airport economy lots run $10–14/day. CLT has some of the most affordable parking at any major US hub. Book on ParkWhiz or SpotHero."
+      },
+      {
+        "q": "How much does CLT economy parking cost?",
+        "a": "Economy Blue and Yellow lots on-airport run $10–14/day. Off-airport lots run $7–12/day. For a 4-day trip, off-airport saves $12–28."
+      },
+      {
+        "q": "How far is CLT from downtown Charlotte?",
+        "a": "CLT is about 7 miles from Uptown Charlotte. Rideshare runs $18–30. Without direct rail service, most Charlotte area travelers drive and park."
+      },
+      {
+        "q": "Does Charlotte airport have covered parking?",
+        "a": "Yes — the terminal garage and Hourly parking structure are fully covered. Economy lots are open-air. Off-airport covered options are available; filter for them on ParkWhiz or SpotHero."
+      },
+      {
+        "q": "How far in advance should I book CLT parking?",
+        "a": "Book 48 hours ahead normally. CLT handles massive American Airlines connecting traffic year-round — the airport gets very busy during spring break, summer, and holidays. Book 1 week ahead for those periods."
+      }
+    ],
+    "meta_title": "CLT Airport Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near Charlotte Douglas International Airport. Compare economy lots, off-airport options, and terminal parking. Save on CLT airport parking.",
+    "parkwhiz_search": "Charlotte Douglas International Airport CLT"
+  },
+  {
+    "slug": "mco",
+    "name": "Orlando International Airport",
+    "iata_code": "MCO",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32827",
+    "address": "1 Jeff Fuqua Blvd, Orlando, FL 32827",
+    "lat": 28.4294,
+    "lng": -81.3089,
+    "annual_passengers": 50000000,
+    "type": "airport",
+    "terminals": ["Terminal A (Gates 1–29, 70–99)", "Terminal B (Gates 30–59, 100–129)", "Terminal C (new — Gates 201–249)"],
+    "avg_days_parked": 7,
+    "parking_market": "good",
+    "neighborhoods": ["Lake Nona", "Williamsburg", "Semoran"],
+    "transit": "SunRail commuter rail connects to MCO via the Meadow Woods station, but the connection is indirect — a shuttle runs between the station and airport. Brightline high-speed rail opened an MCO station connecting to Miami via Fort Lauderdale and West Palm Beach.",
+    "parking_tips": "MCO primarily serves leisure travelers visiting Walt Disney World, Universal, and other Orlando attractions — most visitors rent a car and return it before flying home, so long-term parking is common. Daily parking in garages A and B runs $17–22/day. Off-airport lots on S. Semoran Blvd and Tradeport Dr run $7–13/day. Book 72 hours ahead for holiday weeks — MCO sees some of the highest holiday passenger volumes in the US.",
+    "best_lots": "Off-airport lots on S. Semoran Blvd run $7–13/day with free shuttles — best value for multi-week vacations. Garages A and B on-airport are most convenient.",
+    "worst_lots": "Garages A and B charge $17–22/day — significantly more than off-airport lots for the same access.",
+    "short_term_info": "Short-term hourly parking in Garage A and B starts at $3/15 min. Connected directly to the main terminal via covered walkways.",
+    "long_term_info": "Garages A and B run $17–22/day on-airport. Off-airport lots on Semoran Blvd run $7–13/day. For a 7-day Disney World trip, off-airport saves $28–105.",
+    "arrive_recommendation": "2 hours before domestic, 3 hours before international",
+    "faq": [
+      {
+        "q": "What is the cheapest parking at Orlando airport?",
+        "a": "Off-airport lots on S. Semoran Blvd run $7–13/day with free 24-hour shuttle service. For a 7-day Disney World vacation, off-airport saves $28–105 versus MCO garages. Book on ParkWhiz or SpotHero."
+      },
+      {
+        "q": "How does MCO parking work for Disney World trips?",
+        "a": "Most Disney visitors park at MCO for the duration of their trip. Off-airport lots on Semoran Blvd run $7–13/day. For a 7-day trip, parking and renting a car is often cheaper than repeated rideshare to Disney parks."
+      },
+      {
+        "q": "Is there Brightline service to Orlando airport?",
+        "a": "Yes — Brightline's MCO station connects to Miami via Fort Lauderdale and West Palm Beach. For South Florida travelers, this can be a convenient alternative to flying, especially for groups with heavy bags."
+      },
+      {
+        "q": "How much does MCO long-term parking cost?",
+        "a": "On-airport garages run $17–22/day. Off-airport lots run $7–13/day. For a 7-day vacation, the savings are $28–105 by going off-airport."
+      },
+      {
+        "q": "How far in advance should I book MCO parking?",
+        "a": "Book 72 hours ahead normally. MCO sees some of the busiest holiday volumes in the US — book 1–2 weeks ahead for Thanksgiving, Christmas, spring break, and summer weekends in July. Disney-adjacent lots fill especially fast."
+      }
+    ],
+    "meta_title": "MCO Airport Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near Orlando International Airport. Compare off-airport lots, Disney World trip parking, and terminal garages. Save on MCO airport parking.",
+    "parkwhiz_search": "Orlando International Airport MCO"
+  },
+  {
+    "slug": "pdx",
+    "name": "Portland International Airport",
+    "iata_code": "PDX",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97218",
+    "address": "7000 NE Airport Way, Portland, OR 97218",
+    "lat": 45.5898,
+    "lng": -122.5951,
+    "annual_passengers": 20000000,
+    "type": "airport",
+    "terminals": ["Main Terminal", "Concourse A (Alaska/Delta)", "Concourse B (Southwest)", "Concourse C (United)", "Concourse D (American/International)", "Concourse E (Alaska/Southwest)"],
+    "avg_days_parked": 5,
+    "parking_market": "good",
+    "neighborhoods": ["Parkrose", "Sumner", "Columbia South Shore"],
+    "transit": "TriMet MAX Red Line connects PDX directly to downtown Portland in about 38 minutes for $2.80 — one of the most convenient airport transit connections in the Pacific Northwest. Trains run every 15 minutes and the station is inside the terminal.",
+    "parking_tips": "PDX is smaller and more manageable than Seattle or San Francisco. Economy parking runs $14–18/day on-airport. Off-airport lots on NE 82nd Ave and Columbia Blvd run $8–13/day. The MAX Red Line is an excellent option for central Portland travelers and eliminates the parking problem entirely for many visitors.",
+    "best_lots": "Off-airport lots on NE 82nd Ave run $8–13/day with free shuttles. Economy Lot C on-airport is $14–18/day and a solid on-property option.",
+    "worst_lots": "Short-term hourly rates in the covered garage escalate fast after 2 hours — always compare to the daily cap if your pickup runs long.",
+    "short_term_info": "Short-term parking in the covered garage at the terminal starts at $3/20 min. Directly connected to the terminal. Best for pickups under 2 hours.",
+    "long_term_info": "Economy Lot C runs $14–18/day on-airport. Off-airport lots on NE 82nd Ave run $8–13/day. MAX Red Line is effectively free parking for nearby travelers.",
+    "arrive_recommendation": "90 minutes before domestic, 2.5 hours before international",
+    "faq": [
+      {
+        "q": "Should I take MAX to Portland airport or drive?",
+        "a": "For most Portland-area travelers, the MAX Red Line is the best option — $2.80 from downtown, 38 minutes, and the station is inside the terminal. No parking costs, no traffic. Great for solo travelers and couples with manageable luggage."
+      },
+      {
+        "q": "What is the cheapest parking near Portland airport?",
+        "a": "Off-airport lots on NE 82nd Ave run $8–13/day with free shuttle service. On-airport Economy Lot C runs $14–18/day. Book on ParkWhiz or SpotHero at least 48 hours ahead."
+      },
+      {
+        "q": "How much does PDX economy parking cost?",
+        "a": "Economy Lot C on-airport runs $14–18/day. Off-airport lots run $8–13/day. For a 5-day trip, off-airport saves $5–50."
+      },
+      {
+        "q": "Does PDX have covered parking?",
+        "a": "Yes — the main garage is fully covered. Economy Lot C is partially covered. The covered garage is connected to the terminal and is the most convenient option for rainy Pacific Northwest arrivals."
+      },
+      {
+        "q": "How far in advance should I book PDX parking?",
+        "a": "Book 48 hours ahead normally. PDX is a smaller airport than SEA and inventory is rarely as tight. Summer travel season and holiday weekends warrant booking 72 hours ahead."
+      }
+    ],
+    "meta_title": "PDX Airport Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near Portland International Airport. Compare MAX Red Line transit, off-airport lots, and economy parking. Save on PDX airport parking.",
+    "parkwhiz_search": "Portland International Airport PDX"
+  },
+  {
+    "slug": "san",
+    "name": "San Diego International Airport",
+    "iata_code": "SAN",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "address": "3225 N Harbor Dr, San Diego, CA 92101",
+    "lat": 32.7338,
+    "lng": -117.1933,
+    "annual_passengers": 25000000,
+    "type": "airport",
+    "terminals": ["Terminal 1", "Terminal 2", "Commuter Terminal"],
+    "avg_days_parked": 5,
+    "parking_market": "limited",
+    "neighborhoods": ["Midway District", "Old Town", "Harbor Island"],
+    "transit": "MTS Route 992 Airport Shuttle runs between the airport and downtown San Diego's Santa Fe Depot for $2.50. The Trolley (light rail) stop at Old Town connects to the airport via a short bus or rideshare. Rideshare from Downtown San Diego is $12–20 — often the most convenient option.",
+    "parking_tips": "SAN is one of the most congested airports in the US due to downtown San Diego's urban setting. On-airport parking is expensive and fills fast — Terminal 1 and 2 garages run $30–36/day. Off-airport lots in the Midway District and on Pacific Hwy run $14–22/day. Book at least 72 hours ahead — SAN is notoriously low on parking inventory year-round, especially summer.",
+    "best_lots": "Off-airport lots on Pacific Hwy and in the Midway District run $14–22/day with free shuttles — best value by a significant margin. Economy parking on-airport is rarely worth $30+/day.",
+    "worst_lots": "Official terminal garages at $30–36/day are among the most expensive for a mid-size airport. Off-airport is almost always the better choice.",
+    "short_term_info": "Short-term parking in Terminal 1 and 2 garages starts at $4/20 min. Best for pickups directly connected to baggage claim.",
+    "long_term_info": "Official parking runs $30–36/day. Off-airport lots in the Midway District run $14–22/day. For a 5-day trip, off-airport saves $40–110.",
+    "arrive_recommendation": "90 minutes before domestic, 2.5 hours before international",
+    "faq": [
+      {
+        "q": "What is the cheapest parking near San Diego airport?",
+        "a": "Off-airport lots on Pacific Hwy and in the Midway District run $14–22/day with free shuttle service. Book on ParkWhiz or SpotHero at least 72 hours ahead — SAN has limited parking inventory year-round."
+      },
+      {
+        "q": "How do I get from downtown San Diego to the airport?",
+        "a": "MTS Route 992 runs between Santa Fe Depot (downtown) and the airport for $2.50. Rideshare from Downtown is $12–20. The airport is only 3 miles from the Gaslamp Quarter."
+      },
+      {
+        "q": "Why is SAN parking so expensive?",
+        "a": "San Diego International is built in one of the most land-constrained urban settings of any US airport. There's very little space for parking expansion, which keeps prices high and inventory tight. Off-airport lots in the Midway District are the best solution."
+      },
+      {
+        "q": "How much does SAN airport parking cost?",
+        "a": "Official terminal garages run $30–36/day. Off-airport lots run $14–22/day. For a 5-day trip, off-airport saves $40–110."
+      },
+      {
+        "q": "How far in advance should I book San Diego airport parking?",
+        "a": "Book at least 72 hours ahead — and 1–2 weeks ahead for summer travel (June–August). SAN consistently has some of the tightest parking inventory of any mid-size US airport. Spots go fast."
+      }
+    ],
+    "meta_title": "SAN Airport Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_description": "Find and reserve parking near San Diego International Airport. Compare off-airport lots in Midway District, terminal garages, and transit options. Save on SAN parking.",
+    "parkwhiz_search": "San Diego International Airport SAN"
+  }
+]
