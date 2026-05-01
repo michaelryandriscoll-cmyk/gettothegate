@@ -38,8 +38,8 @@ export default async function AirportParkingPage({ params }: Props) {
   if (!airport) notFound()
 
   const badge = getParkingMarketBadge(airport.parking_market)
-  const spotheroUrl = `https://spothero.com/search?query=${encodeURIComponent(airport.name + ' ' + airport.city)}`
-  const parkwhizUrl = `https://www.parkwhiz.com/s/?q=${encodeURIComponent(airport.parkwhiz_search)}`
+  const spotheroUrl = `https://spothero.com/search?query=${encodeURIComponent(airport.name + ' ' + airport.city + ' airport parking')}`
+  const parkwhizUrl = `https://www.parkwhiz.com/s/?q=${encodeURIComponent(airport.name + ' airport parking')}`
   const parkingAccessUrl = `https://parkingaccess.com/go/${airport.iata_code}?rfid=FNlRtJgyId`
 
   const jsonLd = {
