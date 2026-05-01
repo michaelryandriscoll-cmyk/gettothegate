@@ -40,6 +40,7 @@ export default async function AirportParkingPage({ params }: Props) {
   const badge = getParkingMarketBadge(airport.parking_market)
   const spotheroUrl = `https://spothero.com/search?query=${encodeURIComponent(airport.name + ' ' + airport.city)}`
   const parkwhizUrl = `https://www.parkwhiz.com/s/?q=${encodeURIComponent(airport.parkwhiz_search)}`
+  const parkingAccessUrl = `https://parkingaccess.com/go/${airport.iata_code}?rfid=FNlRtJgyId`
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -104,6 +105,9 @@ export default async function AirportParkingPage({ params }: Props) {
                 </a>
                 <a href={parkwhizUrl} target="_blank" rel="noopener noreferrer" className="btn-secondary">
                   Search ParkWhiz
+                </a>
+                <a href={parkingAccessUrl} target="_blank" rel="noopener noreferrer" className="btn-secondary">
+                  Search Parking Access
                 </a>
               </div>
             </div>
@@ -209,6 +213,9 @@ export default async function AirportParkingPage({ params }: Props) {
               </a>
               <a href={parkwhizUrl} target="_blank" rel="noopener noreferrer" className="btn-outline btn-full" style={{marginTop: '8px'}}>
                 Search ParkWhiz →
+              </a>
+              <a href={parkingAccessUrl} target="_blank" rel="noopener noreferrer" className="btn-outline btn-full" style={{marginTop: '8px'}}>
+                Search Parking Access →
               </a>
             </div>
 
