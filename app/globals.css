@@ -402,6 +402,91 @@ a:hover {
   content: '🚪 ';
 }
 
+/* PARKING WIDGET */
+@keyframes pw-spin {
+  to { transform: rotate(360deg); }
+}
+
+.parking-widget {
+  margin-bottom: 24px;
+}
+
+.parking-widget-loading {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 20px;
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
+.parking-widget-spinner {
+  width: 18px;
+  height: 18px;
+  border: 2px solid var(--border);
+  border-top-color: var(--blue);
+  border-radius: 50%;
+  flex-shrink: 0;
+  animation: pw-spin 0.7s linear infinite;
+}
+
+.parking-result-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+}
+
+.parking-result-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  box-shadow: var(--shadow);
+}
+
+.parking-result-card-name {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--black);
+  line-height: 1.4;
+}
+
+.parking-result-card-meta {
+  display: flex;
+  gap: 12px;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.parking-result-card-price {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--green);
+}
+
+.parking-widget-fallback {
+  padding: 20px;
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 14px;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+.parking-widget-fallback-links {
+  display: flex;
+  gap: 10px;
+  margin-top: 12px;
+  flex-wrap: wrap;
+}
+
 /* FAQ */
 .faq-list {
   display: flex;

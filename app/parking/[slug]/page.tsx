@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { getAllVenues, getVenueBySlug, formatCapacity, getParkingMarketBadge } from '@/lib/venues'
+import ParkingWidget from '@/components/ParkingWidget'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -110,6 +111,15 @@ export default async function VenueParkingPage({ params }: Props) {
             </div>
           </div>
         </section>
+
+        <div className="container" style={{ paddingTop: '24px' }}>
+          <ParkingWidget
+            slug={venue.slug}
+            venueName={venue.name}
+            spotheroUrl={spotheroUrl}
+            parkwhizUrl={parkwhizUrl}
+          />
+        </div>
 
         <section className="venue-info-bar">
           <div className="container">
