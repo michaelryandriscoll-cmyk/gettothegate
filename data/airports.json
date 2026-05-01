@@ -1,6 +1,6 @@
 [
   {
-    "slug": "lax",
+    "slug": "lax-airport-parking",
     "name": "Los Angeles International Airport",
     "iata_code": "LAX",
     "city": "Los Angeles",
@@ -49,7 +49,7 @@
     "parkwhiz_search": "Los Angeles International Airport LAX"
   },
   {
-    "slug": "jfk",
+    "slug": "jfk-airport-parking",
     "name": "John F. Kennedy International Airport",
     "iata_code": "JFK",
     "city": "New York",
@@ -98,7 +98,7 @@
     "parkwhiz_search": "JFK Airport New York"
   },
   {
-    "slug": "ord",
+    "slug": "ord-airport-parking",
     "name": "O'Hare International Airport",
     "iata_code": "ORD",
     "city": "Chicago",
@@ -147,7 +147,7 @@
     "parkwhiz_search": "O'Hare International Airport Chicago"
   },
   {
-    "slug": "atl",
+    "slug": "atl-airport-parking",
     "name": "Hartsfield-Jackson Atlanta International Airport",
     "iata_code": "ATL",
     "city": "Atlanta",
@@ -196,7 +196,7 @@
     "parkwhiz_search": "Hartsfield-Jackson Atlanta International Airport"
   },
   {
-    "slug": "dfw",
+    "slug": "dfw-airport-parking",
     "name": "Dallas/Fort Worth International Airport",
     "iata_code": "DFW",
     "city": "Dallas",
@@ -245,7 +245,7 @@
     "parkwhiz_search": "Dallas Fort Worth International Airport DFW"
   },
   {
-    "slug": "den",
+    "slug": "den-airport-parking",
     "name": "Denver International Airport",
     "iata_code": "DEN",
     "city": "Denver",
@@ -294,7 +294,7 @@
     "parkwhiz_search": "Denver International Airport DEN"
   },
   {
-    "slug": "sea",
+    "slug": "sea-airport-parking",
     "name": "Seattle-Tacoma International Airport",
     "iata_code": "SEA",
     "city": "Seattle",
@@ -343,7 +343,7 @@
     "parkwhiz_search": "Seattle-Tacoma International Airport SEA"
   },
   {
-    "slug": "sfo",
+    "slug": "sfo-airport-parking",
     "name": "San Francisco International Airport",
     "iata_code": "SFO",
     "city": "San Francisco",
@@ -392,7 +392,7 @@
     "parkwhiz_search": "San Francisco International Airport SFO"
   },
   {
-    "slug": "mia",
+    "slug": "mia-airport-parking",
     "name": "Miami International Airport",
     "iata_code": "MIA",
     "city": "Miami",
@@ -441,7 +441,7 @@
     "parkwhiz_search": "Miami International Airport MIA"
   },
   {
-    "slug": "bos",
+    "slug": "bos-airport-parking",
     "name": "Boston Logan International Airport",
     "iata_code": "BOS",
     "city": "Boston",
@@ -490,7 +490,7 @@
     "parkwhiz_search": "Boston Logan International Airport BOS"
   },
   {
-    "slug": "las",
+    "slug": "las-airport-parking",
     "name": "Harry Reid International Airport",
     "iata_code": "LAS",
     "city": "Las Vegas",
@@ -539,7 +539,7 @@
     "parkwhiz_search": "Harry Reid International Airport Las Vegas"
   },
   {
-    "slug": "phx",
+    "slug": "phx-airport-parking",
     "name": "Phoenix Sky Harbor International Airport",
     "iata_code": "PHX",
     "city": "Phoenix",
@@ -588,7 +588,7 @@
     "parkwhiz_search": "Phoenix Sky Harbor International Airport PHX"
   },
   {
-    "slug": "iah",
+    "slug": "iah-airport-parking",
     "name": "George Bush Intercontinental Airport",
     "iata_code": "IAH",
     "city": "Houston",
@@ -637,7 +637,7 @@
     "parkwhiz_search": "George Bush Intercontinental Airport Houston IAH"
   },
   {
-    "slug": "msp",
+    "slug": "msp-airport-parking",
     "name": "Minneapolis-Saint Paul International Airport",
     "iata_code": "MSP",
     "city": "Minneapolis",
@@ -686,7 +686,7 @@
     "parkwhiz_search": "Minneapolis Saint Paul International Airport MSP"
   },
   {
-    "slug": "dtw",
+    "slug": "dtw-airport-parking",
     "name": "Detroit Metropolitan Wayne County Airport",
     "iata_code": "DTW",
     "city": "Detroit",
@@ -735,7 +735,7 @@
     "parkwhiz_search": "Detroit Metropolitan Airport DTW"
   },
   {
-    "slug": "ewr",
+    "slug": "ewr-airport-parking",
     "name": "Newark Liberty International Airport",
     "iata_code": "EWR",
     "city": "Newark",
@@ -784,7 +784,7 @@
     "parkwhiz_search": "Newark Liberty International Airport EWR"
   },
   {
-    "slug": "clt",
+    "slug": "clt-airport-parking",
     "name": "Charlotte Douglas International Airport",
     "iata_code": "CLT",
     "city": "Charlotte",
@@ -833,7 +833,7 @@
     "parkwhiz_search": "Charlotte Douglas International Airport CLT"
   },
   {
-    "slug": "mco",
+    "slug": "mco-airport-parking",
     "name": "Orlando International Airport",
     "iata_code": "MCO",
     "city": "Orlando",
@@ -882,7 +882,7 @@
     "parkwhiz_search": "Orlando International Airport MCO"
   },
   {
-    "slug": "pdx",
+    "slug": "pdx-airport-parking",
     "name": "Portland International Airport",
     "iata_code": "PDX",
     "city": "Portland",
@@ -931,7 +931,7 @@
     "parkwhiz_search": "Portland International Airport PDX"
   },
   {
-    "slug": "san",
+    "slug": "san-airport-parking",
     "name": "San Diego International Airport",
     "iata_code": "SAN",
     "city": "San Diego",

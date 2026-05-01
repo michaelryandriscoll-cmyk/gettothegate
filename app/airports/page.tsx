@@ -10,11 +10,11 @@ export const metadata: Metadata = {
 }
 
 const REGIONS: Record<string, string[]> = {
-  Northeast: ['bos', 'ewr', 'jfk'],
-  Southeast: ['atl', 'clt', 'mco', 'mia'],
-  Midwest:   ['dtw', 'msp', 'ord'],
-  South:     ['dfw', 'iah'],
-  West:      ['den', 'las', 'lax', 'pdx', 'phx', 'san', 'sea', 'sfo'],
+  Northeast: ['bos-airport-parking', 'ewr-airport-parking', 'jfk-airport-parking'],
+  Southeast: ['atl-airport-parking', 'clt-airport-parking', 'mco-airport-parking', 'mia-airport-parking'],
+  Midwest:   ['dtw-airport-parking', 'msp-airport-parking', 'ord-airport-parking'],
+  South:     ['dfw-airport-parking', 'iah-airport-parking'],
+  West:      ['den-airport-parking', 'las-airport-parking', 'lax-airport-parking', 'pdx-airport-parking', 'phx-airport-parking', 'san-airport-parking', 'sea-airport-parking', 'sfo-airport-parking'],
 }
 
 export default function AirportsListingPage() {
