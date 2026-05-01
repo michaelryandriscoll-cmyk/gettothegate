@@ -38,7 +38,7 @@ export default async function VenueParkingPage({ params }: Props) {
   if (!venue) notFound()
 
   const badge = getParkingMarketBadge(venue.parking_market)
-  const spotheroUrl = `https://spothero.com/search?query=${encodeURIComponent(venue.name + ' ' + venue.city)}`
+  const spotheroUrl = `https://spothero.com/search?query=${encodeURIComponent(venue.address)}`
   const parkwhizUrl = `https://www.parkwhiz.com/s/?q=${encodeURIComponent(venue.parkwhiz_search)}`
   const stubhubUrl = `https://www.stubhub.com/venue/${venue.stubhub_venue_id}/`
 
