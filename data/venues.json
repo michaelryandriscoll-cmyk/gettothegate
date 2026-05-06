@@ -4340,6 +4340,237 @@
     "meta_title": "Rose Bowl Parking — Pasadena Stadium Parking Guide | GetToTheGate",
     "meta_description": "Find parking near the Rose Bowl in Pasadena for UCLA football, LA Galaxy, concerts, and Olympics 2028. Compare lots and book before the traffic hits.",
     "stubhub_venue_id": "9118",
-    "parkwhiz_search": "Rose Bowl Pasadena"
+   "parkwhiz_search": "Rose Bowl Pasadena"
+    },
+    {
+    "slug": "bank-of-america-stadium",
+    "name": "Bank of America Stadium",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28202",
+    "address": "800 S Mint St, Charlotte, NC 28202",
+    "lat": 35.2258,
+    "lng": -80.8528,
+    "capacity": 74867,
+    "type": "stadium",
+    "sport": "NFL/MLS/Concerts",
+    "teams": [
+      "Carolina Panthers",
+      "Charlotte FC"
+    ],
+    "event_frequency": "very_high",
+    "home_games_per_year": 16,
+    "parking_market": "excellent",
+    "neighborhoods": [
+      "Uptown Charlotte",
+      "South End",
+      "Third Ward"
+    ],
+    "transit": "CATS Light Rail — Carson station is adjacent to the stadium on the Blue Line.",
+    "parking_tips": "Bank of America Stadium sits in Uptown Charlotte with an outstanding private lot market surrounding it. Third Ward and South End have dozens of surface lots and garages within easy walking distance. Mint St, Graham St, and Martin Luther King Jr Blvd lots are closest. For Panthers games and Charlotte FC matches, book online well in advance — Uptown Charlotte parking fills fast on event days. The CATS Blue Line light rail with Carson station right next to the stadium is an excellent alternative.",
+    "best_lots": "Third Ward lots on Mint St and Graham St are closest. South End lots along the light rail corridor offer great value with an easy walk or short rail ride.",
+    "worst_lots": "Official stadium lots are the most expensive. Private surrounding lots offer significantly better value at similar or better proximity.",
+    "gates": [
+      "Gate 1 (Mint St — North)",
+      "Gate 2 (Graham St — West)",
+      "Gate 3 (Martin Luther King Jr Blvd — South)",
+      "Gate 4 (Morehead St — East)"
+    ],
+    "arrive_recommendation": "90 minutes before kickoff — Uptown Charlotte traffic backs up significantly on Panthers and Charlotte FC game days",
+    "faq": [
+      {
+        "q": "Where is the best parking near Bank of America Stadium?",
+        "a": "Third Ward lots on Mint St and Graham St are closest. South End and Uptown Charlotte have dozens of private lots within walking distance — book online to lock in the best rates."
+      },
+      {
+        "q": "Can I take the light rail to Bank of America Stadium?",
+        "a": "Yes — the CATS Blue Line has Carson station right next to the stadium. It's one of the best transit options of any NFL stadium and strongly recommended for big games."
+      },
+      {
+        "q": "How much is parking at Bank of America Stadium?",
+        "a": "Private lots in Third Ward and Uptown typically run $20-40 for Panthers games. Official lots are more expensive. Book online — Charlotte parking fills fast on NFL Sundays."
+      },
+      {
+        "q": "Does Charlotte FC also play at Bank of America Stadium?",
+        "a": "Yes — Charlotte FC of MLS shares the stadium with the Carolina Panthers. MLS match days also draw strong parking demand in Uptown."
+      },
+      {
+        "q": "How early should I arrive at Bank of America Stadium?",
+        "a": "90 minutes before kickoff for Panthers games. Uptown Charlotte has limited road capacity and backs up quickly. The light rail is the fastest way in on sold-out days."
+      }
+    ],
+    "meta_title": "Bank of America Stadium Parking — Panthers & Charlotte FC Parking Guide | GetToTheGate",
+    "meta_description": "Find parking near Bank of America Stadium in Charlotte. Compare Third Ward lots vs light rail for Panthers games and Charlotte FC matches.",
+    "stubhub_venue_id": "3921",
+    "parkwhiz_search": "Bank of America Stadium Charlotte"
+  },
+  {
+    "slug": "spectrum-center-charlotte",
+    "name": "Spectrum Center",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28202",
+    "address": "333 E Trade St, Charlotte, NC 28202",
+    "lat": 35.2251,
+    "lng": -80.8392,
+    "capacity": 19077,
+    "type": "arena",
+    "sport": "NBA/Concerts/Events",
+    "teams": [
+      "Charlotte Hornets"
+    ],
+    "event_frequency": "very_high",
+    "home_games_per_year": 41,
+    "parking_market": "excellent",
+    "neighborhoods": [
+      "Uptown Charlotte",
+      "First Ward",
+      "Second Ward"
+    ],
+    "transit": "CATS Light Rail — Uptown stations on the Blue Line serve the arena. Multiple bus routes through Uptown.",
+    "parking_tips": "Spectrum Center is in the heart of Uptown Charlotte surrounded by garages and surface lots throughout the CBD. First Ward and Second Ward have excellent private lot inventory within easy walking distance. Trade St, College St, and Fourth St garages are closest. With 41 Hornets home games plus concerts and events, this is one of the most active parking markets in the Carolinas. Book online for playoff games and major concerts — Uptown fills fast.",
+    "best_lots": "First Ward lots on College St and Trade St are closest. Uptown garages on Fourth St and Davidson St offer competitive rates with short walks.",
+    "worst_lots": "Convention Center parking is priced for convention attendees and overpriced for arena events.",
+    "gates": [
+      "Main Entrance (Trade St)",
+      "North Entrance (Fifth St)",
+      "South Entrance (Third St)",
+      "East Entrance (College St)"
+    ],
+    "arrive_recommendation": "60 minutes before tip-off — Uptown Charlotte traffic is manageable but garages fill on sold-out nights",
+    "faq": [
+      {
+        "q": "Where should I park for Spectrum Center Charlotte?",
+        "a": "First Ward lots on College St and Trade St are closest. Uptown Charlotte has excellent garage and surface lot supply within easy walking distance of the arena."
+      },
+      {
+        "q": "How much is parking near Spectrum Center?",
+        "a": "Uptown Charlotte lots typically run $15-30 for Hornets games. Book online for playoff games and major concerts when demand spikes significantly."
+      },
+      {
+        "q": "Can I take transit to Spectrum Center?",
+        "a": "Yes — CATS Light Rail Blue Line serves Uptown Charlotte with multiple stations near the arena. Several bus routes also run through Uptown on event nights."
+      },
+      {
+        "q": "How early should I arrive at Spectrum Center?",
+        "a": "60 minutes before tip-off is comfortable for most Hornets games. For sold-out games and major concerts, give yourself 90 minutes to find parking and get settled."
+      },
+      {
+        "q": "Is Spectrum Center good for concerts?",
+        "a": "Yes — Spectrum Center is Charlotte's premier indoor concert venue hosting major national tours. Concert nights drive some of the highest parking demand in Uptown."
+      }
+    ],
+    "meta_title": "Spectrum Center Parking Charlotte — Hornets & Concert Parking Guide | GetToTheGate",
+    "meta_description": "Find parking near Spectrum Center in Charlotte. Compare Uptown lots for Hornets games and concerts — book before you go.",
+    "stubhub_venue_id": "9876",
+    "parkwhiz_search": "Spectrum Center Charlotte"
+  },
+  {
+    "slug": "truist-field-charlotte",
+    "name": "Truist Field",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28202",
+    "address": "324 S Mint St, Charlotte, NC 28202",
+    "lat": 35.2222,
+    "lng": -80.8514,
+    "capacity": 10200,
+    "type": "stadium",
+    "sport": "MiLB",
+    "teams": [
+      "Charlotte Knights"
+    ],
+    "event_frequency": "high",
+    "home_games_per_year": 70,
+    "parking_market": "good",
+    "neighborhoods": [
+      "Uptown Charlotte",
+      "Third Ward",
+      "South End"
+    ],
+    "transit": "CATS Light Rail — Carson station is steps from the ballpark on the Blue Line.",
+    "parking_tips": "Truist Field sits just south of Uptown Charlotte next to Bank of America Stadium, sharing the same excellent Third Ward parking market. Surface lots on Mint St and Graham St are closest. Minor league games generally have lower demand than Panthers or Hornets events, so walk-up availability is usually good. On nights when the Knights and Panthers both play, book early as Third Ward lots fill faster. The CATS Blue Line with Carson station right next to the park is a great option.",
+    "best_lots": "Third Ward surface lots on Mint St and Graham St are directly adjacent. Same lots that serve Bank of America Stadium — excellent proximity.",
+    "worst_lots": "Uptown structured garages further into the CBD are a longer walk and not worth it when Third Ward surface lots are available.",
+    "gates": [
+      "Main Gate (Mint St)",
+      "Right Field Gate (Martin Luther King Jr Blvd)"
+    ],
+    "arrive_recommendation": "45-60 minutes before first pitch",
+    "faq": [
+      {
+        "q": "Where should I park for Charlotte Knights games?",
+        "a": "Third Ward surface lots on Mint St and Graham St right next to the ballpark are the best option. Same lots serve Bank of America Stadium — easy walk, competitive prices."
+      },
+      {
+        "q": "How much is parking at Truist Field?",
+        "a": "Third Ward lots typically run $10-20 for Knights games — one of the more affordable minor league parking markets. Book online for fireworks nights and sellouts."
+      },
+      {
+        "q": "Can I take the light rail to Truist Field?",
+        "a": "Yes — CATS Blue Line Carson station is right next to the ballpark. It's one of the best transit-accessible minor league parks in the country."
+      },
+      {
+        "q": "Does Truist Field share parking with Bank of America Stadium?",
+        "a": "Yes — both venues share the Third Ward parking market. On rare nights when both have events, book early as lots fill faster."
+      }
+    ],
+    "meta_title": "Truist Field Parking — Charlotte Knights Game Parking Guide | GetToTheGate",
+    "meta_description": "Find parking near Truist Field in Charlotte for Charlotte Knights games. Third Ward lots steps from the ballpark — compare prices and book online.",
+    "stubhub_venue_id": "17234",
+    "parkwhiz_search": "Truist Field Charlotte"
+  },
+  {
+    "slug": "pnc-music-pavilion",
+    "name": "PNC Music Pavilion",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28269",
+    "address": "707 Pavilion Blvd, Charlotte, NC 28269",
+    "lat": 35.3429,
+    "lng": -80.8024,
+    "capacity": 19500,
+    "type": "amphitheater",
+    "sport": "Concerts/Events",
+    "teams": [],
+    "event_frequency": "high",
+    "home_games_per_year": 0,
+    "parking_market": "good",
+    "neighborhoods": [
+      "University City",
+      "North Charlotte",
+      "Pavilion Area"
+    ],
+    "transit": "No direct transit. PNC Music Pavilion is suburban — driving or rideshare are the primary options.",
+    "parking_tips": "PNC Music Pavilion is a suburban amphitheater in north Charlotte with large on-site parking lots as the primary option. Official lots are well-organized but fill up fast for major shows. Private lots in the surrounding Pavilion Blvd area offer cheaper alternatives. Rideshare drop-off is popular and avoids parking entirely. For major national tours and sold-out shows, book parking in advance — the suburban single-road approach creates significant exit traffic after shows.",
+    "best_lots": "Official PNC Music Pavilion lots are the most convenient and well-organized. Arrive early to get the closest spots.",
+    "worst_lots": "Overflow lots furthest from the venue require a long walk and the worst exit traffic — not worth the savings.",
+    "gates": [
+      "Main Gate (Pavilion Blvd)",
+      "VIP Entrance (North)"
+    ],
+    "arrive_recommendation": "90 minutes before showtime — suburban road approach backs up significantly for sold-out shows",
+    "faq": [
+      {
+        "q": "Where do you park for PNC Music Pavilion?",
+        "a": "Official on-site lots are the primary and most convenient option. Book in advance for major shows — they fill up fast. Private lots on Pavilion Blvd offer cheaper alternatives."
+      },
+      {
+        "q": "How much is parking at PNC Music Pavilion?",
+        "a": "Official lots typically run $20-30. Private lots nearby can be cheaper. Rideshare is a popular alternative to avoid parking costs and exit traffic entirely."
+      },
+      {
+        "q": "Is there transit to PNC Music Pavilion?",
+        "a": "No direct transit service. PNC Music Pavilion is in suburban north Charlotte — driving or rideshare are the main options. Rideshare pickup and dropoff is well-organized at the venue."
+      },
+      {
+        "q": "How early should I arrive at PNC Music Pavilion?",
+        "a": "90 minutes before showtime for major concerts. The suburban road approach backs up badly for sold-out shows and exit traffic can add 45-60 minutes after the show ends."
+      }
+    ],
+    "meta_title": "PNC Music Pavilion Parking — Charlotte Concert Parking Guide | GetToTheGate",
+    "meta_description": "Find parking near PNC Music Pavilion in Charlotte. Compare on-site lots and private options for concerts — book before the show.",
+    "stubhub_venue_id": "12543",
+    "parkwhiz_search": "PNC Music Pavilion Charlotte"
   }
 ]
