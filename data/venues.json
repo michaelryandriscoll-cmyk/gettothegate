@@ -4217,5 +4217,129 @@
     "meta_description": "Find parking near Neyland Stadium in Knoxville. Park downtown and walk the pedestrian bridge \u2014 compare prices for Tennessee football.",
     "stubhub_venue_id": "9106",
     "parkwhiz_search": "Neyland Stadium Knoxville"
+  },
+  {
+    "slug": "sofi-stadium",
+    "name": "SoFi Stadium",
+    "city": "Inglewood",
+    "state": "CA",
+    "zip": "90301",
+    "address": "1001 Stadium Dr, Inglewood, CA 90301",
+    "lat": 33.9535,
+    "lng": -118.3392,
+    "capacity": 70240,
+    "type": "stadium",
+    "sport": "NFL/Concerts/Olympics 2028",
+    "teams": [
+      "Los Angeles Rams",
+      "Los Angeles Chargers"
+    ],
+    "event_frequency": "very_high",
+    "home_games_per_year": 16,
+    "parking_market": "good",
+    "neighborhoods": [
+      "Inglewood",
+      "Hollywood Park",
+      "El Segundo"
+    ],
+    "transit": "No direct rail to SoFi Stadium. Shuttle services run from Metro C Line (Green) Hawthorne/Lennox station on event days.",
+    "parking_tips": "SoFi Stadium is surrounded by the Hollywood Park development with large structured parking facilities on site. Official lots are expensive but convenient. Private lots in the surrounding Inglewood neighborhoods offer cheaper alternatives within a 10-15 minute walk. For Rams and Chargers games, book online well in advance — the Hollywood Park lots sell out fast. For Olympics 2028 events, expect record demand — book as early as possible and seriously consider the shuttle from the Metro Green Line.",
+    "best_lots": "Hollywood Park lots directly adjacent to the stadium are most convenient. Private lots on Prairie Ave, Century Blvd, and in surrounding Inglewood neighborhoods offer the best value.",
+    "worst_lots": "Street parking in surrounding residential areas is heavily restricted on event days. Don't risk it — book in advance.",
+    "gates": [
+      "Gate 1 (North — Hollywood Park)",
+      "Gate 2 (East — Prairie Ave)",
+      "Gate 3 (South — Century Blvd)",
+      "Gate 4 (West — Pincay Dr)"
+    ],
+    "arrive_recommendation": "90 minutes before kickoff — the 405 and 110 freeways back up severely on game days",
+    "faq": [
+      {
+        "q": "How much is parking at SoFi Stadium?",
+        "a": "Official Hollywood Park lots run $50-100+ for NFL games. Private lots in surrounding Inglewood neighborhoods are significantly cheaper at $20-40. Book online to lock in the best rates."
+      },
+      {
+        "q": "Is there cheap parking near SoFi Stadium?",
+        "a": "Yes — private lots on Prairie Ave, Century Blvd, and throughout Inglewood offer much cheaper alternatives to the official Hollywood Park lots. Book in advance as they fill up fast."
+      },
+      {
+        "q": "Can I take the Metro to SoFi Stadium?",
+        "a": "Not directly. The closest Metro station is Hawthorne/Lennox on the C Line (Green). Event shuttles run from there to the stadium on game days — it's the best way to avoid freeway traffic."
+      },
+      {
+        "q": "How early should I arrive at SoFi Stadium?",
+        "a": "90 minutes minimum for NFL games. The 405 and 110 freeways become parking lots on game days. For Olympics 2028 events, give yourself even more time — LA traffic during the Games will be extreme."
+      },
+      {
+        "q": "Where do the Rams and Chargers both play?",
+        "a": "Both the Los Angeles Rams and Los Angeles Chargers call SoFi Stadium home. It's one of the few stadiums in the NFL shared by two teams."
+      }
+    ],
+    "meta_title": "SoFi Stadium Parking — Rams & Chargers Game Day Parking Guide | GetToTheGate",
+    "meta_description": "Find parking near SoFi Stadium in Inglewood for Rams and Chargers games. Compare Hollywood Park lots vs private Inglewood options and book before you go.",
+    "stubhub_venue_id": "355503",
+    "parkwhiz_search": "SoFi Stadium Inglewood"
+  },
+  {
+    "slug": "rose-bowl",
+    "name": "Rose Bowl Stadium",
+    "city": "Pasadena",
+    "state": "CA",
+    "zip": "91103",
+    "address": "1001 Rose Bowl Dr, Pasadena, CA 91103",
+    "lat": 34.1614,
+    "lng": -118.1678,
+    "capacity": 92542,
+    "type": "stadium",
+    "sport": "College Football/MLS/Concerts/Olympics 2028",
+    "teams": [
+      "UCLA Bruins",
+      "LA Galaxy"
+    ],
+    "event_frequency": "high",
+    "home_games_per_year": 10,
+    "parking_market": "good",
+    "neighborhoods": [
+      "Pasadena",
+      "Arroyo Seco",
+      "Brookside"
+    ],
+    "transit": "Metro L Line (Gold) to Memorial Park station, then event shuttle to Rose Bowl. Shuttle is strongly recommended on major event days.",
+    "parking_tips": "The Rose Bowl sits in the Arroyo Seco park in Pasadena — a unique venue surrounded by parkland rather than urban streets. Official Rose Bowl lots are the primary option and well-organized. Private lots in the surrounding Pasadena neighborhoods and along Colorado Blvd offer cheaper alternatives but involve a longer walk. For Olympics 2028 soccer matches, the Rose Bowl will be one of the premier venues — book parking months in advance. The Metro Gold Line shuttle is the smartest move for big events.",
+    "best_lots": "Official Rose Bowl parking lots are actually well-priced compared to most NFL/major venues. Lots A, B, and C are closest to the stadium entrances.",
+    "worst_lots": "Residential street parking in surrounding Pasadena neighborhoods is restricted and heavily enforced on event days.",
+    "gates": [
+      "Gate A (North)",
+      "Gate B (East — Colorado Blvd)",
+      "Gate C (South)",
+      "Gate H (West)"
+    ],
+    "arrive_recommendation": "90 minutes before kickoff — the single-road Arroyo Seco approach creates significant bottlenecks on high-attendance days",
+    "faq": [
+      {
+        "q": "How much is parking at the Rose Bowl?",
+        "a": "Official Rose Bowl lots typically run $20-40 depending on the event — reasonable by LA standards. Private lots in Pasadena neighborhoods are sometimes cheaper but involve a longer walk."
+      },
+      {
+        "q": "Is there parking near the Rose Bowl?",
+        "a": "The Rose Bowl has large on-site parking lots that are the primary option. The venue sits in a park, so urban private lot options are more limited than typical stadium markets. Book official lots in advance for major events."
+      },
+      {
+        "q": "Can I take the Metro to the Rose Bowl?",
+        "a": "Yes — the Metro L Line (Gold) stops at Memorial Park station in Pasadena, with event shuttles running to the Rose Bowl on major event days. It's the best way to avoid the Arroyo Seco traffic bottleneck."
+      },
+      {
+        "q": "Will the Rose Bowl host Olympics 2028 events?",
+        "a": "Yes — the Rose Bowl is a primary venue for soccer/football matches at the 2028 LA Olympics. With 92,000+ capacity it will host some of the biggest matches of the Games. Book parking well in advance."
+      },
+      {
+        "q": "How early should I arrive at the Rose Bowl?",
+        "a": "90 minutes before events. The single road approach through Arroyo Seco creates a genuine bottleneck — there's no workaround. Early arrival and the Metro shuttle are the two best strategies."
+      }
+    ],
+    "meta_title": "Rose Bowl Parking — Pasadena Stadium Parking Guide | GetToTheGate",
+    "meta_description": "Find parking near the Rose Bowl in Pasadena for UCLA football, LA Galaxy, concerts, and Olympics 2028. Compare lots and book before the traffic hits.",
+    "stubhub_venue_id": "9118",
+    "parkwhiz_search": "Rose Bowl Pasadena"
   }
 ]
