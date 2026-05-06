@@ -11,14 +11,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const venueUrls = venues.map(venue => ({
     url: `${baseUrl}/parking/${venue.slug}/`,
     lastModified: now,
-    changeFrequency: 'daily' as const,
-    priority: 0.8,
+    changeFrequency: 'weekly' as const,
+    priority: venue.parking_market === 'excellent' ? 0.9 : 0.8,
   }))
 
   const airportUrls = airports.map(airport => ({
     url: `${baseUrl}/airports/${airport.slug}/`,
     lastModified: now,
-    changeFrequency: 'daily' as const,
+    changeFrequency: 'weekly' as const,
     priority: 0.8,
   }))
 
@@ -32,14 +32,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
     {
       url: `${baseUrl}/parking/`,
       lastModified: now,
-      changeFrequency: 'daily' as const,
+      changeFrequency: 'weekly' as const,
       priority: 0.9,
     },
     {
       url: `${baseUrl}/airports/`,
       lastModified: now,
-      changeFrequency: 'daily' as const,
+      changeFrequency: 'weekly' as const,
       priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/privacy/`,
+      lastModified: now,
+      changeFrequency: 'yearly' as const,
+      priority: 0.3,
     },
     ...venueUrls,
     ...airportUrls,
