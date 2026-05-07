@@ -81,3 +81,15 @@ export function getParkingMarketBadge(market: string): { label: string; color: s
   }
   return badges[market] || { label: 'Check Availability', color: 'gray' }
 }
+
+export function getVenuesBySport(keyword: string): Venue[] {
+  return (venues as Venue[]).filter(v =>
+    v.sport.toLowerCase().includes(keyword.toLowerCase())
+  )
+}
+
+export function getVenuesByTypeAndSport(type: string, keyword: string): Venue[] {
+  return (venues as Venue[]).filter(v =>
+    v.type === type && v.sport.toLowerCase().includes(keyword.toLowerCase())
+  )
+}
