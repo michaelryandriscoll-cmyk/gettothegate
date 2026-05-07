@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { getAllVenues, getVenueBySlug, formatCapacity, getParkingMarketBadge } from '@/lib/venues'
+import { getVenueEvents, formatEventTime } from '@/lib/stubhub'
 import ParkingWidget from '@/components/ParkingWidget'
 
 type Props = {
@@ -41,7 +42,11 @@ export default async function VenueParkingPage({ params }: Props) {
   const badge = getParkingMarketBadge(venue.parking_market)
   const spotheroUrl = `https://spothero.com/search?latitude=${venue.lat}&longitude=${venue.lng}&query=${encodeURIComponent(venue.name)}`
   const parkwhizUrl = `https://www.parkwhiz.com/s/?q=${encodeURIComponent(venue.parkwhiz_search)}`
-  const stubhubUrl = `https://www.stubhub.com/venue/${venue.stubhub_venue_id}/`
+  const stubhubUrl = `https://www.stubhub.com/search/?q=${encodeURIComponent(venue.name + ' ' + venue.city)}`
+
+  const events = venue.stubhub_venue_id && process.env.STUBHUB_CLIENT_ID
+    ? await getVenueEvents(venue.stubhub_venue_id).catch(() => [])
+    : []
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -152,6 +157,49 @@ export default async function VenueParkingPage({ params }: Props) {
               <p>{venue.parking_tips}</p>
             </section>
 
+            {events.length > 0 && (
+              <section className="venue-section">
+                <h2>Upcoming Events at {venue.name}</h2>
+                <div className="events-list">
+                  {events.slice(0, 10).map(event => {
+                    const eventDate = new Date(`${event.dateLocal}T${event.timeLocal}`)
+                    const month = eventDate.toLocaleString('en-US', { month: 'short' }).toUpperCase()
+                    const day = eventDate.getDate()
+                    const time = formatEventTime(event.timeLocal)
+                    return (
+                      
+                        key={event.id}
+                        href={`/parking/${venue.slug}/${event.slug}/`}
+                        className="event-list-item"
+                      >
+                        <div className="event-date-block">
+                          <span className="event-month">{month}</span>
+                          <span className="event-day">{day}</span>
+                        </div>
+                        <div className="event-info">
+                          <div className="event-name">{event.name}</div>
+                          <div className="event-time">{time} · {venue.name}</div>
+                        </div>
+                        <div className="event-action">
+                          {event.minPrice && (
+                            <span className="event-price">from ${event.minPrice}</span>
+                          )}
+                          <span className="event-arrow">Find Parking →</span>
+                        </div>
+                      </a>
+                    )
+                  })}
+                </div>
+                {events.length > 10 && (
+                  <div style={{ textAlign: 'center', marginTop: '16px' }}>
+                    <a href={stubhubUrl} target="_blank" rel="noopener noreferrer" className="btn-outline">
+                      View All {events.length} Events on StubHub →
+                    </a>
+                  </div>
+                )}
+              </section>
+            )}
+
             <section className="venue-section">
               <h2>Best Lots Near {venue.name}</h2>
               <div className="lots-grid">
@@ -211,10 +259,41 @@ export default async function VenueParkingPage({ params }: Props) {
 
             <div className="sidebar-card">
               <h3>Upcoming Events</h3>
-              <p>Have tickets to an upcoming event at {venue.name}?</p>
-              <a href={stubhubUrl} target="_blank" rel="noopener noreferrer" className="btn-outline btn-full">
-                View Events on StubHub →
-              </a>
+              {events.length > 0 ? (
+                <div className="sidebar-events">
+                  {events.slice(0, 5).map(event => {
+                    const eventDate = new Date(`${event.dateLocal}T${event.timeLocal}`)
+                    const month = eventDate.toLocaleString('en-US', { month: 'short' }).toUpperCase()
+                    const day = eventDate.getDate()
+                    return (
+                      
+                        key={event.id}
+                        href={`/parking/${venue.slug}/${event.slug}/`}
+                        className="sidebar-event-item"
+                      >
+                        <div className="sidebar-event-date">
+                          <span className="sidebar-event-month">{month}</span>
+                          <span className="sidebar-event-day">{day}</span>
+                        </div>
+                        <div className="sidebar-event-name">{event.name}</div>
+                        <span className="sidebar-event-arrow">→</span>
+                      </a>
+                    )
+                  })}
+                  {events.length > 5 && (
+                    <a href={stubhubUrl} target="_blank" rel="noopener noreferrer" className="sidebar-events-more">
+                      +{events.length - 5} more events →
+                    </a>
+                  )}
+                </div>
+              ) : (
+                <>
+                  <p>Have tickets to an upcoming event at {venue.name}?</p>
+                  <a href={stubhubUrl} target="_blank" rel="noopener noreferrer" className="btn-outline btn-full" style={{marginTop: '12px'}}>
+                    View Events on StubHub →
+                  </a>
+                </>
+              )}
             </div>
 
             <div className="sidebar-card sidebar-tips">
