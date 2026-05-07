@@ -167,7 +167,7 @@ export default async function VenueParkingPage({ params }: Props) {
                     const day = eventDate.getDate()
                     const time = formatEventTime(event.timeLocal)
                     return (
-                      
+                      <a
                         key={event.id}
                         href={`/parking/${venue.slug}/${event.slug}/`}
                         className="event-list-item"
@@ -266,7 +266,7 @@ export default async function VenueParkingPage({ params }: Props) {
                     const month = eventDate.toLocaleString('en-US', { month: 'short' }).toUpperCase()
                     const day = eventDate.getDate()
                     return (
-                      
+                      <a
                         key={event.id}
                         href={`/parking/${venue.slug}/${event.slug}/`}
                         className="sidebar-event-item"
