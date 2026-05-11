@@ -103,6 +103,7 @@ export default function RootLayout({
             <div className="nav-links">
               <a href="/parking/">Venues</a>
               <a href="/airports/">Airports</a>
+              <a href="/cities/">Cities</a>
               <a href="/parking/" className="nav-cta">Find Parking</a>
             </div>
           </div>
@@ -116,6 +117,7 @@ export default function RootLayout({
             <div className="footer-links">
               <a href="/parking/">Venues</a>
               <a href="/airports/">Airports</a>
+              <a href="/cities/">Cities</a>
               <a href="/cities/">Cities</a>
               <a href="/privacy/">Privacy Policy</a>
             </div>

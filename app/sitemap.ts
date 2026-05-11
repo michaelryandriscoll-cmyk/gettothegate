@@ -22,6 +22,26 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }))
 
+  const categoryUrls = [
+    'mlb', 'nba', 'nhl', 'nfl', 'concerts', 'theaters', 'world-cup-2026', 'olympics-2028'
+  ].map(cat => ({
+    url: `${baseUrl}/parking/${cat}/`,
+    lastModified: now,
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
+  }))
+
+  const cityUrls = [
+    'chicago-parking', 'los-angeles-parking', 'boston-parking',
+    'seattle-parking', 'cleveland-parking', 'san-francisco-parking',
+    'washington-dc-parking', 'charlotte-parking'
+  ].map(city => ({
+    url: `${baseUrl}/cities/${city}/`,
+    lastModified: now,
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
+  }))
+
   return [
     {
       url: baseUrl,
@@ -42,11 +62,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     },
     {
+      url: `${baseUrl}/cities/`,
+      lastModified: now,
+      changeFrequency: 'weekly' as const,
+      priority: 0.9,
+    },
+    {
       url: `${baseUrl}/privacy/`,
       lastModified: now,
       changeFrequency: 'yearly' as const,
       priority: 0.3,
     },
+    ...categoryUrls,
+    ...cityUrls,
     ...venueUrls,
     ...airportUrls,
   ]
