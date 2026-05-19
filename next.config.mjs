@@ -5,6 +5,15 @@ const nextConfig = {
   },
   allowedDevOrigins: ['192.168.1.178'],
   trailingSlash: true,
+  async redirects() {
+    return [
+      {
+        source: '/parking/spectrum-center-charlotte',
+        destination: '/parking/spectrum-center',
+        permanent: true,
+      },
+    ]
+  },
 }
 
 export default nextConfig

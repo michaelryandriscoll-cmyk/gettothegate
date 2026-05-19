@@ -4403,69 +4403,6 @@
     "meta_description": "Find parking near Bank of America Stadium in Charlotte. Compare Third Ward lots vs light rail for Panthers games and Charlotte FC matches.",
     "stubhub_venue_id": "3921",
     "parkwhiz_search": "Bank of America Stadium Charlotte"
-  },
-  {
-    "slug": "spectrum-center-charlotte",
-    "name": "Spectrum Center",
-    "city": "Charlotte",
-    "state": "NC",
-    "zip": "28202",
-    "address": "333 E Trade St, Charlotte, NC 28202",
-    "lat": 35.2251,
-    "lng": -80.8392,
-    "capacity": 19077,
-    "type": "arena",
-    "sport": "NBA/Concerts/Events",
-    "teams": [
-      "Charlotte Hornets"
-    ],
-    "event_frequency": "very_high",
-    "home_games_per_year": 41,
-    "parking_market": "excellent",
-    "neighborhoods": [
-      "Uptown Charlotte",
-      "First Ward",
-      "Second Ward"
-    ],
-    "transit": "CATS Light Rail — Uptown stations on the Blue Line serve the arena. Multiple bus routes through Uptown.",
-    "parking_tips": "Spectrum Center is in the heart of Uptown Charlotte surrounded by garages and surface lots throughout the CBD. First Ward and Second Ward have excellent private lot inventory within easy walking distance. Trade St, College St, and Fourth St garages are closest. With 41 Hornets home games plus concerts and events, this is one of the most active parking markets in the Carolinas. Book online for playoff games and major concerts — Uptown fills fast.",
-    "best_lots": "First Ward lots on College St and Trade St are closest. Uptown garages on Fourth St and Davidson St offer competitive rates with short walks.",
-    "worst_lots": "Convention Center parking is priced for convention attendees and overpriced for arena events.",
-    "gates": [
-      "Main Entrance (Trade St)",
-      "North Entrance (Fifth St)",
-      "South Entrance (Third St)",
-      "East Entrance (College St)"
-    ],
-    "arrive_recommendation": "60 minutes before tip-off — Uptown Charlotte traffic is manageable but garages fill on sold-out nights",
-    "faq": [
-      {
-        "q": "Where should I park for Spectrum Center Charlotte?",
-        "a": "First Ward lots on College St and Trade St are closest. Uptown Charlotte has excellent garage and surface lot supply within easy walking distance of the arena."
-      },
-      {
-        "q": "How much is parking near Spectrum Center?",
-        "a": "Uptown Charlotte lots typically run $15-30 for Hornets games. Book online for playoff games and major concerts when demand spikes significantly."
-      },
-      {
-        "q": "Can I take transit to Spectrum Center?",
-        "a": "Yes — CATS Light Rail Blue Line serves Uptown Charlotte with multiple stations near the arena. Several bus routes also run through Uptown on event nights."
-      },
-      {
-        "q": "How early should I arrive at Spectrum Center?",
-        "a": "60 minutes before tip-off is comfortable for most Hornets games. For sold-out games and major concerts, give yourself 90 minutes to find parking and get settled."
-      },
-      {
-        "q": "Is Spectrum Center good for concerts?",
-        "a": "Yes — Spectrum Center is Charlotte's premier indoor concert venue hosting major national tours. Concert nights drive some of the highest parking demand in Uptown."
-      }
-    ],
-    "meta_title": "Spectrum Center Parking Charlotte — Hornets & Concert Parking Guide | GetToTheGate",
-    "meta_description": "Find parking near Spectrum Center in Charlotte. Compare Uptown lots for Hornets games and concerts — book before you go.",
-    "stubhub_venue_id": "9876",
-    "parkwhiz_search": "Spectrum Center Charlotte"
-  },
-  {
     "slug": "truist-field-charlotte",
     "name": "Truist Field",
     "city": "Charlotte",
