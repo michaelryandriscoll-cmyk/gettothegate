@@ -1,0 +1,91 @@
+import { readFileSync, writeFileSync } from 'fs';
+
+const venues = JSON.parse(readFileSync('./data/venues.json', 'utf8'));
+
+const ids = {
+  'wrigley-field': 'KovZpZAFlktA',
+  'united-center': 'KovZpa2M7e',
+  'fenway-park': 'KovZpZAaaI7A',
+  'madison-square-garden': 'KovZpZA7AAEA',
+  'dodger-stadium': 'KovZpa2W1e',
+  'crypto-com-arena': 'KovZpZAEdntA',
+  'td-garden': 'KovZpa2gne',
+  'chase-center': 'KovZ917Ah1H',
+  'capital-one-arena': 'KovZpaKuJe',
+  'citizens-bank-park': 'KovZpZAa1neA',
+  't-mobile-arena': 'KovZpZAIIIdA',
+  'ball-arena': 'KovZpZAFaJeA',
+  'oracle-park': 'KovZpZAJF7EA',
+  'american-airlines-center': 'KovZpZAJ67eA',
+  'little-caesars-arena': 'KovZ917A25V',
+  'yankee-stadium': 'KovZpZA6t77A',
+  'citi-field': 'KovZpZAalvtA',
+  'barclays-center': 'KovZ917AtP3',
+  'nationals-park': 'KovZpZA1J67A',
+  't-mobile-park': 'KovZpZAEevAA',
+  'climate-pledge-arena': 'KovZ917Ahkk',
+  'coors-field': 'KovZpZA6t7kA',
+  'truist-park': 'KovZpZAtv11A',
+  'state-farm-arena': 'KovZpa2Xke',
+  'loandepot-park': 'KovZpZAId1JA',
+  'kaseya-center': 'KovZpZAJtFaA',
+  'toyota-center': 'KovZpZAJJIIA',
+  'globe-life-field': 'KovZ917A-X0',
+  'chase-field': 'KovZpZA6tdtA',
+  'angel-stadium': 'KovZpZA7dkIA',
+  'petco-park': 'KovZpa4cFe',
+  'bridgestone-arena': 'KovZpZA6taAA',
+  'target-field': 'KovZpZAEdatA',
+  'target-center': 'KovZpZAE7evA',
+  'fiserv-forum': 'KovZ917A_fV',
+  'pnc-park': 'KovZpZA1nE6A',
+  'gainbridge-fieldhouse': 'KovZpZA6keIA',
+  'spectrum-center': 'KovZpZA6AEIA',
+  'kia-center': 'KovZpZAEvEEA',
+  'golden-1-center': 'KovZpZAEF76A',
+  'smoothie-king-center': 'KovZpZAJAJAA',
+  'amerant-bank-arena': 'KovZpZAEeavA',
+  'paycom-center': 'KovZpa2Wre',
+  'moody-center': 'KovZ917ANwG',
+  'dickies-arena': 'KovZ917AOAw',
+  'comerica-park': 'KovZpZAdEatA',
+  'great-american-ball-park': 'KovZpZA6tdIA',
+  'busch-stadium': 'KovZpapBwe',
+  'progressive-field': 'KovZpZA6A1JA',
+  'bok-center': 'KovZpZAJIndA',
+  'xcel-energy-center': 'KovZpZA6AJdA',
+  'nationwide-arena': 'KovZpZA6kelA',
+  'enterprise-center': 'KovZpa2DJe',
+  'victory-field': 'KovZpZAFdtAA',
+  'the-diamond-richmond': 'KovZpZAatI6A',
+  'sahlen-field': 'ZFr9jZA171',
+  'cibc-theatre-chicago': 'KovZpZA6AJAA',
+  'pantages-theatre-hollywood': 'KovZpZAF7aJA',
+  'kennedy-center': 'KovZpZA1JAFA',
+  'boch-center-wang-theatre': 'KovZpZAJd6FA',
+  'orpheum-theatre-san-francisco': 'KovZpakSUe',
+  'mercedes-benz-stadium': 'KovZpZAEdJaA',
+  'lumen-field': 'KovZpZAEknnA',
+  'gillette-stadium': 'KovZpZA6kvlA',
+  'soldier-field': 'KovZpZAF6tIA',
+  'hollywood-bowl': 'KovZpZAFFvJA',
+  'red-rocks-amphitheatre': 'KovZpZAaeIvA',
+  'jacobs-pavilion-cleveland': 'KovZpZAEAtkA',
+  'huntington-bank-pavilion': 'KovZpZAEA7IA',
+  'riverbend-music-center': 'KovZpZA6tdaA',
+  'neyland-stadium': 'KovZpZA1JJdA',
+  'sofi-stadium': 'KovZ917ACh0',
+  'bank-of-america-stadium': 'KovZpa3hje',
+  'truist-field-charlotte': 'KovZ917AV5Q',
+};
+
+let updated = 0;
+for (const venue of venues) {
+  if (ids[venue.slug]) {
+    venue.ticketmaster_venue_id = ids[venue.slug];
+    updated++;
+  }
+}
+
+writeFileSync('./data/venues.json', JSON.stringify(venues, null, 2));
+console.log(`Updated ${updated} venues with Ticketmaster IDs`);
