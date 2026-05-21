@@ -171,7 +171,7 @@ export default async function VenueParkingPage({ params }: Props) {
                     return (
                       <a
                         key={event.id}
-                        href={spotheroUrl} target="_blank" rel="noopener noreferrer"
+                        href={`https://spothero.com/search?latitude=${venue.lat}&longitude=${venue.lng}&starts=${event.dateLocal}T${event.timeLocal}&ends=${event.dateLocal}T23:59:00&query=${encodeURIComponent(venue.name)}`} target="_blank" rel="noopener noreferrer"
                         className="event-list-item"
                       >
                         <div className="event-date-block">
@@ -267,7 +267,7 @@ export default async function VenueParkingPage({ params }: Props) {
                     return (
                       <a
                         key={event.id}
-                        href={spotheroUrl} target="_blank" rel="noopener noreferrer"
+                        href={`https://spothero.com/search?latitude=${venue.lat}&longitude=${venue.lng}&starts=${event.dateLocal}T${event.timeLocal}&ends=${event.dateLocal}T23:59:00&query=${encodeURIComponent(venue.name)}`} target="_blank" rel="noopener noreferrer"
                         className="sidebar-event-item"
                       >
                         <div className="sidebar-event-date">
