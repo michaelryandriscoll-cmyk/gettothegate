@@ -17,6 +17,10 @@ export default function EventsList({ events, venueName, venueLat, venueLng, tick
   const totalPages = Math.ceil(events.length / perPage)
   const visible = events.slice(page * perPage, (page + 1) * perPage)
 
+  const getParkWhizUrl = (event: TicketmasterEvent) => {
+    return `https://www.parkwhiz.com/s/?q=${encodeURIComponent(venueName)}&date=${event.dateLocal}`
+  }
+
   const getSpotHeroUrl = (event: TicketmasterEvent) => {
     const start = new Date(`${event.dateLocal}T${event.timeLocal}`)
     start.setHours(start.getHours() - 2)
