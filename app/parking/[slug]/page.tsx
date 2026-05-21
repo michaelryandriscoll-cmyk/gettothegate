@@ -173,7 +173,7 @@ export default async function VenueParkingPage({ params }: Props) {
                     return (
                       <a
                         key={event.id}
-                        href={`https://spothero.com/search?latitude=${venue.lat}&longitude=${venue.lng}&starts=${event.dateLocal}T${event.timeLocal}&ends=${event.dateLocal}T23:59:00&query=${encodeURIComponent(venue.name)}`} target="_blank" rel="noopener noreferrer"
+                        href={(() => { const start = new Date(`${event.dateLocal}T${event.timeLocal}`); start.setHours(start.getHours() - 2); const end = new Date(`${event.dateLocal}T${event.timeLocal}`); end.setHours(end.getHours() + 4); return `https://spothero.com/search?latitude=${venue.lat}&longitude=${venue.lng}&starts=${start.toISOString().slice(0,16)}&ends=${end.toISOString().slice(0,16)}&query=${encodeURIComponent(venue.name)}`; })()} target="_blank" rel="noopener noreferrer"
                         className="event-list-item"
                       >
                         <div className="event-date-block">
@@ -269,7 +269,7 @@ export default async function VenueParkingPage({ params }: Props) {
                     return (
                       <a
                         key={event.id}
-                        href={`https://spothero.com/search?latitude=${venue.lat}&longitude=${venue.lng}&starts=${event.dateLocal}T${event.timeLocal}&ends=${event.dateLocal}T23:59:00&query=${encodeURIComponent(venue.name)}`} target="_blank" rel="noopener noreferrer"
+                        href={(() => { const start = new Date(`${event.dateLocal}T${event.timeLocal}`); start.setHours(start.getHours() - 2); const end = new Date(`${event.dateLocal}T${event.timeLocal}`); end.setHours(end.getHours() + 4); return `https://spothero.com/search?latitude=${venue.lat}&longitude=${venue.lng}&starts=${start.toISOString().slice(0,16)}&ends=${end.toISOString().slice(0,16)}&query=${encodeURIComponent(venue.name)}`; })()} target="_blank" rel="noopener noreferrer"
                         className="sidebar-event-item"
                       >
                         <div className="sidebar-event-date">
