@@ -1,6 +1,8 @@
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { getAllVenues, getVenueBySlug, formatCapacity, getParkingMarketBadge } from '@/lib/venues'
+
+export const dynamic = 'force-dynamic'
 import { getTicketmasterEvents } from '@/lib/ticketmaster'
 import { formatEventTime } from '@/lib/stubhub'
 import ParkingWidget from '@/components/ParkingWidget'
