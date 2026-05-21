@@ -43,13 +43,7 @@ export default function EventsList({ events, venueName, venueLat, venueLng, tick
           const time = `${displayHours}:${minutes.toString().padStart(2, '0')} ${period}`
 
           return (
-            <a
-              key={event.id}
-              href={getSpotHeroUrl(event)}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="event-list-item"
-            >
+            <div key={event.id} className="event-list-item">
               <div className="event-date-block">
                 <span className="event-month">{month}</span>
                 <span className="event-day">{day}</span>
@@ -59,9 +53,10 @@ export default function EventsList({ events, venueName, venueLat, venueLng, tick
                 <div className="event-time">{time} · {venueName}</div>
               </div>
               <div className="event-action">
-                <span className="event-arrow">Find Parking →</span>
+                <a href={getSpotHeroUrl(event)} target="_blank" rel="noopener noreferrer" className="btn-primary" style={{fontSize:'13px',padding:'6px 12px'}}>SpotHero →</a>
+                <a href={getParkWhizUrl(event)} target="_blank" rel="noopener noreferrer" className="btn-secondary" style={{fontSize:'13px',padding:'6px 12px',marginLeft:'6px'}}>ParkWhiz →</a>
               </div>
-            </a>
+            </div>
           )
         })}
       </div>
