@@ -44,6 +44,7 @@ export default async function VenueParkingPage({ params }: Props) {
   const spotheroUrl = `https://spothero.com/search?latitude=${venue.lat}&longitude=${venue.lng}&query=${encodeURIComponent(venue.name)}`
   const parkwhizUrl = `https://www.parkwhiz.com/s/?q=${encodeURIComponent(venue.parkwhiz_search)}`
   const stubhubUrl = `https://www.stubhub.com/search/?q=${encodeURIComponent(venue.name + ' ' + venue.city)}`
+  const ticketmasterUrl = venue.ticketmaster_venue_id ? `https://www.ticketmaster.com/venue/${venue.ticketmaster_venue_id}` : `https://www.ticketmaster.com/search?q=${encodeURIComponent(venue.name)}`
 
   const events = venue.ticketmaster_venue_id
     ? await getTicketmasterEvents(venue.ticketmaster_venue_id).catch(() => [])
@@ -170,7 +171,7 @@ export default async function VenueParkingPage({ params }: Props) {
                     return (
                       <a
                         key={event.id}
-                        href={event.url} target="_blank" rel="noopener noreferrer"
+                        href={spotheroUrl} target="_blank" rel="noopener noreferrer"
                         className="event-list-item"
                       >
                         <div className="event-date-block">
@@ -190,8 +191,8 @@ export default async function VenueParkingPage({ params }: Props) {
                 </div>
                 {events.length > 10 && (
                   <div style={{ textAlign: 'center', marginTop: '16px' }}>
-                    <a href={stubhubUrl} target="_blank" rel="noopener noreferrer" className="btn-outline">
-                      View All {events.length} Events on StubHub →
+                    <a href={ticketmasterUrl} target="_blank" rel="noopener noreferrer" className="btn-outline">
+                      View All {events.length} Events on Ticketmaster →
                     </a>
                   </div>
                 )}
@@ -266,7 +267,7 @@ export default async function VenueParkingPage({ params }: Props) {
                     return (
                       <a
                         key={event.id}
-                        href={event.url} target="_blank" rel="noopener noreferrer"
+                        href={spotheroUrl} target="_blank" rel="noopener noreferrer"
                         className="sidebar-event-item"
                       >
                         <div className="sidebar-event-date">
@@ -279,7 +280,7 @@ export default async function VenueParkingPage({ params }: Props) {
                     )
                   })}
                   {events.length > 5 && (
-                    <a href={stubhubUrl} target="_blank" rel="noopener noreferrer" className="sidebar-events-more">
+                    <a href={ticketmasterUrl} target="_blank" rel="noopener noreferrer" className="sidebar-events-more">
                       +{events.length - 5} more events →
                     </a>
                   )}
@@ -287,8 +288,8 @@ export default async function VenueParkingPage({ params }: Props) {
               ) : (
                 <>
                   <p>Have tickets to an upcoming event at {venue.name}?</p>
-                  <a href={stubhubUrl} target="_blank" rel="noopener noreferrer" className="btn-outline btn-full" style={{marginTop: '12px'}}>
-                    View Events on StubHub →
+                  <a href={ticketmasterUrl} target="_blank" rel="noopener noreferrer" className="btn-outline btn-full" style={{marginTop: '12px'}}>
+                    View Events on Ticketmaster →
                   </a>
                 </>
               )}
