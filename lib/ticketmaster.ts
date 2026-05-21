@@ -31,7 +31,7 @@ export async function getTicketmasterEvents(venueId: string): Promise<Ticketmast
 
     const today = new Date().toISOString().split('T')[0]
     const future = new Date()
-    future.setMonth(future.getMonth() + 6)
+    future.setMonth(future.getMonth() + 12)
     const endDate = future.toISOString().split('T')[0]
 
     const params = new URLSearchParams({
@@ -39,7 +39,7 @@ export async function getTicketmasterEvents(venueId: string): Promise<Ticketmast
       venueId,
       startDateTime: `${today}T00:00:00Z`,
       endDateTime: `${endDate}T23:59:59Z`,
-      size: '20',
+      size: '50',
       sort: 'date,asc',
     })
 

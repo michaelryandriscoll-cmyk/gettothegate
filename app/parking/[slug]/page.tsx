@@ -165,7 +165,7 @@ export default async function VenueParkingPage({ params }: Props) {
               <section className="venue-section">
                 <h2>Upcoming Events at {venue.name}</h2>
                 <div className="events-list">
-                  {events.slice(0, 10).map(event => {
+                  {events.map(event => {
                     const eventDate = new Date(`${event.dateLocal}T${event.timeLocal}`)
                     const month = eventDate.toLocaleString('en-US', { month: 'short' }).toUpperCase()
                     const day = eventDate.getDate()
@@ -191,7 +191,7 @@ export default async function VenueParkingPage({ params }: Props) {
                     )
                   })}
                 </div>
-                {events.length > 10 && (
+                {false && (
                   <div style={{ textAlign: 'center', marginTop: '16px' }}>
                     <a href={ticketmasterUrl} target="_blank" rel="noopener noreferrer" className="btn-outline">
                       View All {events.length} Events on Ticketmaster →
@@ -262,7 +262,7 @@ export default async function VenueParkingPage({ params }: Props) {
               <h3>Upcoming Events</h3>
               {events.length > 0 ? (
                 <div className="sidebar-events">
-                  {events.slice(0, 5).map(event => {
+                  {events.slice(0, 8).map(event => {
                     const eventDate = new Date(`${event.dateLocal}T${event.timeLocal}`)
                     const month = eventDate.toLocaleString('en-US', { month: 'short' }).toUpperCase()
                     const day = eventDate.getDate()
