@@ -6,6 +6,7 @@ export const dynamic = 'force-dynamic'
 import { getTicketmasterEvents } from '@/lib/ticketmaster'
 import { formatEventTime } from '@/lib/stubhub'
 import ParkingWidget from '@/components/ParkingWidget'
+import EventsList from '@/components/EventsList'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -164,40 +165,13 @@ export default async function VenueParkingPage({ params }: Props) {
             {events.length > 0 && (
               <section className="venue-section">
                 <h2>Upcoming Events at {venue.name}</h2>
-                <div className="events-list">
-                  {events.map(event => {
-                    const eventDate = new Date(`${event.dateLocal}T${event.timeLocal}`)
-                    const month = eventDate.toLocaleString('en-US', { month: 'short' }).toUpperCase()
-                    const day = eventDate.getDate()
-                    const time = formatEventTime(event.timeLocal)
-                    return (
-                      <a
-                        key={event.id}
-                        href={(() => { const start = new Date(`${event.dateLocal}T${event.timeLocal}`); start.setHours(start.getHours() - 2); const end = new Date(`${event.dateLocal}T${event.timeLocal}`); end.setHours(end.getHours() + 4); return `https://spothero.com/search?latitude=${venue.lat}&longitude=${venue.lng}&starts=${start.toISOString().slice(0,16)}&ends=${end.toISOString().slice(0,16)}&query=${encodeURIComponent(venue.name)}`; })()} target="_blank" rel="noopener noreferrer"
-                        className="event-list-item"
-                      >
-                        <div className="event-date-block">
-                          <span className="event-month">{month}</span>
-                          <span className="event-day">{day}</span>
-                        </div>
-                        <div className="event-info">
-                          <div className="event-name">{event.name}</div>
-                          <div className="event-time">{time} · {venue.name}</div>
-                        </div>
-                        <div className="event-action">
-                          <span className="event-arrow">Find Parking →</span>
-                        </div>
-                      </a>
-                    )
-                  })}
-                </div>
-                {false && (
-                  <div style={{ textAlign: 'center', marginTop: '16px' }}>
-                    <a href={ticketmasterUrl} target="_blank" rel="noopener noreferrer" className="btn-outline">
-                      View All {events.length} Events on Ticketmaster →
-                    </a>
-                  </div>
-                )}
+                <EventsList
+                  events={events}
+                  venueName={venue.name}
+                  venueLat={venue.lat}
+                  venueLng={venue.lng}
+                  ticketmasterUrl={ticketmasterUrl}
+                />
               </section>
             )}
 
