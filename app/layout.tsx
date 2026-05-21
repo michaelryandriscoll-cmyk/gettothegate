@@ -88,6 +88,7 @@ export default function RootLayout({
           rel="stylesheet"
         />
         <meta name="verify-admitad" content="d00fbbf0f6" />
+        <meta name="impact-site-verification" content="c3596ea5-b1d7-4e95-b533-45a2cb08eb3a" />
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-D6XSQSWMKS"></script>
         <script dangerouslySetInnerHTML={{ __html: `
           window.dataLayer = window.dataLayer || [];
