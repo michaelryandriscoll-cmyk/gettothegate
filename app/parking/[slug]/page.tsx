@@ -1,7 +1,8 @@
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { getAllVenues, getVenueBySlug, formatCapacity, getParkingMarketBadge } from '@/lib/venues'
-import { getVenueEvents, formatEventTime } from '@/lib/stubhub'
+import { getTicketmasterEvents } from '@/lib/ticketmaster'
+import { formatEventTime } from '@/lib/stubhub'
 import ParkingWidget from '@/components/ParkingWidget'
 
 type Props = {
@@ -44,8 +45,8 @@ export default async function VenueParkingPage({ params }: Props) {
   const parkwhizUrl = `https://www.parkwhiz.com/s/?q=${encodeURIComponent(venue.parkwhiz_search)}`
   const stubhubUrl = `https://www.stubhub.com/search/?q=${encodeURIComponent(venue.name + ' ' + venue.city)}`
 
-  const events = venue.stubhub_venue_id && process.env.STUBHUB_CLIENT_ID
-    ? await getVenueEvents(venue.stubhub_venue_id).catch(() => [])
+  const events = venue.ticketmaster_venue_id
+    ? await getTicketmasterEvents(venue.ticketmaster_venue_id).catch(() => [])
     : []
 
   const jsonLd = {
@@ -169,7 +170,7 @@ export default async function VenueParkingPage({ params }: Props) {
                     return (
                       <a
                         key={event.id}
-                        href={`/parking/${venue.slug}/${event.slug}/`}
+                        href={event.url} target="_blank" rel="noopener noreferrer"
                         className="event-list-item"
                       >
                         <div className="event-date-block">
@@ -181,9 +182,6 @@ export default async function VenueParkingPage({ params }: Props) {
                           <div className="event-time">{time} · {venue.name}</div>
                         </div>
                         <div className="event-action">
-                          {event.minPrice && (
-                            <span className="event-price">from ${event.minPrice}</span>
-                          )}
                           <span className="event-arrow">Find Parking →</span>
                         </div>
                       </a>
@@ -268,7 +266,7 @@ export default async function VenueParkingPage({ params }: Props) {
                     return (
                       <a
                         key={event.id}
-                        href={`/parking/${venue.slug}/${event.slug}/`}
+                        href={event.url} target="_blank" rel="noopener noreferrer"
                         className="sidebar-event-item"
                       >
                         <div className="sidebar-event-date">

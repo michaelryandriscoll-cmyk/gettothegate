@@ -32,6 +32,7 @@ export type Venue = {
   meta_title: string
   meta_description: string
   stubhub_venue_id: string
+  ticketmaster_venue_id?: string
   parkwhiz_search: string
 }
 
