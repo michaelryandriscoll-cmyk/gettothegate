@@ -18,12 +18,12 @@ export default function EventsList({ events, venueName, venueLat, venueLng, tick
   const visible = events.slice(page * perPage, (page + 1) * perPage)
 
   const getTicketNetworkUrl = (event: TicketmasterEvent) => {
-    const searchUrl = `https://www.ticketnetwork.com/search?q=${encodeURIComponent(event.name)}&date=${event.dateLocal}`
+    const searchUrl = `https://www.ticketnetwork.com/tickets/search?keyword=${encodeURIComponent(event.name)`
     return `https://ticketnetwork.lusg.net/c/7321305/3890519/2322?u=${encodeURIComponent(searchUrl)}`
   }
 
   const getParkWhizUrl = (event: TicketmasterEvent) => {
-    return `https://www.parkwhiz.com/s/?q=${encodeURIComponent(venueName)}&date=${event.dateLocal}`
+    return `https://www.parkwhiz.com/s/?q=${encodeURIComponent(venueName)`
   }
 
   const getSpotHeroUrl = (event: TicketmasterEvent) => {
@@ -87,7 +87,7 @@ export default function EventsList({ events, venueName, venueLat, venueLng, tick
 
       {events.length > 0 && (
         <div style={{ textAlign: 'center', marginTop: '16px', display: 'flex', gap: '12px', justifyContent: 'center', flexWrap: 'wrap' }}>
-          <a href={`https://ticketnetwork.lusg.net/c/7321305/3890519/2322?u=${encodeURIComponent(`https://www.ticketnetwork.com/search?q=${encodeURIComponent(venueName)}`)}`} target="_blank" rel="noopener noreferrer" className="btn-outline">
+          <a href={`https://ticketnetwork.lusg.net/c/7321305/3890519/2322?u=${encodeURIComponent(`https://www.ticketnetwork.com/tickets/search?keyword=${encodeURIComponent(venueName)}`)}`} target="_blank" rel="noopener noreferrer" className="btn-outline">
             More Tickets on TicketNetwork →
           </a>
           <a href={ticketmasterUrl} target="_blank" rel="noopener noreferrer" className="btn-outline">
