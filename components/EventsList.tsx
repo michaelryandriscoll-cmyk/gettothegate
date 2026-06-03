@@ -17,6 +17,11 @@ export default function EventsList({ events, venueName, venueLat, venueLng, tick
   const totalPages = Math.ceil(events.length / perPage)
   const visible = events.slice(page * perPage, (page + 1) * perPage)
 
+  const getTicketNetworkUrl = (event: TicketmasterEvent) => {
+    const searchUrl = `https://www.ticketnetwork.com/search?q=${encodeURIComponent(event.name)}&date=${event.dateLocal}`
+    return `https://ticketnetwork.lusg.net/c/7321305/3890519/2322?u=${encodeURIComponent(searchUrl)}`
+  }
+
   const getParkWhizUrl = (event: TicketmasterEvent) => {
     return `https://www.parkwhiz.com/s/?q=${encodeURIComponent(venueName)}&date=${event.dateLocal}`
   }
@@ -53,7 +58,8 @@ export default function EventsList({ events, venueName, venueLat, venueLng, tick
                 <div className="event-time">{time} · {venueName}</div>
               </div>
               <div className="event-action">
-                <a href={getSpotHeroUrl(event)} target="_blank" rel="noopener noreferrer" className="btn-primary" style={{fontSize:'13px',padding:'6px 12px'}}>SpotHero →</a>
+                <a href={getTicketNetworkUrl(event)} target="_blank" rel="noopener noreferrer" className="btn-primary" style={{fontSize:'13px',padding:'6px 12px'}}>Buy Tickets →</a>
+                <a href={getSpotHeroUrl(event)} target="_blank" rel="noopener noreferrer" className="btn-secondary" style={{fontSize:'13px',padding:'6px 12px',marginLeft:'6px'}}>SpotHero →</a>
                 <a href={getParkWhizUrl(event)} target="_blank" rel="noopener noreferrer" className="btn-secondary" style={{fontSize:'13px',padding:'6px 12px',marginLeft:'6px'}}>ParkWhiz →</a>
               </div>
             </div>
@@ -80,7 +86,10 @@ export default function EventsList({ events, venueName, venueLat, venueLng, tick
       )}
 
       {events.length > 0 && (
-        <div style={{ textAlign: 'center', marginTop: '16px' }}>
+        <div style={{ textAlign: 'center', marginTop: '16px', display: 'flex', gap: '12px', justifyContent: 'center', flexWrap: 'wrap' }}>
+          <a href={`https://ticketnetwork.lusg.net/c/7321305/3890519/2322?u=${encodeURIComponent(`https://www.ticketnetwork.com/search?q=${encodeURIComponent(venueName)}`)}`} target="_blank" rel="noopener noreferrer" className="btn-outline">
+            More Tickets on TicketNetwork →
+          </a>
           <a href={ticketmasterUrl} target="_blank" rel="noopener noreferrer" className="btn-outline">
             View All Events on Ticketmaster →
           </a>
