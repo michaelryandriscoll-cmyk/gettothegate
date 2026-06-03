@@ -24,7 +24,7 @@ export default function EventsList({ events, venueName, venueLat, venueLng, tick
       .split(' presented by')[0]
       .split(' Presented by')[0]
       .trim()
-    const dest = `https://www.ticketnetwork.com/search?q=${encodeURIComponent(cleanName)}`
+    const dest = `https://www.ticketnetwork.com/search?q=${encodeURIComponent(cleanName)}&date=${event.dateLocal}`
     return `https://ticketnetwork.lusg.net/c/7321305/3890519/2322?u=${encodeURIComponent(dest)}`
   }
 
