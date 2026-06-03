@@ -17,8 +17,6 @@ export default function EventsList({ events, venueName, venueLat, venueLng, tick
   const totalPages = Math.ceil(events.length / perPage)
   const visible = events.slice(page * perPage, (page + 1) * perPage)
 
-  const TN_AFFILIATE = '?clickId=7321305&utm_source=affiliate&utm_medium=cpa&utm_campaign=3890519'
-
   const getTicketNetworkUrl = (event: TicketmasterEvent) => {
     const cleanName = event.name
       .split(' - ')[0]
@@ -26,7 +24,8 @@ export default function EventsList({ events, venueName, venueLat, venueLng, tick
       .split(' presented by')[0]
       .split(' Presented by')[0]
       .trim()
-    return `https://www.ticketnetwork.com/search?q=${encodeURIComponent(cleanName)}${TN_AFFILIATE}`
+    const dest = `https://www.ticketnetwork.com/search?q=${encodeURIComponent(cleanName)}`
+    return `https://ticketnetwork.lusg.net/c/7321305/3890519/2322?u=${encodeURIComponent(dest)}`
   }
 
   const getParkWhizUrl = (event: TicketmasterEvent) => {
@@ -42,7 +41,8 @@ export default function EventsList({ events, venueName, venueLat, venueLng, tick
   }
 
   const getVenueTicketNetworkUrl = () => {
-    return `https://www.ticketnetwork.com/search?q=${encodeURIComponent(venueName)}${TN_AFFILIATE}`
+    const dest = `https://www.ticketnetwork.com/search?q=${encodeURIComponent(venueName)}`
+    return `https://ticketnetwork.lusg.net/c/7321305/3890519/2322?u=${encodeURIComponent(dest)}`
   }
 
   return (
