@@ -1,40 +1,37 @@
-// SpotHero affiliate link helper
+// SpotHero link helper
 //
-// Partner: HasOffers/TUNE via Branch.io, offer_id=1, aff_id=2403
-// Every click should route through the tracked Branch link so SpotHero's
-// server-side postback can attribute installs/purchases back to GetToTheGate.
+// STATUS: Tracked affiliate links are DISABLED as of July 2026.
 //
-// Pattern (confirmed working via the partner dashboard's "Add Deep Link" tool,
-// tested against https://spothero.com/search?latitude=41.9484&longitude=-87.6553&query=Wrigley+Field):
+// We're partnered with SpotHero (aff_id=2403, offer_id=1) via a Branch.io
+// tracking link, but it's broken for web traffic: every click -- regardless
+// of the venue -- lands on a generic Chicago search instead of the real
+// destination. This happens even after adding both $deeplink_path (read by
+// SpotHero's mobile app) AND $fallback_url (supposed to handle plain browser
+// clicks). Since desktop/web is the vast majority of GetToTheGate's traffic,
+// a broken tracked link is worse than an untracked-but-working one, so we've
+// reverted to sending people straight to the correct venue via a plain,
+// untracked spothero.com search URL.
 //
+// TO RE-ENABLE TRACKING (once SpotHero/Branch confirms a fix):
+// change getSpotHeroLink()'s final line from `return rawDestination` to
+// `return buildSpotHeroAffiliateLink(rawDestination)`. Everything else
+// (the Branch link format, encoding logic) is unchanged and already tested.
+//
+// ---- Reference: the (currently unused) tracked link format ----
 // https://spothero.app.link/ts1p2NqSe1
 //   ?$3p=a_hasoffers
 //   &$deeplink_path={encoded destination URL}   -- used by the SpotHero MOBILE APP
-//   &$fallback_url={encoded destination URL}    -- used by desktop/mobile WEB browsers
+//   &$fallback_url={encoded destination URL}    -- meant for desktop/web browsers, but didn't fix it
 //   &$affiliate_json={encoded http://tracking.spothero.com/aff_c?offer_id=1&aff_id=2403&format=json}
-//
-// IMPORTANT: $deeplink_path only gets read by Branch's SDK inside the
-// SpotHero app. A plain browser click (no app installed -- which is every
-// desktop visitor, and most mobile web visitors) has nothing telling it
-// where to go, so it was falling through to whatever generic default
-// SpotHero configured on their end (observed: a bare Chicago search, since
-// that's presumably their HQ). $fallback_url is the parameter Branch
-// actually redirects a plain web browser to. We send the same destination
-// in both places so app users and web users land in the same spot.
 
 const SPOTHERO_TRACKING_BASE = 'https://spothero.app.link/ts1p2NqSe1'
 const SPOTHERO_AFFILIATE_JSON =
   'http://tracking.spothero.com/aff_c?offer_id=1&aff_id=2403&format=json'
 
 /**
- * Wraps a plain spothero.com destination URL (e.g. a lat/lng/query search
- * link, optionally with starts/ends) in the tracked affiliate deep link.
- * Every SpotHero button/link on the site should pass its destination
- * through this before rendering the href.
- */
-/**
- * Wraps a RAW (not pre-encoded) spothero.com destination URL in the tracked
- * affiliate deep link. "Raw" means plain text like
+ * Wraps a RAW (not pre-encoded) spothero.com destination URL in the
+ * (currently unused, see status note above) tracked affiliate deep link.
+ * "Raw" means plain text like
  * `https://spothero.com/search?latitude=41.9484&longitude=-87.6553&query=M&T Bank Stadium`
  * with venue names embedded literally, unencoded spaces/ampersands and all.
  *
@@ -70,10 +67,11 @@ type SpotHeroSearchParams = {
 }
 
 /**
- * Builds the plain (untracked) spothero.com/search destination URL as raw
- * text, then wraps it in the affiliate link with a single encoding pass.
- * Use this everywhere a SpotHero link is rendered instead of hand-building
- * the spothero.com URL directly.
+ * Builds a correct spothero.com/search destination URL for a venue. This is
+ * currently sent DIRECTLY (untracked) -- see the status note at the top of
+ * this file for why. Every SpotHero link on the site should be built with
+ * this function instead of hand-building the spothero.com URL directly, so
+ * re-enabling tracking later is a one-line change.
  */
 export function getSpotHeroLink({ latitude, longitude, query, starts, ends }: SpotHeroSearchParams): string {
   const parts: string[] = []
@@ -84,5 +82,5 @@ export function getSpotHeroLink({ latitude, longitude, query, starts, ends }: Sp
   parts.push(`query=${query}`)
 
   const rawDestination = `https://spothero.com/search?${parts.join('&')}`
-  return buildSpotHeroAffiliateLink(rawDestination)
+  return rawDestination // TODO: swap to buildSpotHeroAffiliateLink(rawDestination) once tracking is confirmed fixed
 }
