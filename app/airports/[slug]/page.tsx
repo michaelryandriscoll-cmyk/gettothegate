@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { getAllAirports, getAirportBySlug, formatPassengers, getParkingMarketBadge } from '@/lib/airports'
+import { getSpotHeroLink } from '@/lib/spothero'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -38,7 +39,7 @@ export default async function AirportParkingPage({ params }: Props) {
   if (!airport) notFound()
 
   const badge = getParkingMarketBadge(airport.parking_market)
-  const spotheroUrl = `https://spothero.com/search?query=${encodeURIComponent(airport.name + ' ' + airport.city + ' airport parking')}`
+  const spotheroUrl = getSpotHeroLink({ query: airport.name + ' ' + airport.city + ' airport parking' })
   const parkwhizUrl = `https://www.parkwhiz.com/s/?q=${encodeURIComponent(airport.name + ' airport parking')}`
   const parkingAccessUrl = `https://parkingaccess.com/go/${airport.iata_code}?rfid=FNlRtJgyId`
 

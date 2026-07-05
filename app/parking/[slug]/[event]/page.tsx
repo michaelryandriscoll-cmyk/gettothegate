@@ -2,6 +2,7 @@ import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { getAllVenues, getVenueBySlug, getParkingMarketBadge } from '@/lib/venues'
 import { getVenueEvents, getEventBySlug, formatEventDate, formatEventTime } from '@/lib/stubhub'
+import { getSpotHeroLink } from '@/lib/spothero'
 
 type Props = {
   params: Promise<{ slug: string; event: string }>
@@ -68,7 +69,7 @@ export default async function EventParkingPage({ params }: Props) {
   const formattedDate = formatEventDate(event.dateLocal, event.timeLocal)
   const formattedTime = formatEventTime(event.timeLocal)
 
-  const spotheroUrl = `https://spothero.com/search?latitude=${venue.lat}&longitude=${venue.lng}&query=${encodeURIComponent(event.name + ' ' + venue.name)}`
+  const spotheroUrl = getSpotHeroLink({ latitude: venue.lat, longitude: venue.lng, query: event.name + ' ' + venue.name })
   const parkwhizUrl = `https://www.parkwhiz.com/s/?q=${encodeURIComponent(venue.parkwhiz_search)}`
 
   const jsonLd = {
