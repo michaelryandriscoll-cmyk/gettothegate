@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { getAllVenues, getVenueBySlug, formatCapacity, getParkingMarketBadge } from '@/lib/venues'
+import { getSpotHeroLink } from '@/lib/spothero'
 
 export const dynamic = 'force-dynamic'
 import { getTicketmasterEvents } from '@/lib/ticketmaster'
@@ -44,7 +45,7 @@ export default async function VenueParkingPage({ params }: Props) {
   if (!venue) notFound()
 
   const badge = getParkingMarketBadge(venue.parking_market)
-  const spotheroUrl = `https://spothero.com/search?latitude=${venue.lat}&longitude=${venue.lng}&query=${encodeURIComponent(venue.name)}`
+  const spotheroUrl = getSpotHeroLink({ latitude: venue.lat, longitude: venue.lng, query: venue.name })
   const parkwhizUrl = `https://www.parkwhiz.com/s/?q=${encodeURIComponent(venue.parkwhiz_search)}`
   const stubhubUrl = `https://www.stubhub.com/search/?q=${encodeURIComponent(venue.name + ' ' + venue.city)}`
   const ticketmasterUrl = venue.ticketmaster_venue_id ? `https://www.ticketmaster.com/venue/${venue.ticketmaster_venue_id}` : `https://www.ticketmaster.com/search?q=${encodeURIComponent(venue.name)}`
@@ -243,7 +244,7 @@ export default async function VenueParkingPage({ params }: Props) {
                     return (
                       <a
                         key={event.id}
-                        href={(() => { const start = new Date(`${event.dateLocal}T${event.timeLocal}`); start.setHours(start.getHours() - 2); const end = new Date(`${event.dateLocal}T${event.timeLocal}`); end.setHours(end.getHours() + 4); return `https://spothero.com/search?latitude=${venue.lat}&longitude=${venue.lng}&starts=${start.toISOString().slice(0,16)}&ends=${end.toISOString().slice(0,16)}&query=${encodeURIComponent(venue.name)}`; })()} target="_blank" rel="noopener noreferrer"
+                        href={(() => { const start = new Date(`${event.dateLocal}T${event.timeLocal}`); start.setHours(start.getHours() - 2); const end = new Date(`${event.dateLocal}T${event.timeLocal}`); end.setHours(end.getHours() + 4); return getSpotHeroLink({ latitude: venue.lat, longitude: venue.lng, starts: start.toISOString().slice(0,16), ends: end.toISOString().slice(0,16), query: venue.name }); })()} target="_blank" rel="noopener noreferrer"
                         className="sidebar-event-item"
                       >
                         <div className="sidebar-event-date">

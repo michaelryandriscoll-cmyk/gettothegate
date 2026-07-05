@@ -2,6 +2,7 @@
 
 import { useState } from 'react'
 import { TicketmasterEvent } from '@/lib/ticketmaster'
+import { getSpotHeroLink } from '@/lib/spothero'
 
 type Props = {
   events: TicketmasterEvent[]
@@ -37,7 +38,7 @@ export default function EventsList({ events, venueName, venueLat, venueLng, tick
     start.setHours(start.getHours() - 2)
     const end = new Date(`${event.dateLocal}T${event.timeLocal}`)
     end.setHours(end.getHours() + 4)
-    return `https://spothero.com/search?latitude=${venueLat}&longitude=${venueLng}&starts=${start.toISOString().slice(0,16)}&ends=${end.toISOString().slice(0,16)}&query=${encodeURIComponent(venueName)}`
+    return getSpotHeroLink({ latitude: venueLat, longitude: venueLng, starts: start.toISOString().slice(0,16), ends: end.toISOString().slice(0,16), query: venueName })
   }
 
   const getVenueTicketNetworkUrl = () => {
