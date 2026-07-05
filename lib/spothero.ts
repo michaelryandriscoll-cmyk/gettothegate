@@ -9,8 +9,18 @@
 //
 // https://spothero.app.link/ts1p2NqSe1
 //   ?$3p=a_hasoffers
-//   &$deeplink_path={encoded destination URL}
+//   &$deeplink_path={encoded destination URL}   -- used by the SpotHero MOBILE APP
+//   &$fallback_url={encoded destination URL}    -- used by desktop/mobile WEB browsers
 //   &$affiliate_json={encoded http://tracking.spothero.com/aff_c?offer_id=1&aff_id=2403&format=json}
+//
+// IMPORTANT: $deeplink_path only gets read by Branch's SDK inside the
+// SpotHero app. A plain browser click (no app installed -- which is every
+// desktop visitor, and most mobile web visitors) has nothing telling it
+// where to go, so it was falling through to whatever generic default
+// SpotHero configured on their end (observed: a bare Chicago search, since
+// that's presumably their HQ). $fallback_url is the parameter Branch
+// actually redirects a plain web browser to. We send the same destination
+// in both places so app users and web users land in the same spot.
 
 const SPOTHERO_TRACKING_BASE = 'https://spothero.app.link/ts1p2NqSe1'
 const SPOTHERO_AFFILIATE_JSON =
@@ -45,6 +55,7 @@ export function buildSpotHeroAffiliateLink(rawDestinationUrl: string): string {
   const query = [
     `$3p=a_hasoffers`,
     `$deeplink_path=${encodedDestination}`,
+    `$fallback_url=${encodedDestination}`,
     `$affiliate_json=${encodeURIComponent(SPOTHERO_AFFILIATE_JSON)}`,
   ].join('&')
   return `${SPOTHERO_TRACKING_BASE}?${query}`
