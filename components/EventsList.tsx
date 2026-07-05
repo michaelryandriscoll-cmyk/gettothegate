@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import { TicketmasterEvent } from '@/lib/ticketmaster'
 import { getSpotHeroLink } from '@/lib/spothero'
+import { getParkWhizLink } from '@/lib/parkwhiz-links'
 
 type Props = {
   events: TicketmasterEvent[]
@@ -30,7 +31,11 @@ export default function EventsList({ events, venueName, venueLat, venueLng, tick
   }
 
   const getParkWhizUrl = (event: TicketmasterEvent) => {
-    return `https://www.parkwhiz.com/s/?q=${encodeURIComponent(venueName)}&date=${event.dateLocal}`
+    const start = new Date(`${event.dateLocal}T${event.timeLocal}`)
+    start.setHours(start.getHours() - 2)
+    const end = new Date(`${event.dateLocal}T${event.timeLocal}`)
+    end.setHours(end.getHours() + 4)
+    return getParkWhizLink({ latitude: venueLat, longitude: venueLng, name: venueName, start, end })
   }
 
   const getSpotHeroUrl = (event: TicketmasterEvent) => {

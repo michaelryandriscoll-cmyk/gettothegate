@@ -2,6 +2,7 @@ import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { getAllVenues, getVenueBySlug, formatCapacity, getParkingMarketBadge } from '@/lib/venues'
 import { getSpotHeroLink } from '@/lib/spothero'
+import { getParkWhizLink } from '@/lib/parkwhiz-links'
 
 export const dynamic = 'force-dynamic'
 import { getTicketmasterEvents } from '@/lib/ticketmaster'
@@ -46,7 +47,7 @@ export default async function VenueParkingPage({ params }: Props) {
 
   const badge = getParkingMarketBadge(venue.parking_market)
   const spotheroUrl = getSpotHeroLink({ latitude: venue.lat, longitude: venue.lng, query: venue.name })
-  const parkwhizUrl = `https://www.parkwhiz.com/s/?q=${encodeURIComponent(venue.parkwhiz_search)}`
+  const parkwhizUrl = getParkWhizLink({ latitude: venue.lat, longitude: venue.lng, name: venue.name })
   const stubhubUrl = `https://www.stubhub.com/search/?q=${encodeURIComponent(venue.name + ' ' + venue.city)}`
   const ticketmasterUrl = venue.ticketmaster_venue_id ? `https://www.ticketmaster.com/venue/${venue.ticketmaster_venue_id}` : `https://www.ticketmaster.com/search?q=${encodeURIComponent(venue.name)}`
 

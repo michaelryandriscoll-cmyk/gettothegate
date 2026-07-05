@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation'
 import { getAllVenues, getVenueBySlug, getParkingMarketBadge } from '@/lib/venues'
 import { getVenueEvents, getEventBySlug, formatEventDate, formatEventTime } from '@/lib/stubhub'
 import { getSpotHeroLink } from '@/lib/spothero'
+import { getParkWhizLink } from '@/lib/parkwhiz-links'
 
 type Props = {
   params: Promise<{ slug: string; event: string }>
@@ -70,7 +71,10 @@ export default async function EventParkingPage({ params }: Props) {
   const formattedTime = formatEventTime(event.timeLocal)
 
   const spotheroUrl = getSpotHeroLink({ latitude: venue.lat, longitude: venue.lng, query: event.name + ' ' + venue.name })
-  const parkwhizUrl = `https://www.parkwhiz.com/s/?q=${encodeURIComponent(venue.parkwhiz_search)}`
+  const eventStart = new Date(`${event.dateLocal}T${event.timeLocal}`)
+  const pwStart = new Date(eventStart); pwStart.setHours(pwStart.getHours() - 2)
+  const pwEnd = new Date(eventStart); pwEnd.setHours(pwEnd.getHours() + 4)
+  const parkwhizUrl = getParkWhizLink({ latitude: venue.lat, longitude: venue.lng, name: venue.name, start: pwStart, end: pwEnd })
 
   const jsonLd = {
     '@context': 'https://schema.org',
