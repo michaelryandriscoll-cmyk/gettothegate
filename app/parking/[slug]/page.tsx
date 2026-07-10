@@ -9,6 +9,7 @@ import { getTicketmasterEvents } from '@/lib/ticketmaster'
 import { formatEventTime } from '@/lib/stubhub'
 import ParkingWidget from '@/components/ParkingWidget'
 import EventsList from '@/components/EventsList'
+import SpotHeroTrackingPixel from '@/components/SpotHeroTrackingPixel'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -286,6 +287,7 @@ export default async function VenueParkingPage({ params }: Props) {
         </div>
 
       </main>
+      <SpotHeroTrackingPixel />
     </>
   )
 }

@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation'
 import { getAllAirports, getAirportBySlug, formatPassengers, getParkingMarketBadge } from '@/lib/airports'
 import { getSpotHeroLink } from '@/lib/spothero'
 import { getParkWhizLink } from '@/lib/parkwhiz-links'
+import SpotHeroTrackingPixel from '@/components/SpotHeroTrackingPixel'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -243,6 +244,7 @@ export default async function AirportParkingPage({ params }: Props) {
         </div>
 
       </main>
+      <SpotHeroTrackingPixel />
     </>
   )
 }
