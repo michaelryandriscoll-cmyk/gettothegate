@@ -874,7 +874,8 @@ a:hover {
 }
 
 .cat-card:hover::after { transform: scaleX(1); }
-.cat-icon { font-size: 36px; margin-bottom: 20px; display: block; }
+.cat-icon { margin-bottom: 20px; display: block; }
+.cat-icon svg { width: 36px; height: 36px; color: var(--black); }
 
 .cat-name {
   font-family: 'Bebas Neue', sans-serif;

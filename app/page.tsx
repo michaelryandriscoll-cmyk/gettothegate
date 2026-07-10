@@ -1,5 +1,6 @@
 import { Metadata } from 'next'
 import { getTopVenues } from '@/lib/venues'
+import { StadiumIcon, ArenaIcon, ConcertIcon, AirportIcon } from '@/components/icons/CategoryIcons'
 
 export const metadata: Metadata = {
   title: 'GetToTheGate — Event & Airport Parking',
@@ -75,25 +76,25 @@ export default function HomePage() {
           <h2 className="section-title">WHEREVER YOU&apos;RE HEADED</h2>
           <div className="categories-grid">
             <a href="/parking/" className="cat-card">
-              <span className="cat-icon">🏟️</span>
+              <span className="cat-icon"><StadiumIcon /></span>
               <div className="cat-name">Stadiums</div>
               <div className="cat-desc">NFL, MLB, college football — every major stadium with parking options at every price point.</div>
               <div className="cat-arrow">→</div>
             </a>
             <a href="/parking/" className="cat-card">
-              <span className="cat-icon">🏀</span>
+              <span className="cat-icon"><ArenaIcon /></span>
               <div className="cat-name">Arenas</div>
               <div className="cat-desc">NBA, NHL, boxing, concerts — indoor arenas in every major city covered.</div>
               <div className="cat-arrow">→</div>
             </a>
             <a href="/parking/" className="cat-card">
-              <span className="cat-icon">🎵</span>
+              <span className="cat-icon"><ConcertIcon /></span>
               <div className="cat-name">Concerts</div>
               <div className="cat-desc">Amphitheaters, clubs, outdoor festivals — never miss the opening act hunting for parking.</div>
               <div className="cat-arrow">→</div>
             </a>
             <a href="/airports/" className="cat-card">
-              <span className="cat-icon">✈️</span>
+              <span className="cat-icon"><AirportIcon /></span>
               <div className="cat-name">Airports</div>
               <div className="cat-desc">Short-term, long-term, covered, valet — find the right airport parking for every trip.</div>
               <div className="cat-arrow">→</div>
