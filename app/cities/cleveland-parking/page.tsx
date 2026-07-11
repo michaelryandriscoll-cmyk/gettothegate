@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import { getAllVenues, getParkingMarketBadge } from '@/lib/venues'
 
 export const metadata: Metadata = {
-  title: 'Cleveland Event Parking — Every Major Venue | GetToTheGate',
+  title: 'Cleveland Event Parking — Every Major Venue',
   description: 'Find and book parking near every major Cleveland venue. Progressive Field, Rocket Mortgage FieldHouse, Jacobs Pavilion and more.',
   alternates: {
     canonical: 'https://gettothegate.com/cities/cleveland-parking/',

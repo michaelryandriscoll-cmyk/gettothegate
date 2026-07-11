@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import { getVenuesBySport, getParkingMarketBadge } from '@/lib/venues'
 
 export const metadata: Metadata = {
-  title: 'NFL Stadium Parking — Every NFL Football Stadium | GetToTheGate',
+  title: 'NFL Stadium Parking — Every NFL Football Stadium',
   description: 'Find and book parking near every NFL stadium. Compare prices at Soldier Field, Mercedes-Benz Stadium, Lumen Field, Gillette Stadium and more.',
   alternates: {
     canonical: 'https://gettothegate.com/parking/nfl/',

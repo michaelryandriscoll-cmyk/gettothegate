@@ -55,7 +55,7 @@
         "a": "Private lots typically range from $20-45 depending on the game and how far in advance you book. World Series and playoff games can go significantly higher. Booking online in advance saves 20-40% versus walk-up."
       }
     ],
-    "meta_title": "Wrigley Field Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Wrigley Field Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Wrigley Field. Compare prices on nearby lots, get insider tips on the best spots, and book before you leave the house.",
     "stubhub_venue_id": "9034",
     "parkwhiz_search": "Wrigley Field Chicago",
@@ -112,7 +112,7 @@
         "a": "60-75 minutes before tipoff gets you a good spot without too much waiting. For playoff games and major concerts, arrive 90 minutes early."
       }
     ],
-    "meta_title": "United Center Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "United Center Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near the United Center in Chicago. Bulls and Blackhawks games, concerts and more — book your spot before you leave the house.",
     "stubhub_venue_id": "9033",
     "parkwhiz_search": "United Center Chicago",
@@ -171,7 +171,7 @@
         "a": "Weekend games and big matchups sell out parking fast. Book online 24-48 hours in advance. Weekday games have more availability but prices still surge at walk-up."
       }
     ],
-    "meta_title": "Fenway Park Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Fenway Park Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Fenway Park in Boston. Compare prices on nearby garages and lots, and book your spot before the game.",
     "stubhub_venue_id": "8837",
     "parkwhiz_search": "Fenway Park Boston",
@@ -225,7 +225,7 @@
         "a": "There are dozens of garages within 2-3 blocks. The Icon Parking garages on 8th Ave are among the closest. Book online — walk-up rates at Manhattan garages are significantly higher."
       }
     ],
-    "meta_title": "Madison Square Garden Parking — Best Garages & Tips | GetToTheGate",
+    "meta_title": "Madison Square Garden Parking — Best Garages & Tips",
     "meta_description": "Find parking near Madison Square Garden in NYC. Compare garage prices, get transit tips, and book your spot for Knicks, Rangers, and concert events.",
     "stubhub_venue_id": "9019",
     "parkwhiz_search": "Madison Square Garden New York",
@@ -282,7 +282,7 @@
         "a": "LA traffic is notoriously unpredictable. Give yourself 75-90 minutes from most parts of the city. If you're coming from the west side during rush hour, leave even earlier."
       }
     ],
-    "meta_title": "Dodger Stadium Parking — Cheap Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Dodger Stadium Parking — Cheap Lots, Prices & Tips",
     "meta_description": "Find cheap parking near Dodger Stadium in LA. Compare private lot prices vs official stadium parking and book before the game.",
     "stubhub_venue_id": "9021",
     "parkwhiz_search": "Dodger Stadium Los Angeles",
@@ -337,7 +337,7 @@
         "a": "Downtown LA has excellent parking inventory — hundreds of garages within walking distance. Pre-booking is essential for Lakers playoffs and major concerts, but most regular season games have good availability."
       }
     ],
-    "meta_title": "Crypto.com Arena Parking — Lakers, Kings & Concert Parking | GetToTheGate",
+    "meta_title": "Crypto.com Arena Parking — Lakers, Kings & Concert Parking",
     "meta_description": "Find parking near Crypto.com Arena in LA for Lakers, Clippers, Kings games and concerts. Compare prices and book before you leave.",
     "stubhub_venue_id": "9022",
     "parkwhiz_search": "Crypto.com Arena Los Angeles",
@@ -386,7 +386,7 @@
         "a": "Garages near TD Garden run $25-50 for events. Book online — walk-up rates are significantly higher for Celtics and Bruins games."
       }
     ],
-    "meta_title": "TD Garden Parking — Celtics, Bruins & Concert Parking | GetToTheGate",
+    "meta_title": "TD Garden Parking — Celtics, Bruins & Concert Parking",
     "meta_description": "Find parking near TD Garden in Boston for Celtics, Bruins and concerts. Compare garage prices and book in advance.",
     "stubhub_venue_id": "9038",
     "parkwhiz_search": "TD Garden Boston",
@@ -434,7 +434,7 @@
         "a": "The Muni T Line stops right at the arena. East Bay fans can take the ferry directly to Chase Center on game nights. Both options are faster than driving on most game nights."
       }
     ],
-    "meta_title": "Chase Center Parking — Warriors Game Parking Tips | GetToTheGate",
+    "meta_title": "Chase Center Parking — Warriors Game Parking Tips",
     "meta_description": "Find parking near Chase Center in San Francisco for Warriors games and concerts. Compare nearby lots and book in advance.",
     "stubhub_venue_id": "9041",
     "parkwhiz_search": "Chase Center San Francisco",
@@ -483,7 +483,7 @@
         "a": "Private garages in Penn Quarter run $20-40 for events. Book online — DC garage prices fluctuate heavily based on event demand."
       }
     ],
-    "meta_title": "Capital One Arena Parking — Wizards, Capitals & Concerts | GetToTheGate",
+    "meta_title": "Capital One Arena Parking — Wizards, Capitals & Concerts",
     "meta_description": "Find parking near Capital One Arena in Washington DC. Compare garage prices for Wizards, Capitals and concerts.",
     "stubhub_venue_id": "9035",
     "parkwhiz_search": "Capital One Arena Washington DC",
@@ -532,7 +532,7 @@
         "a": "Yes — SEPTA's Broad Street Line runs to AT&T Station right next to the Sports Complex. It's a reliable option for avoiding South Philly traffic on game days."
       }
     ],
-    "meta_title": "Citizens Bank Park Parking — Phillies Game Parking | GetToTheGate",
+    "meta_title": "Citizens Bank Park Parking — Phillies Game Parking",
     "meta_description": "Find parking near Citizens Bank Park in Philadelphia. Compare lot prices and book in advance for Phillies games.",
     "stubhub_venue_id": "9040",
     "parkwhiz_search": "Citizens Bank Park Philadelphia",
@@ -581,7 +581,7 @@
         "a": "Private lots east of the Strip run $15-30 for events. Strip hotel garages charge $20-50+. Book online for the best available rates."
       }
     ],
-    "meta_title": "T-Mobile Arena Parking — Golden Knights, UFC & Concert Parking | GetToTheGate",
+    "meta_title": "T-Mobile Arena Parking — Golden Knights, UFC & Concert Parking",
     "meta_description": "Find parking near T-Mobile Arena in Las Vegas for Golden Knights games, UFC events, boxing and concerts.",
     "stubhub_venue_id": "9044",
     "parkwhiz_search": "T-Mobile Arena Las Vegas",
@@ -630,7 +630,7 @@
         "a": "Yes — the RTD light rail stops right at the arena. It's a convenient option from most Denver neighborhoods and avoids downtown parking entirely."
       }
     ],
-    "meta_title": "Ball Arena Parking — Nuggets, Avalanche & Concert Parking | GetToTheGate",
+    "meta_title": "Ball Arena Parking — Nuggets, Avalanche & Concert Parking",
     "meta_description": "Find parking near Ball Arena in Denver for Nuggets, Avalanche games and concerts. Compare nearby lots and book in advance.",
     "stubhub_venue_id": "9046",
     "parkwhiz_search": "Ball Arena Denver",
@@ -679,7 +679,7 @@
         "a": "Yes — CalTrain stops at 4th & King, 3 blocks away. Muni N and T lines also serve the area. Transit is the recommended option for most Giants fans."
       }
     ],
-    "meta_title": "Oracle Park Parking — Giants Game Parking Tips | GetToTheGate",
+    "meta_title": "Oracle Park Parking — Giants Game Parking Tips",
     "meta_description": "Find parking near Oracle Park in San Francisco for Giants games. Compare nearby lot prices and book in advance.",
     "stubhub_venue_id": "9042",
     "parkwhiz_search": "Oracle Park San Francisco",
@@ -728,7 +728,7 @@
         "a": "Yes — DART Green and Orange lines stop at Victory station right next to the arena. Good option from many Dallas neighborhoods."
       }
     ],
-    "meta_title": "American Airlines Center Parking — Mavs, Stars & Concert Parking | GetToTheGate",
+    "meta_title": "American Airlines Center Parking — Mavs, Stars & Concert Parking",
     "meta_description": "Find parking near American Airlines Center in Dallas for Mavericks, Stars games and concerts. Compare prices and book in advance.",
     "stubhub_venue_id": "9045",
     "parkwhiz_search": "American Airlines Center Dallas",
@@ -778,7 +778,7 @@
         "a": "Yes — Detroit's Midtown has more parking supply than most downtown arenas. Regular season games usually have good walk-up availability, but playoffs and major concerts book fast."
       }
     ],
-    "meta_title": "Little Caesars Arena Parking — Pistons, Red Wings & Concerts | GetToTheGate",
+    "meta_title": "Little Caesars Arena Parking — Pistons, Red Wings & Concerts",
     "meta_description": "Find parking near Little Caesars Arena in Detroit for Pistons, Red Wings games and concerts. Compare lot prices and book in advance.",
     "stubhub_venue_id": "9047",
     "parkwhiz_search": "Little Caesars Arena Detroit",
@@ -835,7 +835,7 @@
         "a": "75 minutes before first pitch for weekend games and big series. Lots on River Ave fill within an hour of the game. Weekday games have slightly better availability."
       }
     ],
-    "meta_title": "Yankee Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Yankee Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Yankee Stadium in the Bronx. Compare lot prices, get subway tips, and book before game day.",
     "stubhub_venue_id": "9018",
     "parkwhiz_search": "Yankee Stadium Bronx",
@@ -888,7 +888,7 @@
         "a": "Yes — Willets Point has private lots that undercut official Mets parking by $10-15. Walk is slightly longer but usually worth the savings for a full-season ticket holder."
       }
     ],
-    "meta_title": "Citi Field Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Citi Field Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Citi Field in Queens. Compare Mets lot prices vs private lots and book before game day.",
     "stubhub_venue_id": "9020",
     "parkwhiz_search": "Citi Field Flushing New York",
@@ -942,7 +942,7 @@
         "a": "The 2, 3, 4, 5, B, D, N, Q, and R lines all stop at Atlantic Terminal/Atlantic Ave-Barclays Ctr. Multiple options from any borough."
       }
     ],
-    "meta_title": "Barclays Center Parking — Nets, Islanders & Concert Parking | GetToTheGate",
+    "meta_title": "Barclays Center Parking — Nets, Islanders & Concert Parking",
     "meta_description": "Find parking near Barclays Center in Brooklyn for Nets, Islanders and concert events. Compare garage prices or use transit tips.",
     "stubhub_venue_id": "9037",
     "parkwhiz_search": "Barclays Center Brooklyn",
@@ -995,7 +995,7 @@
         "a": "Yes — the neighborhood around Nationals Park has solid private garage inventory on Half St SE and 1st St SE. Better rates and just as close as official stadium lots."
       }
     ],
-    "meta_title": "Nationals Park Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Nationals Park Parking — Best Lots, Prices & Tips",
     "meta_description": "Find parking near Nationals Park in Washington DC for Nationals games. Compare private lot prices and book before the game.",
     "stubhub_venue_id": "9036",
     "parkwhiz_search": "Nationals Park Washington DC",
@@ -1047,7 +1047,7 @@
         "a": "The lots are shared across the South Philly Sports Complex. Same general area, same parking inventory — just different entrances based on your event."
       }
     ],
-    "meta_title": "Wells Fargo Center Parking — 76ers, Flyers & Concert Parking | GetToTheGate",
+    "meta_title": "Wells Fargo Center Parking — 76ers, Flyers & Concert Parking",
     "meta_description": "Find parking near the Wells Fargo Center in Philadelphia for 76ers, Flyers and concerts. Compare lot prices and book in advance.",
     "stubhub_venue_id": "9039",
     "parkwhiz_search": "Wells Fargo Center Philadelphia",
@@ -1099,7 +1099,7 @@
         "a": "The Sox park has more parking supply and generally lower prices than Wrigley. The Bridgeport neighborhood has more surface lots and less parking competition than Wrigleyville."
       }
     ],
-    "meta_title": "Rate Field Parking — White Sox Game Parking | GetToTheGate",
+    "meta_title": "Rate Field Parking — White Sox Game Parking",
     "meta_description": "Find parking near Rate Field in Chicago for White Sox games. Compare lot prices and book before first pitch.",
     "stubhub_venue_id": "9031",
     "parkwhiz_search": "Rate Field Chicago",
@@ -1152,7 +1152,7 @@
         "a": "Yes — Link Light Rail stops at Stadium station steps from the 1st Ave S gate. Easy connection from SeaTac airport, Capitol Hill, and the University District."
       }
     ],
-    "meta_title": "T-Mobile Park Parking — Mariners Game Parking Tips | GetToTheGate",
+    "meta_title": "T-Mobile Park Parking — Mariners Game Parking Tips",
     "meta_description": "Find parking near T-Mobile Park in Seattle for Mariners games. Compare SoDo lot prices and book before the game.",
     "stubhub_venue_id": "9048",
     "parkwhiz_search": "T-Mobile Park Seattle",
@@ -1205,7 +1205,7 @@
         "a": "Seattle Center has solid garage inventory but it fills for playoff games and major concerts. Book at least 24 hours in advance for big events."
       }
     ],
-    "meta_title": "Climate Pledge Arena Parking — Kraken, Storm & Concert Parking | GetToTheGate",
+    "meta_title": "Climate Pledge Arena Parking — Kraken, Storm & Concert Parking",
     "meta_description": "Find parking near Climate Pledge Arena in Seattle for Kraken, Storm and concerts. Compare lot prices and book in advance.",
     "stubhub_venue_id": "9049",
     "parkwhiz_search": "Climate Pledge Arena Seattle",
@@ -1259,7 +1259,7 @@
         "a": "LoDo has above-average parking supply for an MLB ballpark. More options and generally better prices than downtown markets like Boston or San Francisco."
       }
     ],
-    "meta_title": "Coors Field Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Coors Field Parking — Best Lots, Prices & Tips",
     "meta_description": "Find parking near Coors Field in Denver for Rockies games. Compare LoDo lot prices and book before first pitch.",
     "stubhub_venue_id": "9050",
     "parkwhiz_search": "Coors Field Denver",
@@ -1312,7 +1312,7 @@
         "a": "Leave 90 minutes early from Atlanta. I-285 and I-75 near Cumberland can be brutal before evening games. The earlier you arrive, the cheaper and easier the parking."
       }
     ],
-    "meta_title": "Truist Park Parking — Braves Game Parking Tips | GetToTheGate",
+    "meta_title": "Truist Park Parking — Braves Game Parking Tips",
     "meta_description": "Find parking near Truist Park in Cumberland for Atlanta Braves games. Compare lot prices and book before first pitch.",
     "stubhub_venue_id": "9051",
     "parkwhiz_search": "Truist Park Atlanta Braves",
@@ -1360,7 +1360,7 @@
         "a": "Private garages near the arena run $15-35 for events. CNN Center and attached garages charge premium prices. Book online for Hawks playoffs and major concerts."
       }
     ],
-    "meta_title": "State Farm Arena Parking — Hawks & Concert Parking | GetToTheGate",
+    "meta_title": "State Farm Arena Parking — Hawks & Concert Parking",
     "meta_description": "Find parking near State Farm Arena in Atlanta for Hawks games and concerts. Compare garage prices and book in advance.",
     "stubhub_venue_id": "9052",
     "parkwhiz_search": "State Farm Arena Atlanta",
@@ -1413,7 +1413,7 @@
         "a": "75-90 minutes from most Miami locations. I-95 traffic heading into Little Havana in the evening can be slow. Earlier arrival also means cheaper and easier parking."
       }
     ],
-    "meta_title": "loanDepot park Parking — Marlins Game Parking Tips | GetToTheGate",
+    "meta_title": "loanDepot park Parking — Marlins Game Parking Tips",
     "meta_description": "Find parking near loanDepot park in Miami for Marlins games. Compare lot prices and book before game day.",
     "stubhub_venue_id": "9053",
     "parkwhiz_search": "loanDepot park Miami",
@@ -1461,7 +1461,7 @@
         "a": "Private garages near the arena run $20-40 for Heat games. Lots on NE 1st Ave are cheaper than waterfront options. Book online — Heat playoff inventory goes fast."
       }
     ],
-    "meta_title": "Kaseya Center Parking — Miami Heat & Concert Parking | GetToTheGate",
+    "meta_title": "Kaseya Center Parking — Miami Heat & Concert Parking",
     "meta_description": "Find parking near Kaseya Center in Miami for Heat games and concerts. Compare garage prices and book in advance.",
     "stubhub_venue_id": "9054",
     "parkwhiz_search": "Kaseya Center Miami",
@@ -1514,7 +1514,7 @@
         "a": "EaDo (East Downtown) surface lots east of the park are typically the cheapest — $10-15 with a 10-15 minute walk. Worth it for a day game or if you leave early."
       }
     ],
-    "meta_title": "Daikin Park Parking — Astros Game Parking Tips | GetToTheGate",
+    "meta_title": "Daikin Park Parking — Astros Game Parking Tips",
     "meta_description": "Find parking near Daikin Park in Houston for Astros games. Compare downtown lot prices and book before first pitch.",
     "stubhub_venue_id": "9055",
     "parkwhiz_search": "Daikin Park Houston",
@@ -1562,7 +1562,7 @@
         "a": "Yes — the two venues are about one block apart in downtown Houston. Same parking supply serves both, making it easy to catch doubleheader event nights."
       }
     ],
-    "meta_title": "Toyota Center Parking — Rockets & Concert Parking | GetToTheGate",
+    "meta_title": "Toyota Center Parking — Rockets & Concert Parking",
     "meta_description": "Find parking near Toyota Center in Houston for Rockets games and concerts. Compare downtown lot prices and book in advance.",
     "stubhub_venue_id": "9056",
     "parkwhiz_search": "Toyota Center Houston",
@@ -1614,7 +1614,7 @@
         "a": "The Arlington Entertainment District has more parking than almost any MLB market. Even walk-up usually finds something — but book online to guarantee a spot and save $10-15."
       }
     ],
-    "meta_title": "Globe Life Field Parking — Rangers Game Parking Tips | GetToTheGate",
+    "meta_title": "Globe Life Field Parking — Rangers Game Parking Tips",
     "meta_description": "Find parking near Globe Life Field in Arlington for Texas Rangers games. Compare lot prices and book before first pitch.",
     "stubhub_venue_id": "9057",
     "parkwhiz_search": "Globe Life Field Arlington Texas",
@@ -1667,7 +1667,7 @@
         "a": "Some downtown Phoenix garages offer covered parking — worth paying slightly more for shaded spots on 100°+ summer day games."
       }
     ],
-    "meta_title": "Chase Field Parking — Diamondbacks Game Parking Tips | GetToTheGate",
+    "meta_title": "Chase Field Parking — Diamondbacks Game Parking Tips",
     "meta_description": "Find parking near Chase Field in Phoenix for Diamondbacks games. Compare downtown lot prices and book before first pitch.",
     "stubhub_venue_id": "9058",
     "parkwhiz_search": "Chase Field Phoenix",
@@ -1716,7 +1716,7 @@
         "a": "Yes — they're one block apart in downtown Phoenix and share the same parking supply. Same lots, same light rail stop."
       }
     ],
-    "meta_title": "Footprint Center Parking — Suns, Mercury & Concert Parking | GetToTheGate",
+    "meta_title": "Footprint Center Parking — Suns, Mercury & Concert Parking",
     "meta_description": "Find parking near Footprint Center in Phoenix for Suns, Mercury and concerts. Compare lot prices and book in advance.",
     "stubhub_venue_id": "9059",
     "parkwhiz_search": "Footprint Center Phoenix",
@@ -1769,7 +1769,7 @@
         "a": "Traffic on the 5 near Anaheim ranges from manageable to brutal. Give yourself 90 minutes from LA, 45-60 from OC during weekday rush hour."
       }
     ],
-    "meta_title": "Angel Stadium Parking — Angels Game Parking Tips | GetToTheGate",
+    "meta_title": "Angel Stadium Parking — Angels Game Parking Tips",
     "meta_description": "Find parking near Angel Stadium in Anaheim for Angels games. Compare lot prices and book before first pitch.",
     "stubhub_venue_id": "9060",
     "parkwhiz_search": "Angel Stadium Anaheim",
@@ -1822,7 +1822,7 @@
         "a": "The Gaslamp has restaurants and bars close to the park but charges premium parking rates. Book a lot on Park Blvd or 10th Ave for better value."
       }
     ],
-    "meta_title": "Petco Park Parking — Padres Game Parking Tips | GetToTheGate",
+    "meta_title": "Petco Park Parking — Padres Game Parking Tips",
     "meta_description": "Find parking near Petco Park in San Diego for Padres games. Compare East Village lot prices and book before first pitch.",
     "stubhub_venue_id": "9061",
     "parkwhiz_search": "Petco Park San Diego",
@@ -1874,7 +1874,7 @@
         "a": "No rail service — Nashville relies almost entirely on driving. WeGo buses have limited routes. Rideshare drop-off on Commerce St is the best non-driving option."
       }
     ],
-    "meta_title": "Bridgestone Arena Parking — Predators & Nashville Concert Parking | GetToTheGate",
+    "meta_title": "Bridgestone Arena Parking — Predators & Nashville Concert Parking",
     "meta_description": "Find parking near Bridgestone Arena in Nashville for Predators games and concerts. Compare downtown lot prices and book in advance.",
     "stubhub_venue_id": "9062",
     "parkwhiz_search": "Bridgestone Arena Nashville",
@@ -1923,7 +1923,7 @@
         "a": "Private North Loop and Warehouse District lots run $15-30. Book online — ParkWhiz and SpotHero have excellent Minneapolis inventory near the stadium."
       }
     ],
-    "meta_title": "Target Field Parking — Twins Game Parking Tips | GetToTheGate",
+    "meta_title": "Target Field Parking — Twins Game Parking Tips",
     "meta_description": "Find parking near Target Field in Minneapolis for Twins games. Compare Warehouse District lot prices and book before first pitch.",
     "stubhub_venue_id": "9063",
     "parkwhiz_search": "Target Field Minneapolis",
@@ -1972,7 +1972,7 @@
         "a": "Private lots and garages run $15-30 for Timberwolves games. Book online — the shared inventory with Target Field means lots fill faster on busy event nights."
       }
     ],
-    "meta_title": "Target Center Parking — Timberwolves, Lynx & Concert Parking | GetToTheGate",
+    "meta_title": "Target Center Parking — Timberwolves, Lynx & Concert Parking",
     "meta_description": "Find parking near Target Center in Minneapolis for Timberwolves, Lynx and concerts. Compare lot prices and book in advance.",
     "stubhub_venue_id": "9064",
     "parkwhiz_search": "Target Center Minneapolis",
@@ -2020,7 +2020,7 @@
         "a": "Milwaukee County Transit buses serve downtown but there's no light rail. Most fans drive — the Deer District is designed around driving and has plenty of parking infrastructure."
       }
     ],
-    "meta_title": "Fiserv Forum Parking — Bucks & Concert Parking | GetToTheGate",
+    "meta_title": "Fiserv Forum Parking — Bucks & Concert Parking",
     "meta_description": "Find parking near Fiserv Forum in Milwaukee for Bucks games and concerts. Compare Deer District lot prices and book in advance.",
     "stubhub_venue_id": "9065",
     "parkwhiz_search": "Fiserv Forum Milwaukee",
@@ -2068,7 +2068,7 @@
         "a": "Yes — the Red Line stops at Cleveland Clinic Courts station adjacent to the arena. Good connections from University Circle and Shaker Heights."
       }
     ],
-    "meta_title": "Rocket Arena Parking — Cavaliers & Concert Parking | GetToTheGate",
+    "meta_title": "Rocket Arena Parking — Cavaliers & Concert Parking",
     "meta_description": "Find parking near Rocket Arena in Cleveland for Cavaliers games and concerts. Compare lot prices and book in advance.",
     "stubhub_venue_id": "9066",
     "parkwhiz_search": "Rocket Arena Cleveland",
@@ -2121,7 +2121,7 @@
         "a": "The North Shore has good parking supply for a riverfront stadium. Arrive 75 minutes early on weekends — lots fill as game time approaches."
       }
     ],
-    "meta_title": "PNC Park Parking — Pirates Game Parking Tips | GetToTheGate",
+    "meta_title": "PNC Park Parking — Pirates Game Parking Tips",
     "meta_description": "Find parking near PNC Park in Pittsburgh for Pirates games. Compare North Shore lot prices and book before first pitch.",
     "stubhub_venue_id": "9067",
     "parkwhiz_search": "PNC Park Pittsburgh",
@@ -2169,7 +2169,7 @@
         "a": "Yes — Indianapolis has abundant downtown parking supply and competitive garage rates. Walk-up availability is good for regular season games."
       }
     ],
-    "meta_title": "Gainbridge Fieldhouse Parking — Pacers & Concert Parking | GetToTheGate",
+    "meta_title": "Gainbridge Fieldhouse Parking — Pacers & Concert Parking",
     "meta_description": "Find parking near Gainbridge Fieldhouse in Indianapolis for Pacers games and concerts. Compare downtown garage prices.",
     "stubhub_venue_id": "9068",
     "parkwhiz_search": "Gainbridge Fieldhouse Indianapolis",
@@ -2217,7 +2217,7 @@
         "a": "Yes — CATS LYNX Blue Line connects from South End and Ballantyne to Uptown. Charlotte Transportation Center is a short walk from the arena."
       }
     ],
-    "meta_title": "Spectrum Center Parking — Hornets & Concert Parking | GetToTheGate",
+    "meta_title": "Spectrum Center Parking — Hornets & Concert Parking",
     "meta_description": "Find parking near Spectrum Center in Charlotte for Hornets games and concerts. Compare Uptown lot prices and book in advance.",
     "stubhub_venue_id": "9069",
     "parkwhiz_search": "Spectrum Center Charlotte",
@@ -2265,7 +2265,7 @@
         "a": "Yes — SunRail Church Street station is adjacent to the arena. Note that SunRail service hours may not cover late-ending events — check the schedule before you go."
       }
     ],
-    "meta_title": "Kia Center Parking — Magic & Orlando Concert Parking | GetToTheGate",
+    "meta_title": "Kia Center Parking — Magic & Orlando Concert Parking",
     "meta_description": "Find parking near Kia Center in Orlando for Magic games and concerts. Compare downtown garage prices and book in advance.",
     "stubhub_venue_id": "9070",
     "parkwhiz_search": "Kia Center Orlando",
@@ -2313,7 +2313,7 @@
         "a": "Yes — Sacramento RT stops at St. Rose of Lima/Convention Center station, adjacent to the arena. Good connections from the suburbs and Midtown."
       }
     ],
-    "meta_title": "Golden 1 Center Parking — Kings & Sacramento Concert Parking | GetToTheGate",
+    "meta_title": "Golden 1 Center Parking — Kings & Sacramento Concert Parking",
     "meta_description": "Find parking near Golden 1 Center in Sacramento for Kings games and concerts. Compare Doco lot prices and book in advance.",
     "stubhub_venue_id": "9071",
     "parkwhiz_search": "Golden 1 Center Sacramento",
@@ -2361,7 +2361,7 @@
         "a": "Yes — the Superdome campus area has enormous parking infrastructure. Even big Pelicans games usually have walk-up availability, though prices are better when booked online."
       }
     ],
-    "meta_title": "Smoothie King Center Parking — Pelicans & Concert Parking | GetToTheGate",
+    "meta_title": "Smoothie King Center Parking — Pelicans & Concert Parking",
     "meta_description": "Find parking near Smoothie King Center in New Orleans for Pelicans games and concerts. Compare CBD lot prices and book in advance.",
     "stubhub_venue_id": "9072",
     "parkwhiz_search": "Smoothie King Center New Orleans",
@@ -2413,7 +2413,7 @@
         "a": "No rail service — Sunrise is suburban Broward County. Most fans drive. Rideshare is a reasonable option if you want to skip parking entirely."
       }
     ],
-    "meta_title": "Amerant Bank Arena Parking — Panthers & Concert Parking | GetToTheGate",
+    "meta_title": "Amerant Bank Arena Parking — Panthers & Concert Parking",
     "meta_description": "Find parking near Amerant Bank Arena in Sunrise FL for Panthers games and concerts. Compare lot prices and book in advance.",
     "stubhub_venue_id": "9073",
     "parkwhiz_search": "Amerant Bank Arena Sunrise Florida",
@@ -2461,7 +2461,7 @@
         "a": "Yes — Oklahoma City has abundant downtown parking and low prices by NBA standards. Walk-up availability is good for regular season games."
       }
     ],
-    "meta_title": "Paycom Center Parking — Thunder & OKC Concert Parking | GetToTheGate",
+    "meta_title": "Paycom Center Parking — Thunder & OKC Concert Parking",
     "meta_description": "Find parking near Paycom Center in Oklahoma City for Thunder games and concerts. Compare downtown lot prices.",
     "stubhub_venue_id": "9074",
     "parkwhiz_search": "Paycom Center Oklahoma City",
@@ -2511,7 +2511,7 @@
         "a": "90 minutes early minimum — UT campus parking is genuinely difficult and Austin traffic around the university is intense on event nights."
       }
     ],
-    "meta_title": "Moody Center Parking — Austin Concert Parking Tips | GetToTheGate",
+    "meta_title": "Moody Center Parking — Austin Concert Parking Tips",
     "meta_description": "Find parking near Moody Center at UT Austin for concerts and events. Compare lot prices and book well in advance.",
     "stubhub_venue_id": "9075",
     "parkwhiz_search": "Moody Center Austin",
@@ -2557,7 +2557,7 @@
         "a": "Generally yes — the Cultural District has good lot supply. Rodeo and major sellout events are the exception. Book in advance for Stock Show & Rodeo dates."
       }
     ],
-    "meta_title": "Dickies Arena Parking — Fort Worth Concert & Rodeo Parking | GetToTheGate",
+    "meta_title": "Dickies Arena Parking — Fort Worth Concert & Rodeo Parking",
     "meta_description": "Find parking near Dickies Arena in Fort Worth for concerts, rodeo and events. Compare Cultural District lot prices and book in advance.",
     "stubhub_venue_id": "9076",
     "parkwhiz_search": "Dickies Arena Fort Worth",
@@ -2619,7 +2619,7 @@
         "a": "Yes — Detroit's downtown is one of the better urban baseball parking markets. Lots throughout Corktown and downtown offer solid inventory at competitive prices compared to other MLB cities."
       }
     ],
-    "meta_title": "Comerica Park Parking — Detroit Tigers Game Parking | GetToTheGate",
+    "meta_title": "Comerica Park Parking — Detroit Tigers Game Parking",
     "meta_description": "Find parking near Comerica Park in Detroit. Compare private lots in Corktown and downtown — book before the Tigers game.",
     "stubhub_venue_id": "9077",
     "parkwhiz_search": "Comerica Park Detroit",
@@ -2682,7 +2682,7 @@
         "a": "Metro Cincinnati bus routes serve downtown. If you're staying near the Banks or downtown, walking is the easiest option. The free downtown Cincinnati Connector trolley also runs nearby."
       }
     ],
-    "meta_title": "Great American Ball Park Parking — Reds Game Parking Tips | GetToTheGate",
+    "meta_title": "Great American Ball Park Parking — Reds Game Parking Tips",
     "meta_description": "Find parking near Great American Ball Park in Cincinnati. Kentucky lots in Covington are cheaper — book before they sell out.",
     "stubhub_venue_id": "9078",
     "parkwhiz_search": "Great American Ball Park Cincinnati",
@@ -2744,7 +2744,7 @@
         "a": "Yes — downtown St. Louis has a strong parking market with good supply. The Kiener East Garage and lots on Clark Ave provide solid options at most price points."
       }
     ],
-    "meta_title": "Busch Stadium Parking — Cardinals Game Parking St. Louis | GetToTheGate",
+    "meta_title": "Busch Stadium Parking — Cardinals Game Parking St. Louis",
     "meta_description": "Find parking near Busch Stadium in St. Louis. Kiener East Garage and downtown lots — compare prices and book before the Cardinals game.",
     "stubhub_venue_id": "9079",
     "parkwhiz_search": "Busch Stadium St. Louis",
@@ -2802,7 +2802,7 @@
         "a": "Yes — the RTA Red Line stops at Tower City/Public Square, about a 5-minute walk from the stadium. It's the easiest way to avoid downtown Cleveland traffic on game days."
       }
     ],
-    "meta_title": "Progressive Field Parking — Guardians Game Parking Cleveland | GetToTheGate",
+    "meta_title": "Progressive Field Parking — Guardians Game Parking Cleveland",
     "meta_description": "Find parking near Progressive Field in Cleveland. Gateway District lots shared with Rocket Mortgage FieldHouse — compare prices and book in advance.",
     "stubhub_venue_id": "9080",
     "parkwhiz_search": "Progressive Field Cleveland",
@@ -2859,7 +2859,7 @@
         "a": "60 minutes before most events is comfortable. For major sold-out concerts, arrive 75-90 minutes early to secure your spot and settle in before showtime."
       }
     ],
-    "meta_title": "BOK Center Parking — Tulsa Concert & Event Parking | GetToTheGate",
+    "meta_title": "BOK Center Parking — Tulsa Concert & Event Parking",
     "meta_description": "Find parking near BOK Center in Tulsa. Downtown lots on Denver Ave and Brady Arts District — compare prices and book online.",
     "stubhub_venue_id": "9081",
     "parkwhiz_search": "BOK Center Tulsa",
@@ -2916,7 +2916,7 @@
         "a": "60-75 minutes gives you time to park and settle in. The Kellogg Garage especially fills fast — if you didn't book online, arrive 90 minutes early to find alternatives."
       }
     ],
-    "meta_title": "Xcel Energy Center Parking — Wild Games & Concerts St. Paul | GetToTheGate",
+    "meta_title": "Xcel Energy Center Parking — Wild Games & Concerts St. Paul",
     "meta_description": "Find parking near Xcel Energy Center in St. Paul. Kellogg Garage and downtown lots — compare prices and book in advance for Wild games.",
     "stubhub_venue_id": "9082",
     "parkwhiz_search": "Xcel Energy Center St. Paul",
@@ -2974,7 +2974,7 @@
         "a": "60 minutes if taking transit. If driving, 75-90 minutes — downtown Toronto traffic is intense on game nights and garage spots fill fast."
       }
     ],
-    "meta_title": "Scotiabank Arena Parking — Leafs, Raptors & Toronto Concerts | GetToTheGate",
+    "meta_title": "Scotiabank Arena Parking — Leafs, Raptors & Toronto Concerts",
     "meta_description": "Find parking near Scotiabank Arena in Toronto. Bay St garages and Financial District options for Leafs, Raptors and concerts — book in advance.",
     "stubhub_venue_id": "9084",
     "parkwhiz_search": "Scotiabank Arena Toronto",
@@ -3031,7 +3031,7 @@
         "a": "60-75 minutes before puck drop. The Arena District is well-designed for events — parking is manageable but book online to avoid the higher walk-up rates."
       }
     ],
-    "meta_title": "Nationwide Arena Parking — Blue Jackets & Columbus Concert Parking | GetToTheGate",
+    "meta_title": "Nationwide Arena Parking — Blue Jackets & Columbus Concert Parking",
     "meta_description": "Find parking near Nationwide Arena in Columbus. Arena District lots on Nationwide Blvd — compare prices and book in advance.",
     "stubhub_venue_id": "9085",
     "parkwhiz_search": "Nationwide Arena Columbus",
@@ -3088,7 +3088,7 @@
         "a": "Yes — the Convention Center MetroLink station is a short walk from the arena. It's the same stop that serves Busch Stadium, making it easy for fans of both teams."
       }
     ],
-    "meta_title": "Enterprise Center Parking — Blues Games & St. Louis Concerts | GetToTheGate",
+    "meta_title": "Enterprise Center Parking — Blues Games & St. Louis Concerts",
     "meta_description": "Find parking near Enterprise Center in St. Louis. Downtown lots shared with Busch Stadium — compare prices and book in advance for Blues games.",
     "stubhub_venue_id": "9086",
     "parkwhiz_search": "Enterprise Center St. Louis",
@@ -3145,7 +3145,7 @@
         "a": "45-60 minutes before first pitch is comfortable for most games. Indianapolis has good downtown parking supply for minor league games."
       }
     ],
-    "meta_title": "Victory Field Parking — Indianapolis Indians Game Parking | GetToTheGate",
+    "meta_title": "Victory Field Parking — Indianapolis Indians Game Parking",
     "meta_description": "Find parking near Victory Field in Indianapolis. Downtown lots near Gainbridge Fieldhouse — compare prices for Indians games.",
     "stubhub_venue_id": "9087",
     "parkwhiz_search": "Victory Field Indianapolis",
@@ -3202,7 +3202,7 @@
         "a": "The Diamond is in the Scott's Addition neighborhood along the Broad Street Corridor — a rapidly developing area of Richmond with a growing restaurant and entertainment scene."
       }
     ],
-    "meta_title": "The Diamond Parking — Richmond Flying Squirrels Parking | GetToTheGate",
+    "meta_title": "The Diamond Parking — Richmond Flying Squirrels Parking",
     "meta_description": "Find parking near The Diamond in Richmond VA. New 2025 ballpark for the Flying Squirrels in Scott's Addition — compare lots and book online.",
     "stubhub_venue_id": "9088",
     "parkwhiz_search": "The Diamond Richmond VA",
@@ -3259,7 +3259,7 @@
         "a": "45-60 minutes before first pitch is comfortable. Downtown Buffalo has manageable parking supply for most games — fireworks and bobblehead nights fill up faster."
       }
     ],
-    "meta_title": "Sahlen Field Parking — Buffalo Bisons Game Parking | GetToTheGate",
+    "meta_title": "Sahlen Field Parking — Buffalo Bisons Game Parking",
     "meta_description": "Find parking near Sahlen Field in Buffalo. Washington St and Pearl St lots for Bisons games — compare prices and book online.",
     "stubhub_venue_id": "9089",
     "parkwhiz_search": "Sahlen Field Buffalo",
@@ -3313,7 +3313,7 @@
         "a": "60-75 minutes before curtain for weekend shows. The Loop gets congested on Friday and Saturday evenings — give yourself extra time if driving."
       }
     ],
-    "meta_title": "CIBC Theatre Chicago Parking — Broadway Show Parking in the Loop | GetToTheGate",
+    "meta_title": "CIBC Theatre Chicago Parking — Broadway Show Parking in the Loop",
     "meta_description": "Find parking near CIBC Theatre in Chicago's Loop Theater District. Compare garage prices and book before your Broadway show.",
     "stubhub_venue_id": "9090",
     "parkwhiz_search": "CIBC Theatre Chicago",
@@ -3366,7 +3366,7 @@
         "a": "60-75 minutes before curtain gives you time to park, walk, and get settled. Hollywood Blvd congestion is real on weekend evenings — leave a buffer."
       }
     ],
-    "meta_title": "Pantages Theatre Parking — Hollywood Broadway Show Parking | GetToTheGate",
+    "meta_title": "Pantages Theatre Parking — Hollywood Broadway Show Parking",
     "meta_description": "Find parking near Pantages Theatre in Hollywood. Compare lots on Hollywood Blvd and book before your Broadway show.",
     "stubhub_venue_id": "9091",
     "parkwhiz_search": "Pantages Theatre Hollywood",
@@ -3421,7 +3421,7 @@
         "a": "60-75 minutes before curtain. Foggy Bottom traffic and the garage entrance can back up before popular performances. The shuttle is faster than driving in most cases."
       }
     ],
-    "meta_title": "Kennedy Center Parking — DC Performing Arts Parking Guide | GetToTheGate",
+    "meta_title": "Kennedy Center Parking — DC Performing Arts Parking Guide",
     "meta_description": "Find parking near the Kennedy Center in Washington DC. Free Foggy Bottom shuttle or underground garage — plan your visit.",
     "stubhub_venue_id": "9092",
     "parkwhiz_search": "Kennedy Center Washington DC",
@@ -3475,7 +3475,7 @@
         "a": "60-75 minutes before curtain on weekends — Tremont St traffic and limited garage capacity mean you need extra buffer time on Friday and Saturday evenings."
       }
     ],
-    "meta_title": "Boch Center Wang Theatre Parking — Boston Broadway Parking | GetToTheGate",
+    "meta_title": "Boch Center Wang Theatre Parking — Boston Broadway Parking",
     "meta_description": "Find parking near Boch Center Wang Theatre in Boston's Theater District. Compare Tremont St garage prices and book before your show.",
     "stubhub_venue_id": "9093",
     "parkwhiz_search": "Boch Center Wang Theatre Boston",
@@ -3529,7 +3529,7 @@
         "a": "If taking BART, 45-60 minutes is comfortable. If driving, 75 minutes minimum — downtown SF parking takes time to find and the walk from Hayes Valley adds a few minutes."
       }
     ],
-    "meta_title": "Orpheum Theatre San Francisco Parking — Broadway Show Parking | GetToTheGate",
+    "meta_title": "Orpheum Theatre San Francisco Parking — Broadway Show Parking",
     "meta_description": "Find parking near the Orpheum Theatre in San Francisco. BART Civic Center is 2 blocks — compare Hayes Valley garage prices if driving.",
     "stubhub_venue_id": "9094",
     "parkwhiz_search": "Orpheum Theatre San Francisco",
@@ -3592,7 +3592,7 @@
         "a": "Private lots on Northside Dr and Martin Luther King Jr Dr are closest. Book months in advance for World Cup — this will be the highest-demand parking event at MBS in its history."
       }
     ],
-    "meta_title": "Mercedes-Benz Stadium Parking — Falcons, Atlanta United & World Cup 2026 | GetToTheGate",
+    "meta_title": "Mercedes-Benz Stadium Parking — Falcons, Atlanta United & World Cup 2026",
     "meta_description": "Find parking near Mercedes-Benz Stadium in Atlanta. Best lots for Falcons, Atlanta United and World Cup 2026 — book early.",
     "stubhub_venue_id": "9095",
     "parkwhiz_search": "Mercedes-Benz Stadium Atlanta",
@@ -3654,7 +3654,7 @@
         "a": "Lumen Field is a World Cup 2026 host — expect massive demand for all matches. Book parking months ahead, consider Link Light Rail from any station on the system, and arrive very early."
       }
     ],
-    "meta_title": "Lumen Field Parking — Seahawks, Sounders & World Cup 2026 Seattle | GetToTheGate",
+    "meta_title": "Lumen Field Parking — Seahawks, Sounders & World Cup 2026 Seattle",
     "meta_description": "Find parking near Lumen Field in Seattle. SoDo lots and Link Light Rail options for Seahawks, Sounders and World Cup 2026 — book in advance.",
     "stubhub_venue_id": "9096",
     "parkwhiz_search": "Lumen Field Seattle",
@@ -3717,7 +3717,7 @@
         "a": "Gillette's suburban location will make parking especially challenging for World Cup — the Route 1 corridor simply doesn't have urban-level parking density. MBTA commuter rail from Boston is strongly recommended for World Cup matches."
       }
     ],
-    "meta_title": "Gillette Stadium Parking — Patriots, Revolution & World Cup 2026 | GetToTheGate",
+    "meta_title": "Gillette Stadium Parking — Patriots, Revolution & World Cup 2026",
     "meta_description": "Find parking near Gillette Stadium in Foxborough MA. Patriot Place lots and Route 1 options for Patriots games and World Cup 2026 — book early.",
     "stubhub_venue_id": "9097",
     "parkwhiz_search": "Gillette Stadium Foxborough MA",
@@ -3775,7 +3775,7 @@
         "a": "75 minutes if driving — downtown Vancouver access roads back up on event days. If taking the SkyTrain, 45-60 minutes is comfortable."
       }
     ],
-    "meta_title": "BC Place Parking — Vancouver World Cup 2026, BC Lions & Whitecaps | GetToTheGate",
+    "meta_title": "BC Place Parking — Vancouver World Cup 2026, BC Lions & Whitecaps",
     "meta_description": "Find parking near BC Place in Vancouver. Yaletown parkades and SkyTrain options for World Cup 2026, BC Lions and Vancouver Whitecaps.",
     "stubhub_venue_id": "9098",
     "parkwhiz_search": "BC Place Vancouver",
@@ -3831,7 +3831,7 @@
         "a": "BMO Field is a World Cup 2026 host venue. Toronto's waterfront location means limited parking density — TTC streetcar or GO Train from Exhibition station is strongly recommended for World Cup matches."
       }
     ],
-    "meta_title": "BMO Field Parking — Toronto FC & World Cup 2026 Parking | GetToTheGate",
+    "meta_title": "BMO Field Parking — Toronto FC & World Cup 2026 Parking",
     "meta_description": "Find parking near BMO Field in Toronto for Toronto FC and World Cup 2026. Exhibition Place lots and Liberty Village options.",
     "stubhub_venue_id": "9099",
     "parkwhiz_search": "BMO Field Toronto",
@@ -3893,7 +3893,7 @@
         "a": "Soldier Field's lakefront location with limited road access will make World Cup parking challenging. CTA or Metra from downtown Chicago is the recommended approach for most fans."
       }
     ],
-    "meta_title": "Soldier Field Parking — Bears Games & World Cup 2026 Chicago | GetToTheGate",
+    "meta_title": "Soldier Field Parking — Bears Games & World Cup 2026 Chicago",
     "meta_description": "Find parking near Soldier Field in Chicago. Museum Campus garages and Grant Park lots for Bears games and World Cup 2026 — book early.",
     "stubhub_venue_id": "9100",
     "parkwhiz_search": "Soldier Field Chicago",
@@ -3952,7 +3952,7 @@
         "a": "If driving, 90-120 minutes is not excessive — Highland Ave backs up severely on sold-out nights. Park & Ride shuttle is the stress-free alternative and highly recommended for new visitors."
       }
     ],
-    "meta_title": "Hollywood Bowl Parking — Los Angeles Concert Parking Guide | GetToTheGate",
+    "meta_title": "Hollywood Bowl Parking — Los Angeles Concert Parking Guide",
     "meta_description": "Find parking near the Hollywood Bowl in Los Angeles. Compare Highland Ave private lots vs Park & Ride shuttle and book before they sell out.",
     "stubhub_venue_id": "9101",
     "parkwhiz_search": "Hollywood Bowl Los Angeles",
@@ -4010,7 +4010,7 @@
         "a": "On-site lots are walking distance. Makeshift roadside parking along Morrison Rd is a long walk on an unlit mountain road — not recommended, especially post-show."
       }
     ],
-    "meta_title": "Red Rocks Amphitheatre Parking — Morrison CO Concert Parking | GetToTheGate",
+    "meta_title": "Red Rocks Amphitheatre Parking — Morrison CO Concert Parking",
     "meta_description": "Find parking near Red Rocks Amphitheatre in Morrison CO. Official lots sell out fast — compare RTD shuttle options and book early.",
     "stubhub_venue_id": "9102",
     "parkwhiz_search": "Red Rocks Amphitheatre Morrison CO",
@@ -4064,7 +4064,7 @@
         "a": "60 minutes before is comfortable. The Flats access roads can back up on sold-out nights. Getting there early also means better lot choices."
       }
     ],
-    "meta_title": "Jacobs Pavilion Parking — Cleveland Waterfront Concert Parking | GetToTheGate",
+    "meta_title": "Jacobs Pavilion Parking — Cleveland Waterfront Concert Parking",
     "meta_description": "Find parking near Jacobs Pavilion in Cleveland's Flats. Waterfront private lots on Sycamore St — compare prices and book online.",
     "stubhub_venue_id": "9103",
     "parkwhiz_search": "Jacobs Pavilion Cleveland",
@@ -4118,7 +4118,7 @@
         "a": "75-90 minutes before showtime. The single access road to Northerly Island creates bottlenecks on sold-out nights. Getting there early also means you can enjoy the lakefront setting."
       }
     ],
-    "meta_title": "Huntington Bank Pavilion Parking — Chicago Northerly Island Concerts | GetToTheGate",
+    "meta_title": "Huntington Bank Pavilion Parking — Chicago Northerly Island Concerts",
     "meta_description": "Find parking near Huntington Bank Pavilion at Northerly Island in Chicago. Museum Campus lots and Grant Park garages — compare prices and book early.",
     "stubhub_venue_id": "9104",
     "parkwhiz_search": "Huntington Bank Pavilion Chicago",
@@ -4172,7 +4172,7 @@
         "a": "75 minutes before showtime. Kellogg Ave is the main access road and backs up significantly on sold-out summer nights. Arrive early to secure a lot spot and enjoy the riverfront setting."
       }
     ],
-    "meta_title": "Riverbend Music Center Parking — Cincinnati Concert Parking | GetToTheGate",
+    "meta_title": "Riverbend Music Center Parking — Cincinnati Concert Parking",
     "meta_description": "Find parking near Riverbend Music Center in Cincinnati. Compare lots along Kellogg Ave and book before your summer show.",
     "stubhub_venue_id": "9105",
     "parkwhiz_search": "Riverbend Music Center Cincinnati",
@@ -4235,7 +4235,7 @@
         "a": "A mix of downtown Knoxville lots (pedestrian bridge walk), The Strip corridor lots, and campus peripheral lots. Downtown is generally the best value. Campus permit lots are off-limits without pre-purchased permits."
       }
     ],
-    "meta_title": "Neyland Stadium Parking — Tennessee Volunteers Football Parking | GetToTheGate",
+    "meta_title": "Neyland Stadium Parking — Tennessee Volunteers Football Parking",
     "meta_description": "Find parking near Neyland Stadium in Knoxville. Park downtown and walk the pedestrian bridge — compare prices for Tennessee football.",
     "stubhub_venue_id": "9106",
     "parkwhiz_search": "Neyland Stadium Knoxville",
@@ -4298,7 +4298,7 @@
         "a": "Both the Los Angeles Rams and Los Angeles Chargers call SoFi Stadium home. It's one of the few stadiums in the NFL shared by two teams."
       }
     ],
-    "meta_title": "SoFi Stadium Parking — Rams & Chargers Game Day Parking Guide | GetToTheGate",
+    "meta_title": "SoFi Stadium Parking — Rams & Chargers Game Day Parking Guide",
     "meta_description": "Find parking near SoFi Stadium in Inglewood for Rams and Chargers games. Compare Hollywood Park lots vs private Inglewood options and book before you go.",
     "stubhub_venue_id": "355503",
     "parkwhiz_search": "SoFi Stadium Inglewood",
@@ -4361,7 +4361,7 @@
         "a": "90 minutes before events. The single road approach through Arroyo Seco creates a genuine bottleneck — there's no workaround. Early arrival and the Metro shuttle are the two best strategies."
       }
     ],
-    "meta_title": "Rose Bowl Parking — Pasadena Stadium Parking Guide | GetToTheGate",
+    "meta_title": "Rose Bowl Parking — Pasadena Stadium Parking Guide",
     "meta_description": "Find parking near the Rose Bowl in Pasadena for UCLA football, LA Galaxy, concerts, and Olympics 2028. Compare lots and book before the traffic hits.",
     "stubhub_venue_id": "9118",
     "parkwhiz_search": "Rose Bowl Pasadena",
@@ -4424,7 +4424,7 @@
         "a": "90 minutes before kickoff for Panthers games. Uptown Charlotte has limited road capacity and backs up quickly. The light rail is the fastest way in on sold-out days."
       }
     ],
-    "meta_title": "Bank of America Stadium Parking — Panthers & Charlotte FC Parking Guide | GetToTheGate",
+    "meta_title": "Bank of America Stadium Parking — Panthers & Charlotte FC Parking Guide",
     "meta_description": "Find parking near Bank of America Stadium in Charlotte. Compare Third Ward lots vs light rail for Panthers games and Charlotte FC matches.",
     "stubhub_venue_id": "3921",
     "parkwhiz_search": "Bank of America Stadium Charlotte",
@@ -4480,7 +4480,7 @@
         "a": "Yes — both venues share the Third Ward parking market. On rare nights when both have events, book early as lots fill faster."
       }
     ],
-    "meta_title": "Truist Field Parking — Charlotte Knights Game Parking Guide | GetToTheGate",
+    "meta_title": "Truist Field Parking — Charlotte Knights Game Parking Guide",
     "meta_description": "Find parking near Truist Field in Charlotte for Charlotte Knights games. Third Ward lots steps from the ballpark — compare prices and book online.",
     "stubhub_venue_id": "17234",
     "parkwhiz_search": "Truist Field Charlotte",
@@ -4534,7 +4534,7 @@
         "a": "90 minutes before showtime for major concerts. The suburban road approach backs up badly for sold-out shows and exit traffic can add 45-60 minutes after the show ends."
       }
     ],
-    "meta_title": "Truliant Amphitheater Parking — Charlotte Concert Parking Guide | GetToTheGate",
+    "meta_title": "Truliant Amphitheater Parking — Charlotte Concert Parking Guide",
     "meta_description": "Find parking near Truliant Amphitheater in Charlotte. Compare on-site lots and private options for concerts — book before the show.",
     "stubhub_venue_id": "12543",
     "parkwhiz_search": "Truliant Amphitheater Charlotte",
@@ -4588,7 +4588,7 @@
         "a": "Official lots near the stadium run $30-60 for NFL games. Third-party lots within a 10-15 minute walk typically range from $15-30. Booking online in advance can save 20-30% versus walk-up rates."
       }
     ],
-    "meta_title": "Acrisure Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Acrisure Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Acrisure Stadium. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Acrisure Stadium Pittsburgh",
@@ -4642,7 +4642,7 @@
         "a": "Official lots run $40-75 for Raiders games and major concerts. Third-party lots within walking distance range from $20-40. Many fans opt for rideshare from the Strip to avoid parking costs entirely."
       }
     ],
-    "meta_title": "Allegiant Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Allegiant Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Allegiant Stadium in Las Vegas. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Allegiant Stadium Las Vegas",
@@ -4696,7 +4696,7 @@
         "a": "Official lot parking ranges from $35-60 depending on the lot and game importance. Premium lots closest to the stadium command higher prices. Purchasing in advance online typically saves $5-15 versus game-day rates."
       }
     ],
-    "meta_title": "Arrowhead Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Arrowhead Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Arrowhead Stadium in Kansas City. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Arrowhead Stadium Kansas City",
@@ -4750,7 +4750,7 @@
         "a": "Official lot parking runs $30-75 for Cowboys games depending on lot proximity and game importance. Playoff and primetime games command premium prices. Third-party lots in the area typically range from $20-40."
       }
     ],
-    "meta_title": "AT&T Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "AT&T Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near AT&T Stadium in Arlington, TX. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "AT&T Stadium Arlington",
@@ -4804,7 +4804,7 @@
         "a": "Garage parking near the Superdome typically runs $25-60 for Saints games, with the attached Superdome Garage at the higher end. Surface lots a few blocks away can be more affordable at $15-30. Book in advance to secure better rates."
       }
     ],
-    "meta_title": "Caesars Superdome Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Caesars Superdome Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Caesars Superdome in New Orleans. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Caesars Superdome New Orleans",
@@ -4858,7 +4858,7 @@
         "a": "Official stadium lots run $35-65 for Broncos games. Private lots in the surrounding area range from $20-40. Many Denver fans find the RTD light rail (around $3-5 round trip) to be the best value option."
       }
     ],
-    "meta_title": "Empower Field at Mile High Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Empower Field at Mile High Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Empower Field at Mile High in Denver. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Empower Field at Mile High Denver",
@@ -4912,7 +4912,7 @@
         "a": "Official lots and riverfront parking typically run $25-50 for Jaguars games. Downtown Jacksonville garages 5-10 minutes away offer rates of $15-30. Book in advance online for the best prices and guaranteed spots."
       }
     ],
-    "meta_title": "EverBank Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "EverBank Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near EverBank Stadium in Jacksonville. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "EverBank Stadium Jacksonville",
@@ -4966,7 +4966,7 @@
         "a": "Garages near Ford Field typically run $20-50 for Lions games depending on proximity and game importance. The attached stadium garage commands premium prices at $40-60. Book in advance online to lock in better rates."
       }
     ],
-    "meta_title": "Ford Field Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Ford Field Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Ford Field in Detroit. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Ford Field Detroit",
@@ -5020,7 +5020,7 @@
         "a": "Official Bills lots typically run $30-50 per game. Private lots in the surrounding area range from $15-30. Book in advance through ParkWhiz or SpotHero for the best available rates and guaranteed spots."
       }
     ],
-    "meta_title": "Highmark Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Highmark Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Highmark Stadium in Orchard Park, NY. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Highmark Stadium Orchard Park",
@@ -5074,7 +5074,7 @@
         "a": "Official Lincoln Financial Field lots run $35-65 for Eagles games. The surrounding stadium complex lots average $30-50. Booking online in advance saves $10-15 versus walk-up prices on game day."
       }
     ],
-    "meta_title": "Lincoln Financial Field Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Lincoln Financial Field Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Lincoln Financial Field in Philadelphia. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Lincoln Financial Field Philadelphia",
@@ -5128,7 +5128,7 @@
         "a": "Parking near Lucas Oil Stadium ranges from $15-50 depending on proximity and event size. Colts game days see standard downtown rates of $20-40. Major events like the Super Bowl or Final Four command much higher prices."
       }
     ],
-    "meta_title": "Lucas Oil Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Lucas Oil Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Lucas Oil Stadium in Indianapolis. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Lucas Oil Stadium Indianapolis",
@@ -5183,7 +5183,7 @@
         "a": "Official Meadowlands lots range from $20-60 depending on proximity and event. Giants games, Jets games, and major concerts all command different pricing. Book in advance online for guaranteed spots at the best available rates."
       }
     ],
-    "meta_title": "MetLife Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "MetLife Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near MetLife Stadium in East Rutherford, NJ. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "MetLife Stadium East Rutherford",
@@ -5237,7 +5237,7 @@
         "a": "Official stadium lots typically run $25-45 for Titans games. East Nashville surface lots closer to the stadium average $20-35. Downtown Nashville garages paired with the pedestrian bridge walk can be cheaper and more enjoyable."
       }
     ],
-    "meta_title": "Nissan Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Nissan Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Nissan Stadium in Nashville. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Nissan Stadium Nashville",
@@ -5291,7 +5291,7 @@
         "a": "Official Commanders parking lots run $25-55 depending on proximity to the gates. Outer lots are more affordable. Book online in advance to secure your spot and avoid game-day walk-up prices."
       }
     ],
-    "meta_title": "Northwest Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Northwest Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Northwest Stadium in Landover, MD. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Northwest Stadium Landover",
@@ -5345,7 +5345,7 @@
         "a": "Official NRG Park lots run $25-55 for Texans games. Closer lots to the gates command premium prices. Book online in advance for the best available rates and to guarantee your spot."
       }
     ],
-    "meta_title": "NRG Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "NRG Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near NRG Stadium in Houston. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "NRG Stadium Houston",
@@ -5399,7 +5399,7 @@
         "a": "The Banks and riverside lots typically run $30-60 for Bengals games. Downtown Cincinnati garages average $20-40. Covington, Kentucky lots across the river can be $15-30 with a pleasant 10-minute bridge walk."
       }
     ],
-    "meta_title": "Paycor Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Paycor Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Paycor Stadium in Cincinnati. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Paycor Stadium Cincinnati",
@@ -5453,7 +5453,7 @@
         "a": "Official stadium lots typically run $25-50 for Buccaneers games. Private lots along Dale Mabry Hwy average $15-30. Book through parking apps in advance to secure preferred spots and save versus walk-up rates."
       }
     ],
-    "meta_title": "Raymond James Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Raymond James Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Raymond James Stadium in Tampa. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Raymond James Stadium Tampa",
@@ -5507,7 +5507,7 @@
         "a": "Stadium and surrounding lots typically run $15-35 depending on the event. San Diego FC games are popular and parking sells quickly. Book in advance online or take the trolley for the most convenient experience."
       }
     ],
-    "meta_title": "Snapdragon Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Snapdragon Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Snapdragon Stadium in San Diego. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Snapdragon Stadium San Diego",
@@ -5561,7 +5561,7 @@
         "a": "Downtown Minneapolis garages near the stadium range from $20-50 for Vikings games. Proximity and booking timing affect price significantly. Light rail transit is around $2.50 each way — often the best value for fans in the metro area."
       }
     ],
-    "meta_title": "US Bank Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "US Bank Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near US Bank Stadium in Minneapolis. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "US Bank Stadium Minneapolis",
@@ -5615,7 +5615,7 @@
         "a": "Parking near the arena ranges from $10-35 depending on proximity and event. Lightning playoff games command higher prices. Book in advance through parking apps to secure the best available spots."
       }
     ],
-    "meta_title": "Benchmark International Arena Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Benchmark International Arena Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Benchmark International Arena in Tampa. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Benchmark International Arena Tampa",
@@ -5669,7 +5669,7 @@
         "a": "Parking near Frost Bank Center typically runs $10-35 depending on proximity and event size. Spurs playoff games and concerts command higher prices. Book through parking apps in advance for the best available rates."
       }
     ],
-    "meta_title": "Frost Bank Center Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Frost Bank Center Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Frost Bank Center in San Antonio. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Frost Bank Center San Antonio",
@@ -5723,7 +5723,7 @@
         "a": "Parking in the Hollywood Park development typically runs $20-40 for Clippers games and events. Concerts and special events may command higher prices. Book in advance to secure your spot."
       }
     ],
-    "meta_title": "Intuit Dome Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Intuit Dome Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Intuit Dome in Inglewood, CA. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Intuit Dome Inglewood",
@@ -5777,7 +5777,7 @@
         "a": "Downtown Buffalo parking ranges from $10-30 for Sabres games depending on proximity and event. The attached arena garage runs $20-30. Winter events command a premium on closer spots — nobody wants to walk far in a Buffalo blizzard."
       }
     ],
-    "meta_title": "KeyBank Center Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "KeyBank Center Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near KeyBank Center in Buffalo. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "KeyBank Center Buffalo",
@@ -5831,7 +5831,7 @@
         "a": "Parking near KFC Yum Center typically runs $10-30 for sports events and concerts. Cardinals basketball games during NCAA Tournament season command the highest prices. Book online in advance for guaranteed spots."
       }
     ],
-    "meta_title": "KFC Yum Center Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "KFC Yum Center Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near KFC Yum Center in Louisville. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "KFC Yum Center Louisville",
@@ -5883,7 +5883,7 @@
         "a": "Surface lots around the Forum typically run $20-40 for concerts and events. High-demand shows can see lot prices jump to $50+. Booking through parking apps in advance often secures better rates."
       }
     ],
-    "meta_title": "Kia Forum Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Kia Forum Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Kia Forum in Inglewood, CA. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Kia Forum Inglewood",
@@ -5937,7 +5937,7 @@
         "a": "Rose Quarter parking ranges from $15-30 for Blazers games. Premium spots adjacent to the arena command higher prices. Most Portland fans use MAX light rail to avoid parking costs — it's one of the most transit-friendly arenas in the NBA."
       }
     ],
-    "meta_title": "Moda Center Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Moda Center Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Moda Center in Portland. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Moda Center Portland",
@@ -5991,7 +5991,7 @@
         "a": "Downtown Pittsburgh parking runs $15-40 for Penguins games depending on proximity. The attached arena garage commands premium rates. Book online in advance to secure better rates and avoid game-day walk-up pricing."
       }
     ],
-    "meta_title": "PPG Paints Arena Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "PPG Paints Arena Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near PPG Paints Arena in Pittsburgh. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "PPG Paints Arena Pittsburgh",
@@ -6045,7 +6045,7 @@
         "a": "Downtown Newark parking runs $10-30 for Devils games. The Prudential Center Garage costs $20-30. NJ Transit from New York Penn Station is an excellent value alternative at around $7-10 round trip."
       }
     ],
-    "meta_title": "Prudential Center Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Prudential Center Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Prudential Center in Newark, NJ. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Prudential Center Newark",
@@ -6099,7 +6099,7 @@
         "a": "Downtown Vancouver parking near Rogers Arena typically runs CAD $20-45 for Canucks games and major events. SkyTrain from most Vancouver neighborhoods costs a fraction of that and is faster than driving."
       }
     ],
-    "meta_title": "Rogers Arena Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Rogers Arena Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Rogers Arena in Vancouver, BC. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Rogers Arena Vancouver",
@@ -6153,7 +6153,7 @@
         "a": "Parking near Rogers Place runs CAD $15-40 depending on proximity and event. Oilers playoff games command higher prices and spots sell out quickly. Book in advance through parking apps for guaranteed spots."
       }
     ],
-    "meta_title": "Rogers Place Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Rogers Place Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Rogers Place in Edmonton, AB. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Rogers Place Edmonton",
@@ -6207,7 +6207,7 @@
         "a": "Parking near SAP Center runs $10-35 for Sharks games. The official event lot at the arena costs $20-35. Downtown San Jose garages offer more affordable options. Book online in advance for guaranteed spots."
       }
     ],
-    "meta_title": "SAP Center Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "SAP Center Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near SAP Center in San Jose. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "SAP Center San Jose",
@@ -6261,7 +6261,7 @@
         "a": "Stampede Park lots run CAD $15-30 for Flames games. Playoff games command higher prices and spots sell quickly. Downtown parkades offer alternatives at CAD $10-20. Book in advance for guaranteed parking."
       }
     ],
-    "meta_title": "Scotiabank Saddledome Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Scotiabank Saddledome Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Scotiabank Saddledome in Calgary, AB. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Scotiabank Saddledome Calgary",
@@ -6313,7 +6313,7 @@
         "a": "Downtown Kansas City parking near the arena runs $10-30 for most events. Major concerts and special events see higher demand. Book in advance online for the best available rates."
       }
     ],
-    "meta_title": "T-Mobile Center Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "T-Mobile Center Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near T-Mobile Center in Kansas City. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "T-Mobile Center Kansas City",
@@ -6367,7 +6367,7 @@
         "a": "Downtown Salt Lake City parking runs $10-30 for Jazz games depending on proximity. The attached arena lot is most convenient at $20-30. TRAX light rail from throughout the Salt Lake Valley is often the best value option."
       }
     ],
-    "meta_title": "Delta Center Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Delta Center Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Delta Center in Salt Lake City. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Delta Center Salt Lake City",
@@ -6421,7 +6421,7 @@
         "a": "South Loop and McCormick Place area parking runs $15-35 for events at Wintrust Arena. Major events and conventions at McCormick Place can push prices higher. Book online in advance for the best available rates."
       }
     ],
-    "meta_title": "Wintrust Arena Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Wintrust Arena Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Wintrust Arena in Chicago. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Wintrust Arena Chicago",
@@ -6475,7 +6475,7 @@
         "a": "Official Brewers parking lots run $20-35 per game. Private lots in the area are available for $10-25. Book online in advance to secure preferred spots, especially for popular matchups and weekend games."
       }
     ],
-    "meta_title": "American Family Field Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "American Family Field Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near American Family Field in Milwaukee. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "American Family Field Milwaukee",
@@ -6529,7 +6529,7 @@
         "a": "Parking near Camden Yards runs $15-35 for Orioles games. Official lots adjacent to the stadium are more expensive at $25-35. Downtown garages a short walk away offer better value at $10-20."
       }
     ],
-    "meta_title": "Camden Yards Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Camden Yards Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Camden Yards in Baltimore. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Camden Yards Baltimore",
@@ -6583,7 +6583,7 @@
         "a": "Official stadium lots run $15-30 for Royals games. Premium lots closer to the gates cost more. The large parking complex means you're rarely completely shut out, but popular games fill quickly."
       }
     ],
-    "meta_title": "Kauffman Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Kauffman Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Kauffman Stadium in Kansas City. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Kauffman Stadium Kansas City",
@@ -6637,7 +6637,7 @@
         "a": "Parking near Tropicana Field is generally affordable at $5-25 depending on proximity. Downtown St. Pete has some of baseball's most reasonably priced parking. Book in advance for playoff games and popular matchups."
       }
     ],
-    "meta_title": "Tropicana Field Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Tropicana Field Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Tropicana Field in St. Petersburg, FL. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Tropicana Field St. Petersburg",
@@ -6691,7 +6691,7 @@
         "a": "The few garages near Audi Field in the Navy Yard and Capitol Riverfront neighborhoods run $15-35 for DC United games. DC Metro is around $2-5 each way and is far more practical than driving."
       }
     ],
-    "meta_title": "Audi Field Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Audi Field Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Audi Field in Washington DC. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Audi Field Washington DC",
@@ -6745,7 +6745,7 @@
         "a": "Exposition Park and nearby USC area parking runs $15-30 for LA Galaxy games. Metro E Line at around $1.75 each way is usually the best value."
       }
     ],
-    "meta_title": "BMO Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "BMO Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near BMO Stadium in Los Angeles. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "BMO Stadium Los Angeles",
@@ -6799,7 +6799,7 @@
         "a": "Parking near Center Parc Stadium runs $10-25 for Atlanta United games. MARTA at $2.50 each way is the best value for most fans."
       }
     ],
-    "meta_title": "Center Parc Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Center Parc Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Center Parc Stadium in Atlanta. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Center Parc Stadium Atlanta",
@@ -6853,7 +6853,7 @@
         "a": "Downtown St. Louis parking near the stadium runs $10-30 for St. Louis City SC games. Popular rivalry games see higher demand. Book in advance online for the best available rates."
       }
     ],
-    "meta_title": "Energizer Park Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Energizer Park Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Energizer Park in St. Louis. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Energizer Park St. Louis",
@@ -6907,7 +6907,7 @@
         "a": "Parking near Geodis Park typically runs $15-35 for Nashville SC games. Sold-out matches command higher prices. Book online in advance to secure spots — Nashville SC games frequently sell out both tickets and parking."
       }
     ],
-    "meta_title": "Geodis Park Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Geodis Park Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Geodis Park in Nashville. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Geodis Park Nashville",
@@ -6961,7 +6961,7 @@
         "a": "Parking near Inter and Co Stadium runs $10-30 for Orlando City games. Downtown Orlando has a good supply of garages with competitive pricing. Book in advance for popular matchups."
       }
     ],
-    "meta_title": "Inter and Co Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Inter and Co Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Inter and Co Stadium in Orlando. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Inter and Co Stadium Orlando",
@@ -7015,7 +7015,7 @@
         "a": "Parking near Shell Energy Stadium runs $10-30 for Houston Dynamo games. Book in advance online for guaranteed spots at competitive rates."
       }
     ],
-    "meta_title": "Shell Energy Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Shell Energy Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Shell Energy Stadium in Houston. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Shell Energy Stadium Houston",
@@ -7069,7 +7069,7 @@
         "a": "Industrial area parking lots near the stadium run $10-25 for Red Bulls games. PATH train from NYC or Newark is around $2-4 round trip — far cheaper and more convenient than driving."
       }
     ],
-    "meta_title": "Sports Illustrated Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Sports Illustrated Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Sports Illustrated Stadium in Harrison, NJ. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Sports Illustrated Stadium Harrison",
@@ -7123,7 +7123,7 @@
         "a": "Parking near TQL Stadium runs $15-35 for FC Cincinnati games. Sold-out matches and US Open Cup games see the highest demand. Book through parking apps in advance — this is one of MLS's hottest tickets and parking sells fast."
       }
     ],
-    "meta_title": "TQL Stadium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "TQL Stadium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near TQL Stadium in Cincinnati. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "TQL Stadium Cincinnati",
@@ -7175,7 +7175,7 @@
         "a": "Midtown Houston parking runs $10-20 for concerts. Rideshare from the Galleria or downtown is often under $15 and avoids parking hassles entirely."
       }
     ],
-    "meta_title": "713 Music Hall Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "713 Music Hall Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near 713 Music Hall in Houston. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "713 Music Hall Houston",
@@ -7227,7 +7227,7 @@
         "a": "The few paid lots near Shaw run $15-25 for 9:30 Club shows. Metro at around $2.25-4.50 each way (depending on time) is by far the best option for attending shows at this iconic venue."
       }
     ],
-    "meta_title": "9:30 Club Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "9:30 Club Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near 9:30 Club in Washington DC. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "9:30 Club Washington DC",
@@ -7279,7 +7279,7 @@
         "a": "Parking near the amphitheater runs $10-25 for concerts. Downtown Richmond has a reasonable supply of affordable parking compared to larger cities."
       }
     ],
-    "meta_title": "Allianz Amphitheater at Riverfront Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Allianz Amphitheater at Riverfront Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Allianz Amphitheater at Riverfront in Richmond. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Allianz Amphitheater at Riverfront Richmond",
@@ -7331,7 +7331,7 @@
         "a": "Summerfest grounds and nearby lots run $15-30 for concerts. The biggest summer shows sell out parking. Book in advance through parking apps to guarantee your spot."
       }
     ],
-    "meta_title": "American Family Insurance Amphitheater Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "American Family Insurance Amphitheater Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near American Family Insurance Amphitheater in Milwaukee. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "American Family Insurance Amphitheater Milwaukee",
@@ -7383,7 +7383,7 @@
         "a": "Venue parking runs $20-35 for most concerts. Sold-out shows command higher prices. Book through venue parking in advance or plan to rideshare."
       }
     ],
-    "meta_title": "Ameris Bank Amphitheatre Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Ameris Bank Amphitheatre Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Ameris Bank Amphitheatre in Alpharetta, GA. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Ameris Bank Amphitheatre Alpharetta",
@@ -7435,7 +7435,7 @@
         "a": "Downtown Nashville parking runs $10-25 for Ascend Amphitheater concerts. The venue's central location means many fans walk from their hotel or from Lower Broadway bars, making parking optional for those staying downtown."
       }
     ],
-    "meta_title": "Ascend Amphitheater Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Ascend Amphitheater Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Ascend Amphitheater in Nashville. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Ascend Amphitheater Nashville",
@@ -7487,7 +7487,7 @@
         "a": "Upper West Side Manhattan parking garages near the Beacon run $30-60+ for events. NYC Subway at $2.90 per ride is the universally recommended option."
       }
     ],
-    "meta_title": "Beacon Theatre Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Beacon Theatre Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Beacon Theatre in New York City. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Beacon Theatre New York",
@@ -7539,7 +7539,7 @@
         "a": "SF garages near Civic Center run $20-45 for concerts. BART from San Francisco neighborhoods is $2-3 each way. Take transit."
       }
     ],
-    "meta_title": "Bill Graham Civic Auditorium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Bill Graham Civic Auditorium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Bill Graham Civic Auditorium in San Francisco. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Bill Graham Civic Auditorium San Francisco",
@@ -7591,7 +7591,7 @@
         "a": "Official venue parking runs $20-30 for concerts. Sold-out summer shows command higher prices. Book parking in advance when purchasing tickets."
       }
     ],
-    "meta_title": "Blossom Music Center Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Blossom Music Center Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Blossom Music Center in Cuyahoga Falls, OH. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Blossom Music Center Cuyahoga Falls",
@@ -7643,7 +7643,7 @@
         "a": "Downtown Greenville parking is very affordable at $5-15 for most events. Greenville is one of the more parking-friendly mid-size cities in the Southeast."
       }
     ],
-    "meta_title": "Bon Secours Wellness Arena Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Bon Secours Wellness Arena Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Bon Secours Wellness Arena in Greenville, SC. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Bon Secours Wellness Arena Greenville",
@@ -7695,7 +7695,7 @@
         "a": "Battery Atlanta parking typically runs $10-25 for Roxy concerts. Concurrent Braves games significantly increase parking demand and pricing. Check the Braves schedule when planning your concert visit."
       }
     ],
-    "meta_title": "Coca-Cola Roxy Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Coca-Cola Roxy Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Coca-Cola Roxy in Atlanta. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Coca-Cola Roxy Atlanta",
@@ -7747,7 +7747,7 @@
         "a": "On-site parking typically runs $20-35 for concerts. Sold-out summer shows command higher prices. Book parking when purchasing tickets."
       }
     ],
-    "meta_title": "Dos Equis Pavilion Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Dos Equis Pavilion Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Dos Equis Pavilion in Dallas. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Dos Equis Pavilion Dallas",
@@ -7799,7 +7799,7 @@
         "a": "On-site parking at Echostage typically runs $10-20 for events. Rideshare is popular and often comparably priced for groups."
       }
     ],
-    "meta_title": "Echostage Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Echostage Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Echostage in Washington DC. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Echostage Washington DC",
@@ -7851,7 +7851,7 @@
         "a": "Miami Beach parking garages run $10-25 for evening events. Parking rates vary significantly by location — garages a few blocks from the venue can be significantly cheaper."
       }
     ],
-    "meta_title": "Fillmore Miami Beach Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Fillmore Miami Beach Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Fillmore Miami Beach. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Fillmore Miami Beach",
@@ -7903,7 +7903,7 @@
         "a": "Downtown Spokane parking is very affordable at $5-15 for most events. Spokane's smaller size means parking is less stressful than in major coastal cities."
       }
     ],
-    "meta_title": "First Interstate Center for the Arts Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "First Interstate Center for the Arts Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near First Interstate Center for the Arts in Spokane. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "First Interstate Center for the Arts Spokane",
@@ -7955,7 +7955,7 @@
         "a": "Midtown Atlanta parking near the Fox Theatre runs $15-35 for shows. MARTA at $2.50 each way is by far the best value for most Atlanta metro area patrons."
       }
     ],
-    "meta_title": "Fox Theatre Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Fox Theatre Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Fox Theatre in Atlanta. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Fox Theatre Atlanta",
@@ -8007,7 +8007,7 @@
         "a": "Venue parking typically runs $20-30 for concerts. The most popular summer shows sell out parking. Book in advance through the venue or parking apps to guarantee your spot."
       }
     ],
-    "meta_title": "Long Beach Amphitheater Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Long Beach Amphitheater Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Long Beach Amphitheater in Long Beach, CA. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Long Beach Amphitheater Long Beach",
@@ -8059,7 +8059,7 @@
         "a": "Midtown Manhattan parking garages near Radio City run $40-80+ for events. NYC Subway at $2.90 per ride is the universally recommended option."
       }
     ],
-    "meta_title": "Radio City Music Hall Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Radio City Music Hall Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Radio City Music Hall in New York City. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Radio City Music Hall New York",
@@ -8111,7 +8111,7 @@
         "a": "Downtown Nashville parking runs $10-25 for Ryman shows. Many Ryman fans are already downtown Nashville and simply walk — making parking a non-issue."
       }
     ],
-    "meta_title": "Ryman Auditorium Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "Ryman Auditorium Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near Ryman Auditorium in Nashville. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Ryman Auditorium Nashville",
@@ -8163,7 +8163,7 @@
         "a": "The Wharf parking garages typically run $10-25 for events at The Anthem. Popular shows can fill the garage, so arriving early is recommended. DC Metro Waterfront Station is about $2.25 each way."
       }
     ],
-    "meta_title": "The Anthem Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "The Anthem Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near The Anthem in Washington DC. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "The Anthem Washington DC",
@@ -8215,7 +8215,7 @@
         "a": "SF garages near The Warfield run $20-40 for events. Given the neighborhood's security concerns, secure garages only — no street parking. BART Civic Center/UN Plaza at $2.70+ each way is by far the best option."
       }
     ],
-    "meta_title": "The Warfield Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "The Warfield Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near The Warfield in San Francisco. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "The Warfield San Francisco",
@@ -8267,7 +8267,7 @@
         "a": "Koreatown parking near The Wiltern runs $10-20 for concerts. The venue's location in a commercial neighborhood means more parking options at reasonable prices. Metro Purple Line is around $1.75 each way."
       }
     ],
-    "meta_title": "The Wiltern Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "The Wiltern Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near The Wiltern in Los Angeles. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "The Wiltern Los Angeles",
@@ -8319,7 +8319,7 @@
         "a": "Parking near White Oak Music Hall runs $10-20 for concerts. The venue's neighborhood location makes parking more affordable and available than downtown Houston venues. Rideshare is very popular given the venue's location."
       }
     ],
-    "meta_title": "White Oak Music Hall Parking — Best Lots, Prices & Tips | GetToTheGate",
+    "meta_title": "White Oak Music Hall Parking — Best Lots, Prices & Tips",
     "meta_description": "Find and reserve parking near White Oak Music Hall in Houston. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "White Oak Music Hall Houston",

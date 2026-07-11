@@ -1,7 +1,7 @@
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy | GetToTheGate',
+  title: 'Privacy Policy',
   description: 'Privacy Policy for GetToTheGate.com — how we collect, use, and protect your information.',
   alternates: {
     canonical: 'https://gettothegate.com/privacy/',

@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import { getAllVenues, getParkingMarketBadge } from '@/lib/venues'
 
 export const metadata: Metadata = {
-  title: 'Chicago Event Parking — Every Major Venue | GetToTheGate',
+  title: 'Chicago Event Parking — Every Major Venue',
   description: 'Find and book parking near every major Chicago venue. Wrigley Field, United Center, Guaranteed Rate Field, Soldier Field, CIBC Theatre and more. Compare prices and book before you go.',
   alternates: {
     canonical: 'https://gettothegate.com/cities/chicago-parking/',

@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import { getVenuesBySport, getParkingMarketBadge } from '@/lib/venues'
 
 export const metadata: Metadata = {
-  title: 'NHL Arena Parking — Every NHL Hockey Arena | GetToTheGate',
+  title: 'NHL Arena Parking — Every NHL Hockey Arena',
   description: 'Find and book parking near every NHL arena. Compare prices at TD Garden, United Center, Little Caesars Arena, Bridgestone Arena and more.',
   alternates: {
     canonical: 'https://gettothegate.com/parking/nhl/',

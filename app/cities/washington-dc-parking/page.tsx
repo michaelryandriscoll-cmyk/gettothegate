@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import { getAllVenues, getParkingMarketBadge } from '@/lib/venues'
 
 export const metadata: Metadata = {
-  title: 'Washington DC Event Parking — Every Major Venue | GetToTheGate',
+  title: 'Washington DC Event Parking — Every Major Venue',
   description: 'Find and book parking near every major Washington DC venue. Capital One Arena, Nationals Park, Kennedy Center and more. Compare prices and book before you go.',
   alternates: {
     canonical: 'https://gettothegate.com/cities/washington-dc-parking/',

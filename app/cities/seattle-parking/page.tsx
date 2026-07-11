@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import { getAllVenues, getParkingMarketBadge } from '@/lib/venues'
 
 export const metadata: Metadata = {
-  title: 'Seattle Event Parking — Every Major Venue | GetToTheGate',
+  title: 'Seattle Event Parking — Every Major Venue',
   description: 'Find and book parking near every major Seattle venue. T-Mobile Park, Lumen Field, Climate Pledge Arena and more. World Cup 2026 parking guide included.',
   alternates: {
     canonical: 'https://gettothegate.com/cities/seattle-parking/',

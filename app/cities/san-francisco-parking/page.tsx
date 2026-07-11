@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import { getAllVenues, getParkingMarketBadge } from '@/lib/venues'
 
 export const metadata: Metadata = {
-  title: 'San Francisco Event Parking — Every Major Venue | GetToTheGate',
+  title: 'San Francisco Event Parking — Every Major Venue',
   description: 'Find and book parking near every major San Francisco venue. Oracle Park, Chase Center, and more. Transit-first city — compare options before you go.',
   alternates: {
     canonical: 'https://gettothegate.com/cities/san-francisco-parking/',

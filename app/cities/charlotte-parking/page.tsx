@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import { getAllVenues, getParkingMarketBadge } from '@/lib/venues'
 
 export const metadata: Metadata = {
-  title: 'Charlotte Event Parking — Every Major Venue | GetToTheGate',
+  title: 'Charlotte Event Parking — Every Major Venue',
   description: 'Find and book parking near every major Charlotte venue. Bank of America Stadium, Spectrum Center, Truist Field, PNC Music Pavilion and more.',
   alternates: {
     canonical: 'https://gettothegate.com/cities/charlotte-parking/',

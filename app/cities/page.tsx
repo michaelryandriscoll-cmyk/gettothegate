@@ -1,7 +1,7 @@
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'City Parking Guides — Every Major US City | GetToTheGate',
+  title: 'City Parking Guides — Every Major US City',
   description: 'Parking guides for every major US city. Find the best lots, garages, and transit options near stadiums, arenas, and concert venues in Chicago, LA, New York, and more.',
   alternates: {
     canonical: 'https://gettothegate.com/cities/',

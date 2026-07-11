@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import { getVenuesBySport, getParkingMarketBadge } from '@/lib/venues'
 
 export const metadata: Metadata = {
-  title: 'LA Olympics 2028 Parking — Every Olympic Venue | GetToTheGate',
+  title: 'LA Olympics 2028 Parking — Every Olympic Venue',
   description: 'Find and book parking near every 2028 LA Olympics venue. SoFi Stadium, Rose Bowl, Crypto.com Arena, Dodger Stadium and more. Book early for the biggest sporting event in LA history.',
   alternates: {
     canonical: 'https://gettothegate.com/parking/olympics-2028/',

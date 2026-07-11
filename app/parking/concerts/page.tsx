@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import { getAllVenues, getParkingMarketBadge } from '@/lib/venues'
 
 export const metadata: Metadata = {
-  title: 'Concert Venue Parking — Amphitheaters & Concert Arenas | GetToTheGate',
+  title: 'Concert Venue Parking — Amphitheaters & Concert Arenas',
   description: 'Find and book parking near concert venues, amphitheaters, and arenas across the US. Hollywood Bowl, Red Rocks, PNC Music Pavilion and more.',
   alternates: {
     canonical: 'https://gettothegate.com/parking/concerts/',

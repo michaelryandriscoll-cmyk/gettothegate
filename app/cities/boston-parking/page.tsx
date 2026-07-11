@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import { getAllVenues, getParkingMarketBadge } from '@/lib/venues'
 
 export const metadata: Metadata = {
-  title: 'Boston Event Parking — Every Major Venue | GetToTheGate',
+  title: 'Boston Event Parking — Every Major Venue',
   description: 'Find and book parking near every major Boston venue. Fenway Park, TD Garden, Gillette Stadium and more. World Cup 2026 parking guide included.',
   alternates: {
     canonical: 'https://gettothegate.com/cities/boston-parking/',

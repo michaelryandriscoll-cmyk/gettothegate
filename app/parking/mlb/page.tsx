@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import { getVenuesBySport, getParkingMarketBadge } from '@/lib/venues'
 
 export const metadata: Metadata = {
-  title: 'MLB Stadium Parking — Every Major League Baseball Park | GetToTheGate',
+  title: 'MLB Stadium Parking — Every Major League Baseball Park',
   description: 'Find and book parking near every MLB stadium. Compare prices at Wrigley Field, Yankee Stadium, Fenway Park, Dodger Stadium and more. Book before you leave the house.',
   alternates: {
     canonical: 'https://gettothegate.com/parking/mlb/',

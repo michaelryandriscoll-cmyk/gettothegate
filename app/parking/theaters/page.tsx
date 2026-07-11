@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import { getVenuesByType, getParkingMarketBadge } from '@/lib/venues'
 
 export const metadata: Metadata = {
-  title: 'Theater & Broadway Parking — Performing Arts Venues | GetToTheGate',
+  title: 'Theater & Broadway Parking — Performing Arts Venues',
   description: 'Find and book parking near Broadway theaters and performing arts venues. CIBC Theatre Chicago, Pantages Hollywood, Kennedy Center DC and more.',
   alternates: {
     canonical: 'https://gettothegate.com/parking/theaters/',

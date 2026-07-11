@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import { getVenuesBySport, getParkingMarketBadge } from '@/lib/venues'
 
 export const metadata: Metadata = {
-  title: 'FIFA World Cup 2026 Parking — Every Host Stadium | GetToTheGate',
+  title: 'FIFA World Cup 2026 Parking — Every Host Stadium',
   description: 'Find and book parking near every FIFA World Cup 2026 host stadium. Mercedes-Benz Stadium Atlanta, Lumen Field Seattle, Soldier Field Chicago, Gillette Stadium Boston and more.',
   alternates: {
     canonical: 'https://gettothegate.com/parking/world-cup-2026/',

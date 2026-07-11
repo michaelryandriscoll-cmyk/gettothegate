@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import { getAllAirports, getParkingMarketBadge, formatPassengers } from '@/lib/airports'
 
 export const metadata: Metadata = {
-  title: 'Airport Parking Near Every Major US Airport | GetToTheGate',
+  title: 'Airport Parking Near Every Major US Airport',
   description: 'Find and reserve parking near 20 major US airports. Compare off-airport lots, economy garages, and terminal parking. Book before you leave the house.',
   alternates: {
     canonical: 'https://gettothegate.com/airports/',
