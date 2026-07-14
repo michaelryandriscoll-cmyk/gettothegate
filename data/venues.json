@@ -1077,7 +1077,7 @@
       "Fuller Park"
     ],
     "transit": "Red Line — Sox-35th stop is directly across from the main entrance. Fastest option on game nights.",
-    "parking_tips": "Rate Field has more parking options than Wrigley Field — lots along 35th St and Shields Ave are plentiful. The area south toward 37th St has cheaper private lots. Official White Sox lots are convenient but book early. Red Line transit is the quickest option from the Loop and North Side. Weekend afternoon games have the most parking competition.",
+    "parking_tips": "Rate Field (formerly Guaranteed Rate Field, and U.S. Cellular Field before that) has more parking options than Wrigley Field — lots along 35th St and Shields Ave are plentiful. The area south toward 37th St has cheaper private lots. Official White Sox lots are convenient but book early. Red Line transit is the quickest option from the Loop and North Side. Weekend afternoon games have the most parking competition.",
     "best_lots": "Private lots on Shields Ave and 33rd St offer best price-to-distance ratio.",
     "worst_lots": "Lots directly on 35th St immediately adjacent to the main gate charge the highest premiums.",
     "gates": [
@@ -1097,10 +1097,14 @@
       {
         "q": "How does parking at Rate Field compare to Wrigley?",
         "a": "The Sox park has more parking supply and generally lower prices than Wrigley. The Bridgeport neighborhood has more surface lots and less parking competition than Wrigleyville."
+      },
+      {
+        "q": "Is Rate Field the same as U.S. Cellular Field or Guaranteed Rate Field?",
+        "a": "Yes — Rate Field is the current name for the White Sox's home stadium, previously Guaranteed Rate Field (2016–2024) and U.S. Cellular Field (2003–2016). Same stadium, same parking lots, just a new name."
       }
     ],
     "meta_title": "Rate Field Parking — White Sox Game Parking",
-    "meta_description": "Find parking near Rate Field in Chicago for White Sox games. Compare lot prices and book before first pitch.",
+    "meta_description": "Find parking near Rate Field (formerly Guaranteed Rate Field, US Cellular Field) in Chicago for White Sox games. Compare prices, book before first pitch.",
     "stubhub_venue_id": "9031",
     "parkwhiz_search": "Rate Field Chicago",
     "ticketmaster_venue_id": "KovZpaFPJe"
@@ -1491,7 +1495,7 @@
       "EaDo"
     ],
     "transit": "METRORail — Convention District station is adjacent to the ballpark.",
-    "parking_tips": "Daikin Park sits in downtown Houston with an excellent concentration of private parking. The EaDo (East Downtown) neighborhood has grown significantly with new lots and garages. Crawford St and Texas Ave corridors have the densest parking supply. METRORail's Red Line connects from Main Street Square with easy access from Midtown and the Medical Center. Book online for Astros playoff games — downtown Houston inventory moves fast.",
+    "parking_tips": "Daikin Park (formerly Minute Maid Park) sits in downtown Houston with an excellent concentration of private parking. The EaDo (East Downtown) neighborhood has grown significantly with new lots and garages. Crawford St and Texas Ave corridors have the densest parking supply. METRORail's Red Line connects from Main Street Square with easy access from Midtown and the Medical Center. Book online for Astros playoff games — downtown Houston inventory moves fast.",
     "best_lots": "Private lots on Crawford St and Texas Ave offer best proximity. EaDo surface lots east of the park are cheaper.",
     "worst_lots": "Official Astros lots directly attached charge maximum prices.",
     "gates": [
@@ -1512,10 +1516,14 @@
       {
         "q": "What neighborhood has the cheapest parking for Astros games?",
         "a": "EaDo (East Downtown) surface lots east of the park are typically the cheapest — $10-15 with a 10-15 minute walk. Worth it for a day game or if you leave early."
+      },
+      {
+        "q": "Is Daikin Park the same as Minute Maid Park?",
+        "a": "Yes — Daikin Park is the current name for the Astros' home stadium, renamed from Minute Maid Park in 2025. It's the same stadium and same parking options, just a new name."
       }
     ],
     "meta_title": "Daikin Park Parking — Astros Game Parking Tips",
-    "meta_description": "Find parking near Daikin Park in Houston for Astros games. Compare downtown lot prices and book before first pitch.",
+    "meta_description": "Find parking near Daikin Park (formerly Minute Maid Park) in Houston for Astros games. Compare downtown lot prices and book before first pitch.",
     "stubhub_venue_id": "9055",
     "parkwhiz_search": "Daikin Park Houston",
     "ticketmaster_venue_id": "KovZpZAJJAtA"
@@ -2050,7 +2058,7 @@
       "Warehouse District"
     ],
     "transit": "RTA Red Line — Cleveland Clinic Courts station is adjacent. Best downtown transit option.",
-    "parking_tips": "Rocket Arena sits in the Gateway District with Progressive Field (Indians) nearby — solid parking supply for both venues. Private lots along Ontario St and Huron Rd offer good rates. The Warehouse District to the west has additional inventory. RTA Red Line from University Circle and Shaker Heights is reliable. Book online for Cavaliers playoff games.",
+    "parking_tips": "Rocket Arena (formerly Rocket Mortgage FieldHouse) sits in the Gateway District with Progressive Field (Indians) nearby — solid parking supply for both venues. Private lots along Ontario St and Huron Rd offer good rates. The Warehouse District to the west has additional inventory. RTA Red Line from University Circle and Shaker Heights is reliable. Book online for Cavaliers playoff games.",
     "best_lots": "Private lots on Ontario St and Huron Rd offer best proximity. Warehouse District lots are cheaper.",
     "worst_lots": "Lots directly adjacent to the arena charge maximum event premiums.",
     "gates": [
@@ -2066,10 +2074,14 @@
       {
         "q": "Can I take the RTA to Rocket Arena?",
         "a": "Yes — the Red Line stops at Cleveland Clinic Courts station adjacent to the arena. Good connections from University Circle and Shaker Heights."
+      },
+      {
+        "q": "Is Rocket Arena the same as Rocket Mortgage FieldHouse?",
+        "a": "Yes — Rocket Arena is the current name for the Cavaliers' home arena, renamed from Rocket Mortgage FieldHouse in 2025. Same building, same parking, just a new name."
       }
     ],
     "meta_title": "Rocket Arena Parking — Cavaliers & Concert Parking",
-    "meta_description": "Find parking near Rocket Arena in Cleveland for Cavaliers games and concerts. Compare lot prices and book in advance.",
+    "meta_description": "Find parking near Rocket Arena (formerly Rocket Mortgage FieldHouse) in Cleveland for Cavaliers games and concerts. Compare lot prices and book in advance.",
     "stubhub_venue_id": "9066",
     "parkwhiz_search": "Rocket Arena Cleveland",
     "ticketmaster_venue_id": "KovZpZAF7dtA"
@@ -4508,7 +4520,7 @@
       "Pavilion Area"
     ],
     "transit": "No direct transit. Truliant Amphitheater is suburban — driving or rideshare are the primary options.",
-    "parking_tips": "Truliant Amphitheater is a suburban amphitheater in north Charlotte with large on-site parking lots as the primary option. Official lots are well-organized but fill up fast for major shows. Private lots in the surrounding Pavilion Blvd area offer cheaper alternatives. Rideshare drop-off is popular and avoids parking entirely. For major national tours and sold-out shows, book parking in advance — the suburban single-road approach creates significant exit traffic after shows.",
+    "parking_tips": "Truliant Amphitheater (formerly PNC Music Pavilion) is a suburban amphitheater in north Charlotte with large on-site parking lots as the primary option. Official lots are well-organized but fill up fast for major shows. Private lots in the surrounding Pavilion Blvd area offer cheaper alternatives. Rideshare drop-off is popular and avoids parking entirely. For major national tours and sold-out shows, book parking in advance — the suburban single-road approach creates significant exit traffic after shows.",
     "best_lots": "Official Truliant Amphitheater lots are the most convenient and well-organized. Arrive early to get the closest spots.",
     "worst_lots": "Overflow lots furthest from the venue require a long walk and the worst exit traffic — not worth the savings.",
     "gates": [
@@ -4532,10 +4544,14 @@
       {
         "q": "How early should I arrive at Truliant Amphitheater?",
         "a": "90 minutes before showtime for major concerts. The suburban road approach backs up badly for sold-out shows and exit traffic can add 45-60 minutes after the show ends."
+      },
+      {
+        "q": "Is Truliant Amphitheater the same as PNC Music Pavilion?",
+        "a": "Yes — Truliant Amphitheater is the current name for this Charlotte-area amphitheater, renamed from PNC Music Pavilion in January 2026. Same venue and parking lots, just a new name."
       }
     ],
     "meta_title": "Truliant Amphitheater Parking — Charlotte Concert Parking Guide",
-    "meta_description": "Find parking near Truliant Amphitheater in Charlotte. Compare on-site lots and private options for concerts — book before the show.",
+    "meta_description": "Find parking near Truliant Amphitheater (formerly PNC Music Pavilion) in Charlotte. Compare lots and book before the show.",
     "stubhub_venue_id": "12543",
     "parkwhiz_search": "Truliant Amphitheater Charlotte",
     "ticketmaster_venue_id": "KovZpZAEkeJA"
@@ -6344,7 +6360,7 @@
       "Granary District"
     ],
     "transit": "UTA TRAX light rail has a stop at City Center Station right near Delta Center. FrontRunner commuter rail also connects to the TRAX system. Taking TRAX is highly recommended for Jazz games.",
-    "parking_tips": "Delta Center is in downtown Salt Lake City with TRAX light rail right at the door. Jazz games are popular in Utah and the arena stays busy year-round with concerts and events. Taking TRAX from anywhere in the Salt Lake Valley is easy and avoids downtown parking costs.",
+    "parking_tips": "Delta Center (formerly Vivint Arena) is in downtown Salt Lake City with TRAX light rail right at the door. Jazz games are popular in Utah and the arena stays busy year-round with concerts and events. Taking TRAX from anywhere in the Salt Lake Valley is easy and avoids downtown parking costs.",
     "best_lots": "Downtown Salt Lake City garages along West Temple and 200 West offer convenient parking. TRAX City Center Station is steps from the arena.",
     "worst_lots": "Avoid parking too far north of downtown near the Capitol Hill area on game nights — the walk back post-game can be long and the streets are not well-lit in all areas.",
     "gates": [],
@@ -6365,10 +6381,14 @@
       {
         "q": "How much does parking cost at Delta Center?",
         "a": "Downtown Salt Lake City parking runs $10-30 for Jazz games depending on proximity. The attached arena lot is most convenient at $20-30. TRAX light rail from throughout the Salt Lake Valley is often the best value option."
+      },
+      {
+        "q": "Is Delta Center the same as Vivint Arena?",
+        "a": "Yes — Delta Center is the current name for the Jazz's home arena, renamed from Vivint Arena in 2023. Same building, same parking, just a new (well, actually original) name."
       }
     ],
     "meta_title": "Delta Center Parking — Best Lots, Prices & Tips",
-    "meta_description": "Find and reserve parking near Delta Center in Salt Lake City. Compare prices on nearby lots, get insider tips on the best spots, and book before you go.",
+    "meta_description": "Find parking near Delta Center (formerly Vivint Arena) in Salt Lake City. Compare prices on nearby lots and book before you go.",
     "stubhub_venue_id": null,
     "parkwhiz_search": "Delta Center Salt Lake City",
     "ticketmaster_venue_id": "KovZpZAdEtkA"
